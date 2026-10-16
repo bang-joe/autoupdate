@@ -4,44 +4,38 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="y39mp1h6gngjmoj" tvg-name="Coquimbo Unido vs O.Higgins" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h5x0qdyj/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 06:30 WIB] Coquimbo Unido vs O.Higgins
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=c54d11648f7695b30f2490bc8aff1385&wsABSTime=1792228047
-
 #EXTINF:-1 tvg-id="l7oqdehg5wnzr51_srv1" tvg-name="Garudayaksa FC vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7ho791qdyj/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 15:30 WIB] Garudayaksa FC vs Arema FC (Server 1)
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehg5wnzr51_srv2" tvg-name="Garudayaksa FC vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7ho791qdyj/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 15:30 WIB] Garudayaksa FC vs Arema FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792184851-0-0-9bc22aa961c1f106f234ca32515def21
+https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792193583-0-0-13c19f5b45c64a2dfc50dc9938b3e996
 
 #EXTINF:-1 tvg-id="y0or5jh9xed9qwz" tvg-name="Bangladesh Police vs Arambagh KS" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjy3wql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 15:45 WIB] Bangladesh Police vs Arambagh KS
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=473e22f25b8304ad6727da9ffd7690c2&wsABSTime=1792228052
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=b3d134ad04f898a88a3808ba8d0b2ef4&wsABSTime=1792236783
 
 #EXTINF:-1 tvg-id="x7lm7phxg0djm2w" tvg-name="Abahani Limited vs Chattogram City FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4heweoq86p/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 15:45 WIB] Abahani Limited vs Chattogram City FC
-https://live1.quickscoreboardz.com/live/channel20.m3u8?wsSecret=a26774947d5450754e0224f4e6cc74de&wsABSTime=1792228053
+https://live1.quickscoreboardz.com/live/channel20.m3u8?wsSecret=87cbbb6e91ff0e88412fbd8170fac9a1&wsABSTime=1792236783
 
 #EXTINF:-1 tvg-id="n54qllh45xy3qvy" tvg-name="Rahmatgonj MFS vs Brothers Union" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghexe0moep/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 15:45 WIB] Rahmatgonj MFS vs Brothers Union
-https://live1.quickscoreboardz.com/live/channel21.m3u8?wsSecret=4525616dee536c462712b5e9103719cf&wsABSTime=1792228054
+https://live1.quickscoreboardz.com/live/channel21.m3u8?wsSecret=3f4c8aff7b3db1fe912f3e48443dcc22&wsABSTime=1792236783
 
 #EXTINF:-1 tvg-id="l7oqdehgzklzr51_srv1" tvg-name="Everton vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 18:30 WIB] Everton vs Chelsea (Server 1)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehgzklzr51_srv2" tvg-name="Everton vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 18:30 WIB] Everton vs Chelsea (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792184848-0-0-000461c01bbb1b6c1744d9732be0fc39
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792193581-0-0-a919adccf03adbc0dfd3e40d2eeca3fb
 
 #EXTINF:-1 tvg-id="l7oqdehgzklzr51_srv3" tvg-name="Everton vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 18:30 WIB] Everton vs Chelsea (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792184849-0-0-de2ceeaee66100d272ae2a1d5e24896a
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=9d29cbc44f9932f019f5eb6d2865e577&wsABSTime=1792236781
 
 #EXTINF:-1 tvg-id="l7oqdehgzklzr51_srv4" tvg-name="Everton vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 18:30 WIB] Everton vs Chelsea (Server 4)
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=aeb762d14f5435e7a9ebcae4c02c515d&wsABSTime=1792228049
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792193581-0-0-b56cb0f90ca9990affba94029a0c8114
 
 #EXTINF:-1 tvg-id="l7oqdehgzklzr51_srv5" tvg-name="Everton vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 18:30 WIB] Everton vs Chelsea (Server 5)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792184849-0-0-b7e1618720b13920927ad58873a9d5ef
-
-#EXTINF:-1 tvg-id="l7oqdehgzklzr51_srv6" tvg-name="Everton vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 18:30 WIB] Everton vs Chelsea (Server 6)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehgzklzr51_srv7" tvg-name="Everton vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 18:30 WIB] Everton vs Chelsea (Server 7)
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=3bd5e2312f856ad61b8e285a6f395702&wsABSTime=1792228049
+#EXTINF:-1 tvg-id="l7oqdehgzklzr51_srv6" tvg-name="Everton vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 18:30 WIB] Everton vs Chelsea (Server 6)
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=ee7a56e28d71d1ffaf3cb8ab5024faef&wsABSTime=1792236782
 
 #EXTINF:-1 tvg-id="4wyrn4h6jpxnq86" tvg-name="Napoli vs FK Bodo Glimt" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 02:00 WIB] Napoli vs FK Bodo Glimt
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792184850-0-0-12840e8881086cb6fc3866b425363c11
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792193582-0-0-5e4617fb76e0206673fbd77afb8c3075
