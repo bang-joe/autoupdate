@@ -74,15 +74,43 @@ class MatchScraper:
 
         return None, None
 
+    def resolve_active_domain(self, source: Dict) -> Optional[str]:
+        """
+        Dynamically discovers the current active domain by testing seed_url and following redirects.
+        Falls back to fallback_url or base_url if needed.
+        """
+        candidates = [source.get("seed_url"), source.get("fallback_url"), source.get("base_url")]
+        candidates = [c for c in candidates if c]
+
+        for url in candidates:
+            try:
+                r = self.session.get(url, timeout=6, allow_redirects=True)
+                if r.status_code == 200:
+                    # Extract active scheme + host
+                    from urllib.parse import urlparse
+                    parsed = urlparse(r.url)
+                    active_base = f"{parsed.scheme}://{parsed.netloc}"
+                    logger.info(f"[{source.get('name')}] Terhubung ke domain aktif: {active_base}")
+                    return active_base
+            except Exception as e:
+                logger.debug(f"Candidate {url} unreachable: {e}")
+
+        logger.warning(f"Semua domain untuk '{source.get('name')}' gagal diakses.")
+        return None
+
     def fetch_all_matches(self) -> List[Dict]:
         """
         Scrapes all raw football match cards across data source endpoints.
+        Automatically adapts if Xoilac rotates its domain name.
         """
         raw_items = []
         seen_fids = set()
 
         for source in DATA_SOURCES:
-            base_url = source["base_url"]
+            base_url = self.resolve_active_domain(source)
+            if not base_url:
+                continue
+
             source_headers = dict(self.session.headers)
             source_headers["Referer"] = base_url + "/"
 

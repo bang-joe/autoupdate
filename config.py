@@ -22,11 +22,13 @@ DEFAULT_HEADERS = {
     "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
-# Data source URLs (Primary & Mirror fallbacks)
+# Data source URLs with Dynamic Seed Domain Resolution and Mirror Fallbacks
+# When Xoilac/Vebo rotates domains, the seed URLs automatically redirect to the new active domain.
 DATA_SOURCES = [
     {
-        "name": "Vebo/Xoilac Primary",
-        "base_url": "https://vebozbr.cc",
+        "name": "Vebo/Xoilac Live Seed",
+        "seed_url": "https://vebo.live",
+        "fallback_url": "https://vebozbr.cc",
         "home_path": "/",
         "hot_path": "/sport/football/filter/hot",
         "live_path": "/sport/football/filter/live",
@@ -34,8 +36,19 @@ DATA_SOURCES = [
         "max_pages": 4
     },
     {
-        "name": "Xoilac Mirror",
-        "base_url": "https://vebotv.net",
+        "name": "Vebo TV Network Mirror",
+        "seed_url": "https://vebotv.net",
+        "fallback_url": "https://www.vebotv.net",
+        "home_path": "/",
+        "hot_path": "/sport/football/filter/hot",
+        "live_path": "/sport/football/filter/live",
+        "load_more_path": "/sport/football/load-more/home/page/{page}/per/50",
+        "max_pages": 3
+    },
+    {
+        "name": "Xoilac Fun/Club Seed",
+        "seed_url": "https://xoilac66.fun",
+        "fallback_url": "https://xoilac66.club",
         "home_path": "/",
         "hot_path": "/sport/football/filter/hot",
         "live_path": "/sport/football/filter/live",
