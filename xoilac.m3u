@@ -1,59 +1,69 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="pxwrxlhyw298ryk_srv1" tvg-name="SC Heerenveen vs Excelsior SBV" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9ygq82w/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Heerenveen vs Excelsior SBV (LIVE) (Server 1)
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhyw298ryk_srv2" tvg-name="SC Heerenveen vs Excelsior SBV" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9ygq82w/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Heerenveen vs Excelsior SBV (LIVE) (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001792174416-0-0-ced15eb32e49364616a9f3f9086ebf62
+
+########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="pxwrxlhyw298ryk_srv1" tvg-name="SC Heerenveen vs Excelsior SBV" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9ygq82w/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:00 WIB] SC Heerenveen vs Excelsior SBV (Server 1)
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhyw298ryk_srv2" tvg-name="SC Heerenveen vs Excelsior SBV" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9ygq82w/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:00 WIB] SC Heerenveen vs Excelsior SBV (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792160178-0-0-2857d2aae8027b2a7125de5d1541a52f
-
 #EXTINF:-1 tvg-id="pxwrxlhyo2loryk_srv1" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7henvqdyj/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:30 WIB] Eintracht Frankfurt vs FC Köln (Server 1)
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=d7e11d7aed3e5e35f15e09822ea07ac2&wsABSTime=1792203376
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=b18bbef646a422f32df6a4aa7e9cf17b&wsABSTime=1792217610
 
 #EXTINF:-1 tvg-id="pxwrxlhyo2loryk_srv2" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7henvqdyj/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:30 WIB] Eintracht Frankfurt vs FC Köln (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792160176-0-0-7df774c3160993513d754d9a8f2a1c38
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792174410-0-0-8c6c3d62dec87e5f19258df61f6a5c56
 
 #EXTINF:-1 tvg-id="pxwrxlhyo2loryk_srv3" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7henvqdyj/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:30 WIB] Eintracht Frankfurt vs FC Köln (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792160176-0-0-02616bd46f39bb73e9c51be53614b628
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792174411-0-0-a3ceda884d285d4abb6e525ab90a50c7
 
 #EXTINF:-1 tvg-id="pxwrxlhyo2loryk_srv4" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7henvqdyj/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:30 WIB] Eintracht Frankfurt vs FC Köln (Server 4)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhyo2loryk_srv5" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7henvqdyj/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:30 WIB] Eintracht Frankfurt vs FC Köln (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792174411-0-0-56e5bad664ce8c7eac0bc8a7d2ca1a06
 
 #EXTINF:-1 tvg-id="x7lm7phjdk62m2w_srv1" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:45 WIB] Frosinone vs Sassuolo (Server 1)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phjdk62m2w_srv2" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:45 WIB] Frosinone vs Sassuolo (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792160180-0-0-bedf3d2a8889b5cf6362b4b36bba0c7e
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792174411-0-0-2715199c7767ac5a748750a22769052b
 
 #EXTINF:-1 tvg-id="x7lm7phjdk62m2w_srv3" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:45 WIB] Frosinone vs Sassuolo (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792160180-0-0-885ff3373a3c25da55cc56928557fd37
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792174412-0-0-70f8488272620152a0303a7a53524709
 
 #EXTINF:-1 tvg-id="x7lm7phjdk62m2w_srv4" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:45 WIB] Frosinone vs Sassuolo (Server 4)
-https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=4279109f6977e82f9fa9872cd7f635e9&wsABSTime=1792203380
+https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=5710d9fa585fba9776805178f8e6a72d&wsABSTime=1792217612
+
+#EXTINF:-1 tvg-id="x7lm7phjdk62m2w_srv5" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:45 WIB] Frosinone vs Sassuolo (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792174412-0-0-bcdb8862fbbea4fd1e82981a68e5ec11
 
 #EXTINF:-1 tvg-id="4wyrn4h6143nq86_srv1" tvg-name="Le Mans vs Toulouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho4jm7vx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:45 WIB] Le Mans vs Toulouse FC (Server 1)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="4wyrn4h6143nq86_srv2" tvg-name="Le Mans vs Toulouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho4jm7vx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 01:45 WIB] Le Mans vs Toulouse FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792160181-0-0-9d078c92170a36e10a237655a0a77a61
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792174412-0-0-8d0e657a4c618adf93c9c0592a4f15e6
 
 #EXTINF:-1 tvg-id="vjxm8ghe6xj8r6o_srv1" tvg-name="Dep. La Coruna vs Levante" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 02:00 WIB] Dep. La Coruna vs Levante (Server 1)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8ghe6xj8r6o_srv2" tvg-name="Dep. La Coruna vs Levante" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 02:00 WIB] Dep. La Coruna vs Levante (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792160182-0-0-dec68a9704ebab3e640ee38ba122a207
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792174414-0-0-55037bbd679902a206819b0220522e6d
 
 #EXTINF:-1 tvg-id="vjxm8ghe6xj8r6o_srv3" tvg-name="Dep. La Coruna vs Levante" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 02:00 WIB] Dep. La Coruna vs Levante (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792160182-0-0-cbcdbbed30001950198f5bbc303bf013
+https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001792174414-0-0-3a311c7fc134b6bd64e8a1d56fce2eb1
 
 #EXTINF:-1 tvg-id="vjxm8ghe6xj8r6o_srv4" tvg-name="Dep. La Coruna vs Levante" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 02:00 WIB] Dep. La Coruna vs Levante (Server 4)
-https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=8c790192b2142215d6804a3516e92a59&wsABSTime=1792203383
+https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=9fb8b6374762ed36acbe7c98565dda74&wsABSTime=1792217614
 
-#EXTINF:-1 tvg-id="vjxm8ghe6xj8r6o_srv5" tvg-name="Dep. La Coruna vs Levante" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 02:00 WIB] Dep. La Coruna vs Levante (Server 5)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792160183-0-0-3528b463f0cd96df2a8fb48ed5f986f5
+#EXTINF:-1 tvg-id="y39mp1h6gngjmoj" tvg-name="Coquimbo Unido vs O.Higgins" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h5x0qdyj/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[17/10 06:30 WIB] Coquimbo Unido vs O.Higgins
+https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=d18f90ca9b2f794332aa14402d8bfd08&wsABSTime=1792217619
 
 #EXTINF:-1 tvg-id="jw2r09hkeykzrz8" tvg-name="Sabah FK vs Dortmund" tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkhddk0qg8n/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 23:45 WIB] Sabah FK vs Dortmund
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792160177-0-0-dbcdd64f13a343c79bc4df1ff2cb56bf
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792174415-0-0-b6f6d336f2d3d6e1fd3e7334cfd95c15
