@@ -1,45 +1,8 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="vjxm8gheo2jzr6o_srv1" tvg-name="NEC Nijmegen vs Fortuna Sittard" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4yzrepz/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",NEC Nijmegen vs Fortuna Sittard (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8gheo2jzr6o_srv2" tvg-name="NEC Nijmegen vs Fortuna Sittard" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4yzrepz/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",NEC Nijmegen vs Fortuna Sittard (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001792350268-0-0-a3c86af5776ef14410d5447df95cf572
-
-#EXTINF:-1 tvg-id="zp5rzghge2p7q82_srv1" tvg-name="Twente FC vs FC Utrecht" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpjvm7vx/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",Twente FC vs FC Utrecht (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghge2p7q82_srv2" tvg-name="Twente FC vs FC Utrecht" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpjvm7vx/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",Twente FC vs FC Utrecht (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001792350269-0-0-ae8cfa44efd5d664afe51367ef2dc2f0
-
-#EXTINF:-1 tvg-id="318q66hxdop9qo9_srv1" tvg-name="Juventus vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Juventus vs Lazio (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxdop9qo9_srv2" tvg-name="Juventus vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Juventus vs Lazio (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001792350262-0-0-102fd0239023710f2ab9b1a4c1dcf301
-
-#EXTINF:-1 tvg-id="l7oqdehgz0p5r51_srv1" tvg-name="Lyon vs OGC Nice" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lyon vs OGC Nice (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehgz0p5r51_srv2" tvg-name="Lyon vs OGC Nice" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lyon vs OGC Nice (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001792350264-0-0-d364a93b4028715d7130c8887749857c
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv1" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 1)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv2" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792350266-0-0-a4770ce80d46b7daec4fb8eb98481aca
-
-#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv3" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792350266-0-0-39e511ace16c1dbb4434735d0c09e3e1
-
-#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv4" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 4)
-https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=d68727f2c7ac4b7fd76acb5cdc913538&wsABSTime=1792393466
+#EXTINF:-1 tvg-id="pxwrxlhywg07ryk" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792358926-0-0-c7eeb3683061610914c2c9dace526656
