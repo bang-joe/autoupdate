@@ -4,150 +4,126 @@
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="23xmvkh6zgk3qg8_srv1" tvg-name="SC Cambuur vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghegzq82w/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Cambuur vs AZ Alkmaar (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
+#EXTINF:-1 tvg-id="1l4rjnhnyzy8m7v" tvg-name="Manila Digger FC vs Kasuka FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhz53yql07/image/small" group-title="LIVE | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Manila Digger FC vs Kasuka FC (LIVE)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh6zgk3qg8_srv2" tvg-name="SC Cambuur vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghegzq82w/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Cambuur vs AZ Alkmaar (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001792330817-0-0-049f41819594db563d47a4efbbb58dce
+#EXTINF:-1 tvg-id="23xmvkh6zgk3qg8" tvg-name="SC Cambuur vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghegzq82w/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Cambuur vs AZ Alkmaar (LIVE)
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001792342444-0-0-c5654aef51178b461c6b94f68cd5995c
 
-#EXTINF:-1 tvg-id="jw2r09hkdvwgrz8_srv1" tvg-name="Brighton vs Crystal Palace" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Brighton vs Crystal Palace (LIVE) (Server 1)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001792330800-0-0-275951bab3bdf6e568cef883c0896b98
+#EXTINF:-1 tvg-id="4wyrn4h6183vq86_srv1" tvg-name="Fiorentina vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Fiorentina vs Como (LIVE) (Server 1)
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hkdvwgrz8_srv2" tvg-name="Brighton vs Crystal Palace" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Brighton vs Crystal Palace (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001792330801-0-0-bfc04870af37e3fe807721ff5507edd0
+#EXTINF:-1 tvg-id="4wyrn4h6183vq86_srv2" tvg-name="Fiorentina vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Fiorentina vs Como (LIVE) (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001792342445-0-0-6604d7ca538e767f42059029cb91a027
 
-#EXTINF:-1 tvg-id="jw2r09hkdvwgrz8_srv3" tvg-name="Brighton vs Crystal Palace" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Brighton vs Crystal Palace (LIVE) (Server 3)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 tvg-id="318q66hxd4e3qo9_srv1" tvg-name="Angers vs Marseille" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergphjggr8k0/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Angers vs Marseille (LIVE) (Server 1)
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hkdvwgrz8_srv4" tvg-name="Brighton vs Crystal Palace" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Brighton vs Crystal Palace (LIVE) (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001792330802-0-0-c3844c0d971d3aa21e1b0af317f8b236
+#EXTINF:-1 tvg-id="318q66hxd4e3qo9_srv2" tvg-name="Angers vs Marseille" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergphjggr8k0/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Angers vs Marseille (LIVE) (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001792342448-0-0-c79fcad04a6700ec7570d52510603e15
 
-#EXTINF:-1 tvg-id="pxwrxlhywoz6ryk_srv1" tvg-name="Leeds United vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Leeds United vs Manchester United (LIVE) (Server 1)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792330802-0-0-af20a85b8bf73b92e254ae4dc3aca1d7
-
-#EXTINF:-1 tvg-id="pxwrxlhywoz6ryk_srv2" tvg-name="Leeds United vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Leeds United vs Manchester United (LIVE) (Server 2)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhywoz6ryk_srv3" tvg-name="Leeds United vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Leeds United vs Manchester United (LIVE) (Server 3)
+#EXTINF:-1 tvg-id="dj2ryohl3ko4q1z_srv1" tvg-name="AC Milan vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",AC Milan vs Atalanta (LIVE) (Server 1)
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhywoz6ryk_srv4" tvg-name="Leeds United vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Leeds United vs Manchester United (LIVE) (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001792330806-0-0-c6dff5265986879448c8b9b6244d6aa7
-
-#EXTINF:-1 tvg-id="dn1m1ghldz8lmoe_srv1" tvg-name="AFC Bournemouth vs Sunderland" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",AFC Bournemouth vs Sunderland (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghldz8lmoe_srv2" tvg-name="AFC Bournemouth vs Sunderland" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",AFC Bournemouth vs Sunderland (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001792330811-0-0-994849e68ebf679894cb40467436fb51
-
-#EXTINF:-1 tvg-id="dn1m1ghldz8lmoe_srv3" tvg-name="AFC Bournemouth vs Sunderland" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",AFC Bournemouth vs Sunderland (LIVE) (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792330812-0-0-ce6a1b3462f150e72f097bbca22908f5
-
-#EXTINF:-1 tvg-id="dn1m1ghldz8lmoe_srv4" tvg-name="AFC Bournemouth vs Sunderland" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",AFC Bournemouth vs Sunderland (LIVE) (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001792330814-0-0-58a3e6bcade15e466d39c682f21d92f1
+#EXTINF:-1 tvg-id="dj2ryohl3ko4q1z_srv2" tvg-name="AC Milan vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",AC Milan vs Atalanta (LIVE) (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001792342430-0-0-5001be50d73b3fdbe4a2f6c1795fef58
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="1l4rjnh90ezlm7v_srv1" tvg-name="Osasuna vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehkx5r510/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:00 WIB] Osasuna vs Racing Santander (Server 1)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh90ezlm7v_srv2" tvg-name="Osasuna vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehkx5r510/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:00 WIB] Osasuna vs Racing Santander (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792330816-0-0-4690a5a603e03c823fed3bf8e8929d14
-
-#EXTINF:-1 tvg-id="n54qllhnv101qvy_srv1" tvg-name="Borneo FC Samarinda vs Yangon United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg2jlr6od/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:00 WIB] Borneo FC Samarinda vs Yangon United (Server 1)
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhnv101qvy_srv2" tvg-name="Borneo FC Samarinda vs Yangon United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg2jlr6od/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:00 WIB] Borneo FC Samarinda vs Yangon United (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001792330816-0-0-a419fcec115a5fc4aa459d4e47f6c742
-
 #EXTINF:-1 tvg-id="8yomo4h1dl7pq0j" tvg-name="Persib Bandung vs Persik Kediri" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh4z7xr6od/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:00 WIB] Persib Bandung vs Persik Kediri
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=5f61b9a7eb8d1598ed9e97eb4bad1e11&wsABSTime=1792374016
-
-#EXTINF:-1 tvg-id="1l4rjnhnyzy8m7v" tvg-name="Manila Digger FC vs Kasuka FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhz53yql07/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:30 WIB] Manila Digger FC vs Kasuka FC
-https://live1.quickscoreboardz.com/live/channel38.m3u8?wsSecret=31557f53464776f023dd58cea746c2ca&wsABSTime=1792374016
-
-#EXTINF:-1 tvg-id="4wyrn4h6183vq86_srv1" tvg-name="Fiorentina vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:00 WIB] Fiorentina vs Como (Server 1)
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
-
-#EXTINF:-1 tvg-id="4wyrn4h6183vq86_srv2" tvg-name="Fiorentina vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:00 WIB] Fiorentina vs Como (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001792330818-0-0-5241fb8d395631e47fb28c6505968462
-
-#EXTINF:-1 tvg-id="318q66hxd4e3qo9_srv1" tvg-name="Angers vs Marseille" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergphjggr8k0/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:00 WIB] Angers vs Marseille (Server 1)
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxd4e3qo9_srv2" tvg-name="Angers vs Marseille" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergphjggr8k0/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:00 WIB] Angers vs Marseille (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792330818-0-0-0702e477a8c772a1b25b570ca550923e
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=062f1dfbd86c2ebd6d204d815ca18042&wsABSTime=1792385635
 
 #EXTINF:-1 tvg-id="8yomo4h1o5y6q0j_srv1" tvg-name="Bayer Leverkusen vs SC Freiburg" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:30 WIB] Bayer Leverkusen vs SC Freiburg (Server 1)
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1o5y6q0j_srv2" tvg-name="Bayer Leverkusen vs SC Freiburg" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:30 WIB] Bayer Leverkusen vs SC Freiburg (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792330819-0-0-ebcf42852564488fb05cd6d05c93eb1b
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792342449-0-0-ad04dd9d8a743ef0a9425420b085990b
 
 #EXTINF:-1 tvg-id="pxwrxlhyov91ryk_srv1" tvg-name="RC Celta vs Alavés" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zh90gql07/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 21:15 WIB] RC Celta vs Alavés (Server 1)
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhyov91ryk_srv2" tvg-name="RC Celta vs Alavés" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zh90gql07/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 21:15 WIB] RC Celta vs Alavés (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792330819-0-0-b4f0be7b62a5d68fcbb8750df3504a6f
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792342449-0-0-6da633286f73c62ff38b8ba2e7210fd0
 
 #EXTINF:-1 tvg-id="1l4rjnh9p3xzm7v_srv1" tvg-name="Groningen vs AFC Ajax" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phe0xm2wd/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 21:45 WIB] Groningen vs AFC Ajax (Server 1)
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh9p3xzm7v_srv2" tvg-name="Groningen vs AFC Ajax" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phe0xm2wd/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 21:45 WIB] Groningen vs AFC Ajax (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792330819-0-0-3a6de02cfa4a9192e0ae4f5b1da105cd
+https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792342450-0-0-76ef76d4d7baf272da1ed883a1ab1acf
 
 #EXTINF:-1 tvg-id="dj2ryohl3gowq1z_srv1" tvg-name="Paris FC vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9nvq82w/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:15 WIB] Paris FC vs Rennes (Server 1)
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="dj2ryohl3gowq1z_srv2" tvg-name="Paris FC vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9nvq82w/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:15 WIB] Paris FC vs Rennes (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792330820-0-0-b1136f77109c2cca984c5dcc96b1e11e
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792342432-0-0-ec60191947aa7eaed539905201e8a846
 
 #EXTINF:-1 tvg-id="dn1m1ghld3jdmoe_srv1" tvg-name="Le Havre FC vs AJ Auxerre" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:15 WIB] Le Havre FC vs AJ Auxerre (Server 1)
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-id="dn1m1ghld3jdmoe_srv2" tvg-name="Le Havre FC vs AJ Auxerre" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:15 WIB] Le Havre FC vs AJ Auxerre (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792330820-0-0-7604437932761cf814ac4fc353d3e7f2
+https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792342433-0-0-b8a79708acac4a454aa22b59f8f0832f
 
 #EXTINF:-1 tvg-id="jw2r09hkdjzzrz8_srv1" tvg-name="Lorient vs AS Monaco" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh5vvqg8n/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:15 WIB] Lorient vs AS Monaco (Server 1)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09hkdjzzrz8_srv2" tvg-name="Lorient vs AS Monaco" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh5vvqg8n/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:15 WIB] Lorient vs AS Monaco (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792330820-0-0-1c10ff453ec1e430c72b3b34ccd4c534
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792342433-0-0-f78ddd41de46ac0cf1b1480963ba0fe1
 
 #EXTINF:-1 tvg-id="1l4rjnh9p0eem7v_srv1" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] Nottingham Forest vs Arsenal (Server 1)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792330814-0-0-3b1a9934cee48e3010292343cbdb491e
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792342428-0-0-a01a6ee751be66b923efdc4b97b76600
 
 #EXTINF:-1 tvg-id="1l4rjnh9p0eem7v_srv2" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] Nottingham Forest vs Arsenal (Server 2)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh9p0eem7v_srv3" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] Nottingham Forest vs Arsenal (Server 3)
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=a56f25cf979ce2388d62453adc767f15&wsABSTime=1792374014
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=4ef668441d63222d212cd83abd11df9d&wsABSTime=1792385628
 
 #EXTINF:-1 tvg-id="1l4rjnh9p0eem7v_srv4" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] Nottingham Forest vs Arsenal (Server 4)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh9p0eem7v_srv5" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] Nottingham Forest vs Arsenal (Server 5)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792330815-0-0-90fcf4451b3feb327e39b8dc623d6a68
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792342428-0-0-f3de55eb8a2840772e2133c7c6027cde
 
 #EXTINF:-1 tvg-id="1l4rjnh9p0eem7v_srv6" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] Nottingham Forest vs Arsenal (Server 6)
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=955fc0110be596cad0b36c3c4663275f&wsABSTime=1792374015
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=d8167a032be2374768c8ba50f1be5a73&wsABSTime=1792385629
 
 #EXTINF:-1 tvg-id="1l4rjnh9p0eem7v_srv7" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] Nottingham Forest vs Arsenal (Server 7)
-https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=f38d6d0a1904338c49885007a3bcb9f0&wsABSTime=1792374015
+https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=de879c172ecefe98aa5e513c0c92056e&wsABSTime=1792385629
 
 #EXTINF:-1 tvg-id="x7lm7phje5x1m2w_srv1" tvg-name="B. Monchengladbach vs TSG Hoffenheim" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh9o4r1ge/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] B. Monchengladbach vs TSG Hoffenheim (Server 1)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phje5x1m2w_srv2" tvg-name="B. Monchengladbach vs TSG Hoffenheim" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh9o4r1ge/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] B. Monchengladbach vs TSG Hoffenheim (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792330820-0-0-7278574717d03893054582c179e8fb23
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792342434-0-0-4249ff5794ec70c29a97f9f13f20781d
 
-#EXTINF:-1 tvg-id="dj2ryohl3ko4q1z_srv1" tvg-name="AC Milan vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 23:00 WIB] AC Milan vs Atalanta (Server 1)
+#EXTINF:-1 tvg-id="23xmvkh6jxdwqg8_srv1" tvg-name="Malaga vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4eerepz/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 23:30 WIB] Malaga vs Real Sociedad (Server 1)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="23xmvkh6jxdwqg8_srv2" tvg-name="Malaga vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4eerepz/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 23:30 WIB] Malaga vs Real Sociedad (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792342450-0-0-b3284e1acb9a51c0f4fd09f13e655ede
+
+#EXTINF:-1 tvg-id="318q66hxdop9qo9_srv1" tvg-name="Juventus vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 01:45 WIB] Juventus vs Lazio (Server 1)
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryohl3ko4q1z_srv2" tvg-name="AC Milan vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 23:00 WIB] AC Milan vs Atalanta (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792330821-0-0-3ca64a4b232c859232690f59180eb466
+#EXTINF:-1 tvg-id="318q66hxdop9qo9_srv2" tvg-name="Juventus vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 01:45 WIB] Juventus vs Lazio (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792342431-0-0-578b05686bec8fc08565302ed54ad09c
 
-#EXTINF:-1 tvg-id="n54qllhnlvepqvy" tvg-name="AFC Bournemouth vs AC Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] AFC Bournemouth vs AC Milan
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792330817-0-0-3a3d8a2ba7cd686545f36bda8b89cf9f
+#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv1" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv2" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792342431-0-0-56beccc0e83114074bb2ef1a1510c107
+
+#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv3" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792342432-0-0-d92a9d225216a7e1315241e3e9da96d6
+
+#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv4" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 4)
+https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=ea58c61b193f0ecaea6c6c58492516ae&wsABSTime=1792385632
+
+#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v_srv5" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 02:00 WIB] Real Madrid vs Sevilla (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792342432-0-0-e61a85be379849c34cbc1faec0cbe28e
+
+#EXTINF:-1 tvg-id="965mkyhkjp49r1g" tvg-name="NK Publikum Celje vs Red Bull Salzburg" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdlwm0ve/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] NK Publikum Celje vs Red Bull Salzburg
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792342434-0-0-2a23f2253823a7fc16e092e94e564887
