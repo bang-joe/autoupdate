@@ -1,1 +1,44 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
+
+#EXTINF:-1 tvg-id="jw2r09hk89ydrz8_srv1" tvg-name="One Taguig vs Tainan Steel" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hj94nqo9j/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 15:00 WIB] One Taguig vs Tainan Steel (Server 1)
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hk89ydrz8_srv2" tvg-name="One Taguig vs Tainan Steel" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hj94nqo9j/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 15:00 WIB] One Taguig vs Tainan Steel (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001792301430-0-0-9ad1145f9b84882f9e38bde51fdd933f
+
+#EXTINF:-1 tvg-id="2y8m4zh5ky3yql0_srv1" tvg-name="Persebaya vs PSS Sleman" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh931jrepz/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 15:30 WIB] Persebaya vs PSS Sleman (Server 1)
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="2y8m4zh5ky3yql0_srv2" tvg-name="Persebaya vs PSS Sleman" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh931jrepz/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 15:30 WIB] Persebaya vs PSS Sleman (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792301431-0-0-170de99cf83b66eca337e5bf7aa8ad2a
+
+#EXTINF:-1 tvg-id="l7oqdehg7zj4r51" tvg-name="Sumsel United vs Persikad Depok" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhv5ngryk0/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 15:30 WIB] Sumsel United vs Persikad Depok
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=95c1ce156b9a53f22657c429faecf63a&wsABSTime=1792344631
+
+#EXTINF:-1 tvg-id="l7oqdehg72wkr51_srv1" tvg-name="Shan United vs Hang Yuan Football Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghep3jmoep/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 16:30 WIB] Shan United vs Hang Yuan Football Club (Server 1)
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-id="l7oqdehg72wkr51_srv2" tvg-name="Shan United vs Hang Yuan Football Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghep3jmoep/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 16:30 WIB] Shan United vs Hang Yuan Football Club (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792301431-0-0-011481efca44b07192f83eff93837f11
+
+#EXTINF:-1 tvg-id="l7oqdehgzn94r51_srv1" tvg-name="Udinese vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkgryk0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 17:30 WIB] Udinese vs Lecce (Server 1)
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=d3ba6f0f963931fa77f10bcf37e6ee73&wsABSTime=1792344629
+
+#EXTINF:-1 tvg-id="l7oqdehgzn94r51_srv2" tvg-name="Udinese vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkgryk0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 17:30 WIB] Udinese vs Lecce (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792301429-0-0-bcbadc7e15937030f40d78c01d9bbb3c
+
+#EXTINF:-1 tvg-id="l7oqdehgzn94r51_srv3" tvg-name="Udinese vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkgryk0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 17:30 WIB] Udinese vs Lecce (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792301429-0-0-f9a28b262f7f31009bfd9fd5aa709c3e
+
+#EXTINF:-1 tvg-id="l7oqdehgzn94r51_srv4" tvg-name="Udinese vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkgryk0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 17:30 WIB] Udinese vs Lecce (Server 4)
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="l7oqdehgzn94r51_srv5" tvg-name="Udinese vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkgryk0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 17:30 WIB] Udinese vs Lecce (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792301430-0-0-9581fadcee1900bba34bc02dc7562292
+
+#EXTINF:-1 tvg-id="zp5rzghgn828q82" tvg-name="Union SG vs Hapoel Beer Sheva" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg1lxryk0/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] Union SG vs Hapoel Beer Sheva
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792301430-0-0-68817a013f97ca3839e07452e3237cec
