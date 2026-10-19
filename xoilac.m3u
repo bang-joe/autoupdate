@@ -4,20 +4,23 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="ednm9wh5kk19ryo" tvg-name="Conaree United vs Old Road Jets" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghzx8vq82w/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 06:30 WIB] Conaree United vs Old Road Jets
-https://live1.quickscoreboardz.com/live/channel36.m3u8?wsSecret=c92e0c9bc87d3cf79ed0be98fa6c1240&wsABSTime=1792416714
+#EXTINF:-1 tvg-id="3glrw7h4w1zjqdy" tvg-name="Nongkrem SC vs Mawkhar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh10n0ryk0/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 16:00 WIB] Nongkrem SC vs Mawkhar SC
+https://live1.quickscoreboardz.com/live/channel28.m3u8?wsSecret=7207992b9ef00b1b52da0f58118f76de&wsABSTime=1792435692
 
-#EXTINF:-1 tvg-id="l7oqdehjn6n9r51" tvg-name="Mawtawar SC vs Nongrim Hills" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7ph9ep5m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 11:30 WIB] Mawtawar SC vs Nongrim Hills
-https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=0dd7acec99db03f65d2cb23b39c282ca&wsABSTime=1792416713
+#EXTINF:-1 tvg-id="vjxm8ghene62r6o" tvg-name="Mara Sugar FC vs Mombasa Elite" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhxl3nm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 18:00 WIB] Mara Sugar FC vs Mombasa Elite
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=acf4cd0a4dff9c197c82b6bf6c060355&wsABSTime=1792435695
+
+#EXTINF:-1 tvg-id="l5ergphko3pxr8k" tvg-name="Al-Fotuwa SC vs Al-Wahda Damascus" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohnd91q1zp/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 19:00 WIB] Al-Fotuwa SC vs Al-Wahda Damascus
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=4e048f112fd036282fd83e51e4801e97&wsABSTime=1792435696
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv1" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 1)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv2" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792373514-0-0-ca185cfad1040ef6e75e7466c1e73fef
+https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792392493-0-0-61888dcd597a5ee6670394a3e3789e00
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv3" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 3)
-https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=5ab2f90c2711a08c6ee76b7c05963ea1&wsABSTime=1792416714
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=e70f0cc18ccbecb33c730c762ec16e1b&wsABSTime=1792435694
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv4" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792373514-0-0-ef949dc9c65f5276ccbc475d21eec786
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792392494-0-0-6bdf92a81662031afbad1cca9d73f14b
