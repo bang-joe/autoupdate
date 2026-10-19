@@ -4,23 +4,62 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7h4w1zjqdy" tvg-name="Nongkrem SC vs Mawkhar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh10n0ryk0/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 16:00 WIB] Nongkrem SC vs Mawkhar SC
-https://live1.quickscoreboardz.com/live/channel28.m3u8?wsSecret=7207992b9ef00b1b52da0f58118f76de&wsABSTime=1792435692
-
-#EXTINF:-1 tvg-id="vjxm8ghene62r6o" tvg-name="Mara Sugar FC vs Mombasa Elite" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhxl3nm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 18:00 WIB] Mara Sugar FC vs Mombasa Elite
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=acf4cd0a4dff9c197c82b6bf6c060355&wsABSTime=1792435695
-
-#EXTINF:-1 tvg-id="l5ergphko3pxr8k" tvg-name="Al-Fotuwa SC vs Al-Wahda Damascus" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohnd91q1zp/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 19:00 WIB] Al-Fotuwa SC vs Al-Wahda Damascus
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=4e048f112fd036282fd83e51e4801e97&wsABSTime=1792435696
-
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv1" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 1)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv2" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792392493-0-0-61888dcd597a5ee6670394a3e3789e00
+https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792419025-0-0-0dda02b8502a37c00b32a067f6cf180c
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv3" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 3)
-https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=e70f0cc18ccbecb33c730c762ec16e1b&wsABSTime=1792435694
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=5831f064c20e42f40c57d37aca7aed86&wsABSTime=1792462225
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv4" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792392494-0-0-6bdf92a81662031afbad1cca9d73f14b
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792419025-0-0-510d1a7e410a72f0af4a3536be94e990
+
+#EXTINF:-1 tvg-id="n54qllhny2g6qvy_srv1" tvg-name="Parma vs Torino" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 01:45 WIB] Parma vs Torino (Server 1)
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhny2g6qvy_srv2" tvg-name="Parma vs Torino" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 01:45 WIB] Parma vs Torino (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792419026-0-0-3cefb3e5a175123971f00ff4f3d5edf1
+
+#EXTINF:-1 tvg-id="n54qllhny2g6qvy_srv3" tvg-name="Parma vs Torino" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 01:45 WIB] Parma vs Torino (Server 3)
+https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=c293b63f58eb79e1af7da11c126b56eb&wsABSTime=1792462226
+
+#EXTINF:-1 tvg-id="n54qllhny2g6qvy_srv4" tvg-name="Parma vs Torino" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 01:45 WIB] Parma vs Torino (Server 4)
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792419027-0-0-578956d536521ddac1f3d72f24e7af1a
+
+#EXTINF:-1 tvg-id="jw2r09hkdv1grz8_srv1" tvg-name="Tottenham vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Tottenham vs Coventry City (Server 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkdv1grz8_srv2" tvg-name="Tottenham vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Tottenham vs Coventry City (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792419028-0-0-f50476f3aea12e2fc0716a62183d076a
+
+#EXTINF:-1 tvg-id="jw2r09hkdv1grz8_srv3" tvg-name="Tottenham vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Tottenham vs Coventry City (Server 3)
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=22991d6919e0841dc6768cf077bc3658&wsABSTime=1792462228
+
+#EXTINF:-1 tvg-id="jw2r09hkdv1grz8_srv4" tvg-name="Tottenham vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Tottenham vs Coventry City (Server 4)
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792419028-0-0-2edb832d021fad276635916dc3b6de53
+
+#EXTINF:-1 tvg-id="jw2r09hkdv1grz8_srv5" tvg-name="Tottenham vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Tottenham vs Coventry City (Server 5)
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkdv1grz8_srv6" tvg-name="Tottenham vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Tottenham vs Coventry City (Server 6)
+https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=38b6fcbca6f555408bd4fd4a78d0cbcc&wsABSTime=1792462229
+
+#EXTINF:-1 tvg-id="y0or5jh8k1e1qwz_srv1" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehz33r510/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Getafe vs Rayo Vallecano (Server 1)
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=add682db008a48847652d8a6f810564c&wsABSTime=1792462230
+
+#EXTINF:-1 tvg-id="y0or5jh8k1e1qwz_srv2" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehz33r510/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Getafe vs Rayo Vallecano (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792419030-0-0-8b0fbc374819656190582f1b9d902b21
+
+#EXTINF:-1 tvg-id="y0or5jh8k1e1qwz_srv3" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehz33r510/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Getafe vs Rayo Vallecano (Server 3)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8k1e1qwz_srv4" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehz33r510/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] Getafe vs Rayo Vallecano (Server 4)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792419030-0-0-ce3ca4fbd947e3c23f29688560db3dac
+
+#EXTINF:-1 tvg-id="ednm9whwyvv4ryo_srv1" tvg-name="Sporting Braga vs Gil Vicente" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoojr6od/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:15 WIB] Sporting Braga vs Gil Vicente (Server 1)
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-id="ednm9whwyvv4ryo_srv2" tvg-name="Sporting Braga vs Gil Vicente" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoojr6od/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:15 WIB] Sporting Braga vs Gil Vicente (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-23.m3u8?auth_key=3000001792419031-0-0-b68def39fec9fc7a5fc0228cb4a50495
