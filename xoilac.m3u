@@ -5,10 +5,19 @@
 ########################################################
 
 #EXTINF:-1 tvg-id="ednm9wh5kk19ryo" tvg-name="Conaree United vs Old Road Jets" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghzx8vq82w/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 06:30 WIB] Conaree United vs Old Road Jets
-https://live1.quickscoreboardz.com/live/channel36.m3u8?wsSecret=b67d9cb1e95dab07f594dbaefe8bda02&wsABSTime=1792409386
+https://live1.quickscoreboardz.com/live/channel36.m3u8?wsSecret=c92e0c9bc87d3cf79ed0be98fa6c1240&wsABSTime=1792416714
 
 #EXTINF:-1 tvg-id="l7oqdehjn6n9r51" tvg-name="Mawtawar SC vs Nongrim Hills" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7ph9ep5m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 11:30 WIB] Mawtawar SC vs Nongrim Hills
-https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=faf35c1d343c97d3fbda8db72f0f87ec&wsABSTime=1792409387
+https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=0dd7acec99db03f65d2cb23b39c282ca&wsABSTime=1792416713
 
-#EXTINF:-1 tvg-id="pxwrxlhywg07ryk" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792366185-0-0-21af734ee0645126442efaa72cbdcab2
+#EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv1" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv2" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792373514-0-0-ca185cfad1040ef6e75e7466c1e73fef
+
+#EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv3" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 3)
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=5ab2f90c2711a08c6ee76b7c05963ea1&wsABSTime=1792416714
+
+#EXTINF:-1 tvg-id="pxwrxlhywg07ryk_srv4" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] Monza vs Cagliari (Server 4)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792373514-0-0-ef949dc9c65f5276ccbc475d21eec786
