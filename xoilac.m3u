@@ -1,72 +1,50 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="x7lm7phj4865m2w_srv1" tvg-name="FC Goa vs Al Qadisiya SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh7289q82w/image/small" group-title="LIVE | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Goa vs Al Qadisiya SC (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel9.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phj4865m2w_srv2" tvg-name="FC Goa vs Al Qadisiya SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh7289q82w/image/small" group-title="LIVE | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Goa vs Al Qadisiya SC (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001792780401-0-0-17b669b8437e8cb78503c3110768007a
-
-#EXTINF:-1 tvg-id="4jwq2ghnd0xxm0v_srv1" tvg-name="Go Ahead Eagles vs SC Telstar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho5nmd7o/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",Go Ahead Eagles vs SC Telstar (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghnd0xxm0v_srv2" tvg-name="Go Ahead Eagles vs SC Telstar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho5nmd7o/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",Go Ahead Eagles vs SC Telstar (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001792780405-0-0-e50498b230d2fc6c11e8ffb01047facc
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="pxwrxlhyo2ndryk_srv1" tvg-name="VfB Stuttgart vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 01:30 WIB] VfB Stuttgart vs B. Monchengladbach (Server 1)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhyo2ndryk_srv2" tvg-name="VfB Stuttgart vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 01:30 WIB] VfB Stuttgart vs B. Monchengladbach (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792780396-0-0-c724f30f91f3b7daf7195000084728d7
-
-#EXTINF:-1 tvg-id="vjxm8gheo4dwr6o_srv1" tvg-name="Torino vs Monza" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hw6lq0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 01:45 WIB] Torino vs Monza (Server 1)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8gheo4dwr6o_srv2" tvg-name="Torino vs Monza" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hw6lq0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 01:45 WIB] Torino vs Monza (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792780397-0-0-737659040113cebe1130c4402f2387cc
-
-#EXTINF:-1 tvg-id="3glrw7hneyvjqdy_srv1" tvg-name="Brest vs OGC Nice" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdn7m0ve/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 01:45 WIB] Brest vs OGC Nice (Server 1)
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hneyvjqdy_srv2" tvg-name="Brest vs OGC Nice" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdn7m0ve/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 01:45 WIB] Brest vs OGC Nice (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792780409-0-0-8e8f8e55ee4be85fb51f474d17101ab6
-
-#EXTINF:-1 tvg-id="4wyrn4h6n9dnq86_srv1" tvg-name="Alavés vs Malaga" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph6lkr8k0/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] Alavés vs Malaga (Server 1)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="4wyrn4h6n9dnq86_srv2" tvg-name="Alavés vs Malaga" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph6lkr8k0/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] Alavés vs Malaga (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792780398-0-0-75430951488687375c52c0e7dc70f18a
-
-#EXTINF:-1 tvg-id="4jwq2ghndj0em0v_srv1" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] Ipswich Town vs Nottingham Forest (Server 1)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghndj0em0v_srv2" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] Ipswich Town vs Nottingham Forest (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792780398-0-0-d203ed75504be6302e5aae06668f4db3
-
-#EXTINF:-1 tvg-id="4jwq2ghndj0em0v_srv3" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] Ipswich Town vs Nottingham Forest (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792780399-0-0-c92d5048dd41f5dca31f76cfc379d139
-
-#EXTINF:-1 tvg-id="4jwq2ghndj0em0v_srv4" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] Ipswich Town vs Nottingham Forest (Server 4)
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=7069bd920818abb4021132fe57304cb8&wsABSTime=1792823599
-
-#EXTINF:-1 tvg-id="4jwq2ghndj0em0v_srv5" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] Ipswich Town vs Nottingham Forest (Server 5)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792780399-0-0-01f0c4d366cc48a0af4d00de7313660b
 
 #EXTINF:-1 tvg-id="3glrw7hn2yl4qdy_srv1" tvg-name="Vitoria Guimaraes vs Maritimo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh021q1zp/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:45 WIB] Vitoria Guimaraes vs Maritimo (Server 1)
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hn2yl4qdy_srv2" tvg-name="Vitoria Guimaraes vs Maritimo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh021q1zp/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:45 WIB] Vitoria Guimaraes vs Maritimo (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792780410-0-0-7b8f243afd235f46af5f51e3dc2e14db
+https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792791587-0-0-fc12fda74417d7f7f61e8d47ec010a8e
 
 #EXTINF:-1 tvg-id="zp5rzgh3yk12q82" tvg-name="EM Deportivo vs Santos de Nasca" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h12z8qdyj/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 03:00 WIB] EM Deportivo vs Santos de Nasca
-https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=43049e9a826ead38dfa9399618a5e204&wsABSTime=1792823612
+https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=1d579aa9c6e773101e704432c6572093&wsABSTime=1792834787
 
-#EXTINF:-1 tvg-id="y0or5jh8k131qwz" tvg-name="Sevilla vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hokxq0j6/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 03:00 WIB] Sevilla vs Osasuna
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792780408-0-0-c5472f900705b97b224912c6e60a46ac
+#EXTINF:-1 tvg-id="zp5rzghg84k6q82_srv1" tvg-name="Tainan Steel vs Yangon United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4hkddpq0j6/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:00 WIB] Tainan Steel vs Yangon United (Server 1)
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghg84k6q82_srv2" tvg-name="Tainan Steel vs Yangon United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4hkddpq0j6/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:00 WIB] Tainan Steel vs Yangon United (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792791590-0-0-f8d891bda46aefa2e6a329e39f50bbd4
+
+#EXTINF:-1 tvg-id="x7lm7phj1yopm2w_srv1" tvg-name="Isenmulang Kalteng vs PSIM Yogyakarta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:30 WIB] Isenmulang Kalteng vs PSIM Yogyakarta (Server 1)
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phj1yopm2w_srv2" tvg-name="Isenmulang Kalteng vs PSIM Yogyakarta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:30 WIB] Isenmulang Kalteng vs PSIM Yogyakarta (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792791590-0-0-95619383a0d2433678e7429b2bba0e2b
+
+#EXTINF:-1 tvg-id="965mkyhkp5vwr1g_srv1" tvg-name="Manila Digger FC vs Shan United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhz53yql07/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 16:30 WIB] Manila Digger FC vs Shan United (Server 1)
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhkp5vwr1g_srv2" tvg-name="Manila Digger FC vs Shan United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhz53yql07/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 16:30 WIB] Manila Digger FC vs Shan United (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001792791592-0-0-452e601c4cb0053db0bd92d6fa4dc77c
+
+#EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv1" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv2" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792791588-0-0-6071cbd5629f32948dd3a7b1f2c3d0a7
+
+#EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv3" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 3)
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=2d75b4bc18e5dc06642b88e895e3fb8f&wsABSTime=1792834788
+
+#EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv4" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 4)
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792791588-0-0-c2e2546a57e3fca06c5ac20836ca501e
+
+#EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv5" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 5)
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv6" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 6)
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=8b011a4fab9925030cfc8c83549e04c1&wsABSTime=1792834789
