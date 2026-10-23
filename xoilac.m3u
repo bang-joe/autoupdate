@@ -4,47 +4,38 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7hn2yl4qdy_srv1" tvg-name="Vitoria Guimaraes vs Maritimo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh021q1zp/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:45 WIB] Vitoria Guimaraes vs Maritimo (Server 1)
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hn2yl4qdy_srv2" tvg-name="Vitoria Guimaraes vs Maritimo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh021q1zp/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:45 WIB] Vitoria Guimaraes vs Maritimo (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792791587-0-0-fc12fda74417d7f7f61e8d47ec010a8e
-
-#EXTINF:-1 tvg-id="zp5rzgh3yk12q82" tvg-name="EM Deportivo vs Santos de Nasca" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h12z8qdyj/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 03:00 WIB] EM Deportivo vs Santos de Nasca
-https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=1d579aa9c6e773101e704432c6572093&wsABSTime=1792834787
-
 #EXTINF:-1 tvg-id="zp5rzghg84k6q82_srv1" tvg-name="Tainan Steel vs Yangon United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4hkddpq0j6/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:00 WIB] Tainan Steel vs Yangon United (Server 1)
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-id="zp5rzghg84k6q82_srv2" tvg-name="Tainan Steel vs Yangon United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4hkddpq0j6/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:00 WIB] Tainan Steel vs Yangon United (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792791590-0-0-f8d891bda46aefa2e6a329e39f50bbd4
+https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792799961-0-0-5e97727a201ce1a7e54baaa7c3811813
 
 #EXTINF:-1 tvg-id="x7lm7phj1yopm2w_srv1" tvg-name="Isenmulang Kalteng vs PSIM Yogyakarta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:30 WIB] Isenmulang Kalteng vs PSIM Yogyakarta (Server 1)
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phj1yopm2w_srv2" tvg-name="Isenmulang Kalteng vs PSIM Yogyakarta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:30 WIB] Isenmulang Kalteng vs PSIM Yogyakarta (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792791590-0-0-95619383a0d2433678e7429b2bba0e2b
+https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792799962-0-0-da6efbb6520ce564c4401ebb0b089104
 
 #EXTINF:-1 tvg-id="965mkyhkp5vwr1g_srv1" tvg-name="Manila Digger FC vs Shan United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhz53yql07/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 16:30 WIB] Manila Digger FC vs Shan United (Server 1)
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-id="965mkyhkp5vwr1g_srv2" tvg-name="Manila Digger FC vs Shan United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhz53yql07/image/small" group-title="UPCOMING | AFC Challenge League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 16:30 WIB] Manila Digger FC vs Shan United (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001792791592-0-0-452e601c4cb0053db0bd92d6fa4dc77c
+https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001792799962-0-0-e26e14aeb3c5ca0637460619ff6bef94
 
 #EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv1" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 1)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv2" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792791588-0-0-6071cbd5629f32948dd3a7b1f2c3d0a7
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792799960-0-0-8792672180ecb8f5fd994beb2db18596
 
 #EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv3" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 3)
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=2d75b4bc18e5dc06642b88e895e3fb8f&wsABSTime=1792834788
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=556dc2fc2fb58dc58bef4c948fdd96cd&wsABSTime=1792843160
 
 #EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv4" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792791588-0-0-c2e2546a57e3fca06c5ac20836ca501e
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792799960-0-0-5a7390babdb54a40ec5ed27f5f1e54c0
 
 #EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv5" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 5)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8gheo62vr6o_srv6" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] Aston Villa vs Manchester City (Server 6)
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=8b011a4fab9925030cfc8c83549e04c1&wsABSTime=1792834789
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=56f34d264156a0bb5dc03f8b3313d33a&wsABSTime=1792843161
