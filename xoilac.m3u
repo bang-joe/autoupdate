@@ -1,11 +1,1 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
-
-########################################################
-## [JADWAL] PERTANDINGAN MENDATANG
-########################################################
-
-#EXTINF:-1 tvg-id="3glrw7hn2yl6qdy_srv1" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho51ql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:30 WIB] Gil Vicente vs FC Porto (Server 1)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hn2yl6qdy_srv2" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho51ql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:30 WIB] Gil Vicente vs FC Porto (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792876746-0-0-aa50e8af1d8c4313eae8d4774f5db943
