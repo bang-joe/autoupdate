@@ -1,45 +1,11 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="l5ergph4joxor8k_srv1" tvg-name="Lazio vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lazio vs Parma (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="l5ergph4joxor8k_srv2" tvg-name="Lazio vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lazio vs Parma (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792868022-0-0-2b148171d5edc214f42a5eb907f517b7
-
-#EXTINF:-1 tvg-id="vjxm8gheo8z8r6o_srv1" tvg-name="RC Lens vs Paris FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4jjryox/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Lens vs Paris FC (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8gheo8z8r6o_srv2" tvg-name="RC Lens vs Paris FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4jjryox/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Lens vs Paris FC (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001792868025-0-0-fee9f68c0c2433b59dacb05bbda6a832
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="8yomo4h1lv5zq0j_srv1" tvg-name="Alverca vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhkgkql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 00:00 WIB] Alverca vs FC Arouca (Server 1)
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1lv5zq0j_srv2" tvg-name="Alverca vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhkgkql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 00:00 WIB] Alverca vs FC Arouca (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792868028-0-0-3bceaebc0745cbb6441ff35285d6aca9
-
-#EXTINF:-1 tvg-id="l7oqdehgk145r51_srv1" tvg-name="Atletico Madrid vs Dep. La Coruna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:00 WIB] Atletico Madrid vs Dep. La Coruna (Server 1)
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehgk145r51_srv2" tvg-name="Atletico Madrid vs Dep. La Coruna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:00 WIB] Atletico Madrid vs Dep. La Coruna (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792868026-0-0-664e7ca737e8ed8be54a6f11c4f05a08
-
-#EXTINF:-1 tvg-id="y39mp1h68kykmoj_srv1" tvg-name="ADO Den Haag vs SC Heerenveen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6v9r6od/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:00 WIB] ADO Den Haag vs SC Heerenveen (Server 1)
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-id="y39mp1h68kykmoj_srv2" tvg-name="ADO Den Haag vs SC Heerenveen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6v9r6od/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:00 WIB] ADO Den Haag vs SC Heerenveen (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792868029-0-0-106880265fc96b24aac7b59218eafc96
 
 #EXTINF:-1 tvg-id="3glrw7hn2yl6qdy_srv1" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho51ql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:30 WIB] Gil Vicente vs FC Porto (Server 1)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hn2yl6qdy_srv2" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho51ql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:30 WIB] Gil Vicente vs FC Porto (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792868030-0-0-b8ac74be14f60b626f414c92d1086020
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792876746-0-0-aa50e8af1d8c4313eae8d4774f5db943
