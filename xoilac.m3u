@@ -4,117 +4,42 @@
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="dn1m1ghld4x6moe_srv1" tvg-name="Napoli vs AS Roma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Napoli vs AS Roma (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 tvg-id="l5ergph4joxor8k_srv1" tvg-name="Lazio vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lazio vs Parma (LIVE) (Server 1)
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1ghld4x6moe_srv2" tvg-name="Napoli vs AS Roma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Napoli vs AS Roma (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001792858840-0-0-14ec2db9f3d09a33f3105b41058d928e
+#EXTINF:-1 tvg-id="l5ergph4joxor8k_srv2" tvg-name="Lazio vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lazio vs Parma (LIVE) (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792868022-0-0-2b148171d5edc214f42a5eb907f517b7
+
+#EXTINF:-1 tvg-id="vjxm8gheo8z8r6o_srv1" tvg-name="RC Lens vs Paris FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4jjryox/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Lens vs Paris FC (LIVE) (Server 1)
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheo8z8r6o_srv2" tvg-name="RC Lens vs Paris FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4jjryox/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Lens vs Paris FC (LIVE) (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001792868025-0-0-fee9f68c0c2433b59dacb05bbda6a832
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="ednm9whwldvgryo_srv1" tvg-name="FC Utrecht vs PEC Zwolle" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdzyqwzv/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:30 WIB] FC Utrecht vs PEC Zwolle (Server 1)
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwldvgryo_srv2" tvg-name="FC Utrecht vs PEC Zwolle" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdzyqwzv/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:30 WIB] FC Utrecht vs PEC Zwolle (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001792858846-0-0-cab94ef9321117b6709c4c8808683ed5
-
-#EXTINF:-1 tvg-id="pxwrxlhy8j27ryk_srv1" tvg-name="Estrela Amadora vs Casa Pia AC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2gh2ovm0ve/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:30 WIB] Estrela Amadora vs Casa Pia AC (Server 1)
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhy8j27ryk_srv2" tvg-name="Estrela Amadora vs Casa Pia AC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2gh2ovm0ve/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:30 WIB] Estrela Amadora vs Casa Pia AC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001792858847-0-0-294412644e78e81b03ada3eb2752c6d8
-
-#EXTINF:-1 tvg-id="dj2ryohl0dp6q1z_srv1" tvg-name="Dortmund vs Eintracht Frankfurt" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Dortmund vs Eintracht Frankfurt (Server 1)
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=0f6bb10e9f677b938ab012c52609ce37&wsABSTime=1792902042
-
-#EXTINF:-1 tvg-id="dj2ryohl0dp6q1z_srv2" tvg-name="Dortmund vs Eintracht Frankfurt" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Dortmund vs Eintracht Frankfurt (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792858842-0-0-164f1ef3a702d2e99aadf8756c7a2b7f
-
-#EXTINF:-1 tvg-id="23xmvkh6jxkwqg8_srv1" tvg-name="Valencia CF vs Villarreal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhd2lmd7o/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Valencia CF vs Villarreal (Server 1)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792858843-0-0-91221dbe834f9927d33a8b7e81649cae
-
-#EXTINF:-1 tvg-id="23xmvkh6jxkwqg8_srv2" tvg-name="Valencia CF vs Villarreal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhd2lmd7o/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Valencia CF vs Villarreal (Server 2)
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=b837111d865d82e32fab164de9e8690a&wsABSTime=1792902043
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv1" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 1)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792858843-0-0-2546ee3f9c54a165ed9da2af3299335e
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv2" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 2)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv3" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792858843-0-0-36a7013d422606edc3f3c4bcf4f53bb1
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv4" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 4)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv5" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 5)
-https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=01a565819edf2009ece73a25470bcf14&wsABSTime=1792902044
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv6" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 6)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv7" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 7)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792858844-0-0-68b2dbf18793d19bc75f04e5ac3d5f50
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv8" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 8)
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=5ea508d959a0b8609f076bc7f829fe74&wsABSTime=1792902045
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv9" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 9)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792858845-0-0-6c95a56a4cd40cb15ebdaaa3731c6c29
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv10" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 10)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792858845-0-0-5bd7265fe4edf4f862857d1c9584416c
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv11" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 11)
-https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=8366f4d7e6ca28d601f62b0d1d230420&wsABSTime=1792902045
-
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o_srv12" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] Chelsea vs Tottenham (Server 12)
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=ae05f0bd6a0894c842e6a5fc0eeddc8d&wsABSTime=1792902046
-
-#EXTINF:-1 tvg-id="965mkyhk9gezr1g_srv1" tvg-name="Willem II vs SC Cambuur" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhy3xql07/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:45 WIB] Willem II vs SC Cambuur (Server 1)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhk9gezr1g_srv2" tvg-name="Willem II vs SC Cambuur" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhy3xql07/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:45 WIB] Willem II vs SC Cambuur (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792858849-0-0-dbb8acdf0ca287104ba8e28bdc2a44d3
-
 #EXTINF:-1 tvg-id="8yomo4h1lv5zq0j_srv1" tvg-name="Alverca vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhkgkql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 00:00 WIB] Alverca vs FC Arouca (Server 1)
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1lv5zq0j_srv2" tvg-name="Alverca vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhkgkql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 00:00 WIB] Alverca vs FC Arouca (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792858850-0-0-c07551f3f97bd03576398ffbb222a8bd
-
-#EXTINF:-1 tvg-id="l5ergph4joxor8k_srv1" tvg-name="Lazio vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 01:45 WIB] Lazio vs Parma (Server 1)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="l5ergph4joxor8k_srv2" tvg-name="Lazio vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 01:45 WIB] Lazio vs Parma (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792858851-0-0-9f90fb049a76f67ee95af134fea3314b
-
-#EXTINF:-1 tvg-id="vjxm8gheo8z8r6o_srv1" tvg-name="RC Lens vs Paris FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4jjryox/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 01:45 WIB] RC Lens vs Paris FC (Server 1)
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8gheo8z8r6o_srv2" tvg-name="RC Lens vs Paris FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4jjryox/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 01:45 WIB] RC Lens vs Paris FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792858852-0-0-9572688ce459d1050cb7ae9d257929ef
+https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792868028-0-0-3bceaebc0745cbb6441ff35285d6aca9
 
 #EXTINF:-1 tvg-id="l7oqdehgk145r51_srv1" tvg-name="Atletico Madrid vs Dep. La Coruna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:00 WIB] Atletico Madrid vs Dep. La Coruna (Server 1)
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehgk145r51_srv2" tvg-name="Atletico Madrid vs Dep. La Coruna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:00 WIB] Atletico Madrid vs Dep. La Coruna (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792858854-0-0-0c689cc714b4ec697aad6227e132b73c
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792868026-0-0-664e7ca737e8ed8be54a6f11c4f05a08
 
 #EXTINF:-1 tvg-id="y39mp1h68kykmoj_srv1" tvg-name="ADO Den Haag vs SC Heerenveen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6v9r6od/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:00 WIB] ADO Den Haag vs SC Heerenveen (Server 1)
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-id="y39mp1h68kykmoj_srv2" tvg-name="ADO Den Haag vs SC Heerenveen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6v9r6od/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:00 WIB] ADO Den Haag vs SC Heerenveen (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792858855-0-0-e1cb13999c81efbb4485eb6aeddaab0d
+https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792868029-0-0-106880265fc96b24aac7b59218eafc96
 
 #EXTINF:-1 tvg-id="3glrw7hn2yl6qdy_srv1" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho51ql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:30 WIB] Gil Vicente vs FC Porto (Server 1)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hn2yl6qdy_srv2" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho51ql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 02:30 WIB] Gil Vicente vs FC Porto (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792858856-0-0-9bbc51643212bf01b9b2bf5a524dd47e
-
-#EXTINF:-1 tvg-id="4wyrn4h618pzq86" tvg-name="Genoa vs Juventus" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 02:45 WIB] Genoa vs Juventus
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792858848-0-0-7b4ca1b9692dd3b79f3cb03b649f3e47
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792868030-0-0-b8ac74be14f60b626f414c92d1086020
