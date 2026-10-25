@@ -1,1 +1,35 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
+
+#EXTINF:-1 tvg-id="318q66hxldpvqo9" tvg-name="Persela Lamongan vs Dejan FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4hk0ndq0j6/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 14:30 WIB] Persela Lamongan vs Dejan FC
+https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=bf21ca290960e0bbe75049bfaebaae7b&wsABSTime=1792934663
+
+#EXTINF:-1 tvg-id="23xmvkh6n1o9qg8_srv1" tvg-name="Persita vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh137nm7vx/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 15:30 WIB] Persita vs Bali United (Server 1)
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="23xmvkh6n1o9qg8_srv2" tvg-name="Persita vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh137nm7vx/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 15:30 WIB] Persita vs Bali United (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001792891463-0-0-7b449486b9b227cd973760d01c8e0a9b
+
+#EXTINF:-1 tvg-id="n54qllhnoge9qvy_srv1" tvg-name="Arema FC vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlp2lrz84/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 15:30 WIB] Arema FC vs Dewa United FC (Server 1)
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnoge9qvy_srv2" tvg-name="Arema FC vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlp2lrz84/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 15:30 WIB] Arema FC vs Dewa United FC (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792891463-0-0-a6d296d94f14a9ea4faf9631c2bf10fe
+
+#EXTINF:-1 tvg-id="vjxm8gheo46wr6o_srv1" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 18:30 WIB] Inter Milan vs Fiorentina (Server 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheo46wr6o_srv2" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 18:30 WIB] Inter Milan vs Fiorentina (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792891462-0-0-a950a657ab32cc0ec765e06b45c78e03
+
+#EXTINF:-1 tvg-id="vjxm8gheo46wr6o_srv3" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 18:30 WIB] Inter Milan vs Fiorentina (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001792891462-0-0-72e3b9764ff28cb70417c53ab574b8bb
+
+#EXTINF:-1 tvg-id="vjxm8gheo46wr6o_srv4" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 18:30 WIB] Inter Milan vs Fiorentina (Server 4)
+https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=5ba60c8aef49d52ccf83d673feff7c5d&wsABSTime=1792934663
+
+#EXTINF:-1 tvg-id="vjxm8gheo46wr6o_srv5" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 18:30 WIB] Inter Milan vs Fiorentina (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792891463-0-0-1c2b0b53f98034f59b6f8c304c3f6839
