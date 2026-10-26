@@ -4,26 +4,44 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="1l4rjnh9wo1jm7v" tvg-name="Bhayangkara Presisi vs PSM Makassar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hex4dq86p/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] Bhayangkara Presisi vs PSM Makassar
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792969982-0-0-2516a61d3e7bc77dffdde5ff1bd0ed41
+#EXTINF:-1 tvg-id="1l4rjnh9wo1jm7v_srv1" tvg-name="Bhayangkara Presisi vs PSM Makassar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hex4dq86p/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] Bhayangkara Presisi vs PSM Makassar (Server 1)
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9wo1jm7v_srv2" tvg-name="Bhayangkara Presisi vs PSM Makassar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hex4dq86p/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] Bhayangkara Presisi vs PSM Makassar (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001792976936-0-0-44e68dcec1b3914b190bf523ed88f247
 
 #EXTINF:-1 tvg-id="4jwq2ghn3ykem0v" tvg-name="Persebaya vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh931jrepz/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] Persebaya vs Madura United
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792969982-0-0-2516a61d3e7bc77dffdde5ff1bd0ed41
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976937-0-0-db7629caec7fa574499333809f8c40a3
 
 #EXTINF:-1 tvg-id="ednm9whw3y9wryo" tvg-name="Persija Jakarta vs Persik Kediri" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho7p8r8k0/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] Persija Jakarta vs Persik Kediri
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792969983-0-0-22f369960392ae9bbd35b834fbf87b03
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976938-0-0-495755750684d460287d9366c714dca7
 
 #EXTINF:-1 tvg-id="3glrw7h4k52yqdy" tvg-name="Negele Arsi vs Adama City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghxvgjr6od/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] Negele Arsi vs Adama City
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=6206ffde2505ace73395a81192b2ab0f&wsABSTime=1793013183
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=92258642a52ce68e5f3743afdbd1907c&wsABSTime=1793020139
 
 #EXTINF:-1 tvg-id="pxwrxlhlpo89ryk" tvg-name="Saint George SC vs Sheger Ketema" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghj3ngq82w/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] Saint George SC vs Sheger Ketema
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=a7da348d450ec2ecf4ae917df5e909f4&wsABSTime=1793013183
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=75e5aacb4d575eadeb5b4cc2eeac6c54&wsABSTime=1793020140
 
 #EXTINF:-1 tvg-id="vjxm8ghen29kr6o" tvg-name="Neftchi Fergana vs Al Ittihad(KSA)" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8w3gq86p/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 20:45 WIB] Neftchi Fergana vs Al Ittihad(KSA)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792969983-0-0-22f369960392ae9bbd35b834fbf87b03
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976941-0-0-d0ed5ea0c825da2d1f7c0782ae5e07a6
 
 #EXTINF:-1 tvg-id="318q66hx9770qo9" tvg-name="Al-Ain FC vs Tractor S.C." tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h850yq86p/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 23:00 WIB] Al-Ain FC vs Tractor S.C.
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792969984-0-0-1a539613c71cbb7d79331d7ed622544f
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976942-0-0-9fd175f2cc9791fbd378ca1d583b1630
 
 #EXTINF:-1 tvg-id="dn1m1ghl5o7kmoe" tvg-name="Al Ahli SC vs Al-Gharafa Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergphgy8r8k0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 23:00 WIB] Al Ahli SC vs Al-Gharafa Sports Club
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792969984-0-0-1a539613c71cbb7d79331d7ed622544f
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976943-0-0-776172df149381e60c5ba7169b177d88
+
+#EXTINF:-1 tvg-id="2y8m4zh524nxql0" tvg-name="Al Qadsiah vs Al-Sadd Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh5p0qg8n/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 01:15 WIB] Al Qadsiah vs Al-Sadd Sports Club
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976944-0-0-b92a6057e68025a066212b3c11d9c8c4
+
+#EXTINF:-1 tvg-id="l7oqdehgve2or51" tvg-name="Al Quwa Al Jawiya vs Pakhtakor" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgpjoryk0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 01:15 WIB] Al Quwa Al Jawiya vs Pakhtakor
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976944-0-0-b92a6057e68025a066212b3c11d9c8c4
+
+#EXTINF:-1 tvg-id="y0or5jh8y30nqwz" tvg-name="Santa Clara vs Benfica" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7ph1nnm2wd/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 01:45 WIB] Santa Clara vs Benfica
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976945-0-0-7bcff566f570d7e2f8a061e213daec84
+
+#EXTINF:-1 tvg-id="zp5rzghgepl4q82" tvg-name="PSG vs Lyon" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 02:30 WIB] PSG vs Lyon
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976946-0-0-e1af0e1af0876457247edff44c363315
+
+#EXTINF:-1 tvg-id="y0or5jh8k131qwz" tvg-name="Sevilla vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hokxq0j6/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 03:00 WIB] Sevilla vs Osasuna
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792976947-0-0-0b20accd67faef5262041352e9c9a916
