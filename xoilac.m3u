@@ -1,93 +1,80 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="l7oqdehjnyowr51" tvg-name="Mount Pleasant FA vs Montego Bay Utd" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhx78jqvy9/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Mount Pleasant FA vs Montego Bay Utd (LIVE)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
 #EXTINF:-1 tvg-id="965mkyhk6d48r1g" tvg-name="PSS Sleman vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergph3lnzr8k0/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 15:30 WIB] PSS Sleman vs Borneo FC Samarinda
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793065666-0-0-1f1b9b4d8d1e09e3aaa2f5838861c727
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793084418-0-0-d717c23078786ca24913cac696338d2b
 
 #EXTINF:-1 tvg-id="4wyrn4h6j7o2q86_srv1" tvg-name="Daejeon Hana Citizen vs Vissel Kobe" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyhx4jr1ge/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Daejeon Hana Citizen vs Vissel Kobe (Server 1)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="4wyrn4h6j7o2q86_srv2" tvg-name="Daejeon Hana Citizen vs Vissel Kobe" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyhx4jr1ge/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Daejeon Hana Citizen vs Vissel Kobe (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793065666-0-0-9bac1a1d6b374cbb96f2e63cd67686b2
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793084419-0-0-7ef4036241d6a9f659367f6a1f667c1c
 
 #EXTINF:-1 tvg-id="x7lm7phjl536m2w_srv1" tvg-name="Kyoto Sanga vs Newcastle Jets" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hw3yeqdyj/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Kyoto Sanga vs Newcastle Jets (Server 1)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phjl536m2w_srv2" tvg-name="Kyoto Sanga vs Newcastle Jets" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hw3yeqdyj/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Kyoto Sanga vs Newcastle Jets (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793065667-0-0-ad34365d9b86b9a39c54c45c512d48a8
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793084419-0-0-571074a3123de53ed19ef9a1846a7976
 
 #EXTINF:-1 tvg-id="y0or5jh8v0z2qwz_srv1" tvg-name="Johor Darul Takzim vs Port FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h3v19mojx/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Johor Darul Takzim vs Port FC (Server 1)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8v0z2qwz_srv2" tvg-name="Johor Darul Takzim vs Port FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h3v19mojx/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Johor Darul Takzim vs Port FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793065668-0-0-90c1ad4f0554fcb8f91503eba53def5a
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793084419-0-0-0ddd73cd1fa95fbc29ecdf0ed323a8b2
 
 #EXTINF:-1 tvg-id="zp5rzghgn2wyq82_srv1" tvg-name="Shanghai Port vs Công An Hà Nội" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Shanghai Port vs Công An Hà Nội (Server 1)
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=febc7d45a3cdf98cbdeb925bf1458714&wsABSTime=1793108869
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=c5162e868f33e9ec2fec4a71b76c89ce&wsABSTime=1793127620
 
 #EXTINF:-1 tvg-id="zp5rzghgn2wyq82_srv2" tvg-name="Shanghai Port vs Công An Hà Nội" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Shanghai Port vs Công An Hà Nội (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793065669-0-0-c3cf64937de5a9c3c57f1c0401c9a7b2
-
-#EXTINF:-1 tvg-id="zp5rzghgn2wyq82_srv3" tvg-name="Shanghai Port vs Công An Hà Nội" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Shanghai Port vs Công An Hà Nội (Server 3)
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghgn2wyq82_srv4" tvg-name="Shanghai Port vs Công An Hà Nội" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] Shanghai Port vs Công An Hà Nội (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793065670-0-0-63ae11475bf9223d00cbc1b68f0c5b7b
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793084420-0-0-faa09bc3555ede59a0332c5ef17c7757
 
 #EXTINF:-1 tvg-id="3glrw7hnxwpgqdy" tvg-name="Ipswich U21 vs PSV Eindhoven (R)" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh4zo7r1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 19:00 WIB] Ipswich U21 vs PSV Eindhoven (R)
-https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=709008377c69f17e7cd27d9da2ea3583&wsABSTime=1793108870
+https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=d6875bf14d2725271d61d5b65b1922ab&wsABSTime=1793127620
 
 #EXTINF:-1 tvg-id="4wyrn4hyz7w5q86" tvg-name="Welwalo Adigrat vs Fasil Kenema" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh9j0gryk0/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 19:00 WIB] Welwalo Adigrat vs Fasil Kenema
-https://live1.quickscoreboardz.com/live/channel21.m3u8?wsSecret=356eb6ea17065233141464e278ac7b90&wsABSTime=1793108871
+https://live1.quickscoreboardz.com/live/channel21.m3u8?wsSecret=cbcec89582dfe08290adde884368cf80&wsABSTime=1793127620
 
 #EXTINF:-1 tvg-id="1l4rjnh983l6m7v_srv1" tvg-name="Beijing Guoan vs Jeonbuk Hyundai" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9whlxkryox/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 19:15 WIB] Beijing Guoan vs Jeonbuk Hyundai (Server 1)
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh983l6m7v_srv2" tvg-name="Beijing Guoan vs Jeonbuk Hyundai" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9whlxkryox/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 19:15 WIB] Beijing Guoan vs Jeonbuk Hyundai (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793065671-0-0-3de27615ff4faff2a557f6ee7bcf8545
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793084421-0-0-6f3105bb4f7a7b3f9e05bcb3e6f2cb1b
 
 #EXTINF:-1 tvg-id="4wyrn4h6j7x2q86_srv1" tvg-name="Ratchaburi vs Kashiwa Reysol" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phoo5lm2wd/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 19:15 WIB] Ratchaburi vs Kashiwa Reysol (Server 1)
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-id="4wyrn4h6j7x2q86_srv2" tvg-name="Ratchaburi vs Kashiwa Reysol" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phoo5lm2wd/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 19:15 WIB] Ratchaburi vs Kashiwa Reysol (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793065672-0-0-0d2bbb79335ea3f483d3afd757cdbbe4
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793084421-0-0-29454401237fe8aa2567a608f6c31275
 
 #EXTINF:-1 tvg-id="k82rekh2z7nprep_srv1" tvg-name="Kazma vs Ajman" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2d7pqvy9/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 21:00 WIB] Kazma vs Ajman (Server 1)
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-id="k82rekh2z7nprep_srv2" tvg-name="Kazma vs Ajman" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2d7pqvy9/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 21:00 WIB] Kazma vs Ajman (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001793065672-0-0-977bd76a5d31202b5b21d81156d38308
+https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001793084421-0-0-b17bb1d1f06ded6a731b6d20f007dbe8
 
 #EXTINF:-1 tvg-id="k82rekh2z78prep" tvg-name="Al-Shabab SC (Seeb) vs Neom SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4zojmoep/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 21:45 WIB] Al-Shabab SC (Seeb) vs Neom SC
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=98f20111c59013a774fa3fbb63684ab7&wsABSTime=1793108873
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=fc7cfef968ead6c18a5116b87b7be75a&wsABSTime=1793127621
 
 #EXTINF:-1 tvg-id="jw2r09hkepjlrz8_srv1" tvg-name="Al Seeb SC vs East Bengal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3j29ql07/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 23:00 WIB] Al Seeb SC vs East Bengal (Server 1)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09hkepjlrz8_srv2" tvg-name="Al Seeb SC vs East Bengal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3j29ql07/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 23:00 WIB] Al Seeb SC vs East Bengal (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793065673-0-0-49a08e8e03a6c986fb0bde92f9dd94cc
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793084422-0-0-588d6d7d78192df2332880a395120614
 
 #EXTINF:-1 tvg-id="6ypq3nhv2447md7_srv1" tvg-name="Shabab Al Ahli vs Esteghlal Tehran" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphoevor8k0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 23:00 WIB] Shabab Al Ahli vs Esteghlal Tehran (Server 1)
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="6ypq3nhv2447md7_srv2" tvg-name="Shabab Al Ahli vs Esteghlal Tehran" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphoevor8k0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 23:00 WIB] Shabab Al Ahli vs Esteghlal Tehran (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793065674-0-0-1efaa4036d93245ab2fe806408e869bd
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793084422-0-0-1b504ead23b3dd5442384526f60542b8
 
 #EXTINF:-1 tvg-id="3glrw7h4kv0lqdy" tvg-name="Al-Riffa vs Qatar Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohyvw8q1zp/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 00:00 WIB] Al-Riffa vs Qatar Sports Club
-https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=dc06995beb546bc4b34900c5ea68203c&wsABSTime=1793108875
+https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=e4067f344637d9541dfa958b86cede6a&wsABSTime=1793127622
 
 #EXTINF:-1 tvg-id="965mkyhk97vlr1g_srv1" tvg-name="Sassuolo vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 00:30 WIB] Sassuolo vs Lazio (Server 1)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="965mkyhk97vlr1g_srv2" tvg-name="Sassuolo vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 00:30 WIB] Sassuolo vs Lazio (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793065669-0-0-c4d4319f78fb4e587d1e5a96f03b90b0
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793084420-0-0-9e63ff51c8e90f69160de19ffaa1e90e
