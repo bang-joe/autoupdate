@@ -4,78 +4,39 @@
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="y0or5jh8v03zqwz_srv1" tvg-name="Thể Công Viettel vs Seoul FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Thể Công Viettel vs Seoul FC (LIVE) (Server 1)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793196778-0-0-58cbb250214d90b922d0e3ec294f4d13
+#EXTINF:-1 tvg-id="965mkyhk97xdr1g_srv1" tvg-name="Parma vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Parma vs Udinese (LIVE) (Server 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh8v03zqwz_srv2" tvg-name="Thể Công Viettel vs Seoul FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Thể Công Viettel vs Seoul FC (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793196779-0-0-adf5e472f4dc57f5a1cdc57fde9ce168
+#EXTINF:-1 tvg-id="965mkyhk97xdr1g_srv2" tvg-name="Parma vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Parma vs Udinese (LIVE) (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793216010-0-0-d3863eb17957bf768eb3d16b1cd54dfa
 
-#EXTINF:-1 tvg-id="y0or5jh8v03zqwz_srv3" tvg-name="Thể Công Viettel vs Seoul FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Thể Công Viettel vs Seoul FC (LIVE) (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793196783-0-0-bd9892323ad842c95aa07d2e80aeade4
-
-#EXTINF:-1 tvg-id="x7lm7phjl5wvm2w" tvg-name="Persib Bandung vs Melbourne Victory" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh4z7xr6od/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persib Bandung vs Melbourne Victory (LIVE)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793196791-0-0-e023838c03f4a47250cd17a2008ae268
-
-#EXTINF:-1 tvg-id="dn1m1ghl5oe5moe_srv1" tvg-name="Gol Gohar FC vs Arkadag FK" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whknnwryox/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Gol Gohar FC vs Arkadag FK (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghl5oe5moe_srv2" tvg-name="Gol Gohar FC vs Arkadag FK" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whknnwryox/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Gol Gohar FC vs Arkadag FK (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793196794-0-0-e4b8696611fa6b5f6a969df928b1efab
-
-#EXTINF:-1 tvg-id="pxwrxlhy6212ryk_srv1" tvg-name="Nasaf Qarshi vs Al Kuwait SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phl2gm2wd/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Nasaf Qarshi vs Al Kuwait SC (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhy6212ryk_srv2" tvg-name="Nasaf Qarshi vs Al Kuwait SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phl2gm2wd/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Nasaf Qarshi vs Al Kuwait SC (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793196797-0-0-261801c70855cc05e9229c4164237229
+#EXTINF:-1 tvg-id="vjxm8ghkvz99r6o" tvg-name="Al Zawraa SC vs Al-Nasr Dubai" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh7zngr1ge/image/small" group-title="LIVE | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al Zawraa SC vs Al-Nasr Dubai (LIVE)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="318q66h8z57eqo9" tvg-name="Shab Hadramawt vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3x33ql07/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 22:15 WIB] Shab Hadramawt vs Al Duhail Sports Club
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=45c401dd3ebf3b3f0e0e0f3c09dd6423&wsABSTime=1793240000
-
-#EXTINF:-1 tvg-id="4jwq2ghn80k5m0v_srv1" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgzperyk0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] Al-Jazira(UAE) vs Al-Muharraq (Server 1)
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghn80k5m0v_srv2" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgzperyk0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] Al-Jazira(UAE) vs Al-Muharraq (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793196801-0-0-4f24776adb57a7024a7f3633cdefeb13
-
-#EXTINF:-1 tvg-id="1l4rjnh983zgm7v_srv1" tvg-name="Al Nahda SC vs Al-Rayyan Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh3403qg8n/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] Al Nahda SC vs Al-Rayyan Sports Club (Server 1)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh983zgm7v_srv2" tvg-name="Al Nahda SC vs Al-Rayyan Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh3403qg8n/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] Al Nahda SC vs Al-Rayyan Sports Club (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793196801-0-0-fa8a8d0dbc96609cf62bc86c29f537ab
-
-#EXTINF:-1 tvg-id="3glrw7hnewg6qdy_srv1" tvg-name="Venezia vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] Venezia vs Inter Milan (Server 1)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnewg6qdy_srv2" tvg-name="Venezia vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] Venezia vs Inter Milan (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793196772-0-0-022d8cd95e4efe9a10c20f27aed3c207
-
-#EXTINF:-1 tvg-id="pxwrxlhywgw7ryk_srv1" tvg-name="AC Milan vs Bologna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] AC Milan vs Bologna (Server 1)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhywgw7ryk_srv2" tvg-name="AC Milan vs Bologna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] AC Milan vs Bologna (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793196772-0-0-b46664f05d9c880358d9c8dbcf2920d3
-
-#EXTINF:-1 tvg-id="965mkyhk97xdr1g_srv1" tvg-name="Parma vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] Parma vs Udinese (Server 1)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhk97xdr1g_srv2" tvg-name="Parma vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] Parma vs Udinese (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793196802-0-0-fbd2ab63642e40b6746e728d2a43856e
-
-#EXTINF:-1 tvg-id="vjxm8ghkvz99r6o" tvg-name="Al Zawraa SC vs Al-Nasr Dubai" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh7zngr1ge/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] Al Zawraa SC vs Al-Nasr Dubai
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=ca2317bcbeb1e6517686580884205fcd&wsABSTime=1793240003
-
 #EXTINF:-1 tvg-id="n54qllhnlke7qvy" tvg-name="Al Khaldiya vs Al Wahda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohg20wq1zp/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 01:15 WIB] Al Khaldiya vs Al Wahda
-https://live1.quickscoreboardz.com/live/channel90.m3u8?wsSecret=15bff9421b722e0d71e642ab6fa2e909&wsABSTime=1793240004
+https://live1.quickscoreboardz.com/live/channel90.m3u8?wsSecret=542c96a033d016ed24f692e6553a7183&wsABSTime=1793259208
 
 #EXTINF:-1 tvg-id="y0or5jh8v0ezqwz_srv1" tvg-name="Al-Faisaly Amman vs Al Taawoun" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hl4lprz84/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 01:15 WIB] Al-Faisaly Amman vs Al Taawoun (Server 1)
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8v0ezqwz_srv2" tvg-name="Al-Faisaly Amman vs Al Taawoun" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hl4lprz84/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 01:15 WIB] Al-Faisaly Amman vs Al Taawoun (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001793196804-0-0-881c401845afed25fdab04b030167f0b
+https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001793216008-0-0-55df3937bf55444be7da0fe54eb30b69
 
-#EXTINF:-1 tvg-id="vjxm8gheo4owr6o" tvg-name="Frosinone vs Torino" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 21:00 WIB] Frosinone vs Torino
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793196793-0-0-02a0a2d08bef4e41b40c363c73fb54af
+#EXTINF:-1 tvg-id="3glrw7hnew56qdy_srv1" tvg-name="Monza vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 02:45 WIB] Monza vs Napoli (Server 1)
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hnew56qdy_srv2" tvg-name="Monza vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 02:45 WIB] Monza vs Napoli (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001793216014-0-0-f4e57e4210777fbb632f8e8b54683dad
+
+#EXTINF:-1 tvg-id="4wyrn4h618pzq86_srv1" tvg-name="Genoa vs Juventus" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 02:45 WIB] Genoa vs Juventus (Server 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="4wyrn4h618pzq86_srv2" tvg-name="Genoa vs Juventus" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 02:45 WIB] Genoa vs Juventus (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793216014-0-0-df5e8ef03d8a8cd4da314a748ee3bc30
+
+#EXTINF:-1 tvg-id="965mkyhk9e6kr1g" tvg-name="Lyon vs Angers" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 23:15 WIB] Lyon vs Angers
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793216009-0-0-188ff3dbebebce300b90934d4340c7d4
