@@ -1,6 +1,13 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="dn1m1ghl6dz3moe" tvg-name="Rans Nusantara FC vs Kendal Tornado FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hewp7q86p/image/small" group-title="LIVE | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Rans Nusantara FC vs Kendal Tornado FC (LIVE)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
@@ -8,52 +15,52 @@
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="23xmvkh6egkjqg8_srv2" tvg-name="Adelaide United vs Lion City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4nvdmoep/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 14:45 WIB] Adelaide United vs Lion City (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793242262-0-0-74af3912cab5e2fee295197f6e562f56
-
-#EXTINF:-1 tvg-id="dn1m1ghl6dz3moe" tvg-name="Rans Nusantara FC vs Kendal Tornado FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hewp7q86p/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 15:30 WIB] Rans Nusantara FC vs Kendal Tornado FC
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=56bc9763a186e3178b6e3d3ac5704f06&wsABSTime=1793285463
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793264713-0-0-3a72fd112a0aba09ace11202d55c3906
 
 #EXTINF:-1 tvg-id="n54qllhnlkjyqvy_srv1" tvg-name="Gangwon FC vs Kuching City FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h78n0q0j6/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 17:00 WIB] Gangwon FC vs Kuching City FC (Server 1)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="n54qllhnlkjyqvy_srv2" tvg-name="Gangwon FC vs Kuching City FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h78n0q0j6/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 17:00 WIB] Gangwon FC vs Kuching City FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793242265-0-0-7505e363688ad1c170e5d66777a53f05
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793264715-0-0-aab53b8b91d5821e02861100e5d78d3e
 
 #EXTINF:-1 tvg-id="y0or5jh8v0gwqwz_srv1" tvg-name="Tampines Rovers vs Svay Rieng FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdeh51yr510/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 17:00 WIB] Tampines Rovers vs Svay Rieng FC (Server 1)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8v0gwqwz_srv2" tvg-name="Tampines Rovers vs Svay Rieng FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdeh51yr510/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 17:00 WIB] Tampines Rovers vs Svay Rieng FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793242266-0-0-3355584cfd5eb55f69f0e3f6685481eb
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793264715-0-0-352e9633a9ac1004a9861a40cbaff38b
 
 #EXTINF:-1 tvg-id="4wyrn4h6g1nvq86" tvg-name="Persiba Balikpapan vs PSBS Biak" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhj835ql07/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:00 WIB] Persiba Balikpapan vs PSBS Biak
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=8dc66e109e711921956c643ccfee9607&wsABSTime=1793285466
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=969ff11984c858f90b8170df05876d96&wsABSTime=1793307917
 
 #EXTINF:-1 tvg-id="4wyrn4h6j794q86_srv1" tvg-name="Phnom Penh Crown vs Kitchee" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3egxql07/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:15 WIB] Phnom Penh Crown vs Kitchee (Server 1)
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="4wyrn4h6j794q86_srv2" tvg-name="Phnom Penh Crown vs Kitchee" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3egxql07/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:15 WIB] Phnom Penh Crown vs Kitchee (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793242267-0-0-6f037fea1d49124aeb3f74c2e3fa4d60
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793264718-0-0-101b2ae784b4b3e8bacdaf86caeb53f6
 
 #EXTINF:-1 tvg-id="dj2ryohlwdn5q1z_srv1" tvg-name="Shanghai Shenhua vs Machida Zelvia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:15 WIB] Shanghai Shenhua vs Machida Zelvia (Server 1)
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="dj2ryohlwdn5q1z_srv2" tvg-name="Shanghai Shenhua vs Machida Zelvia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:15 WIB] Shanghai Shenhua vs Machida Zelvia (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793242268-0-0-e566f462ff42e1463115a69b77c6a84a
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793264719-0-0-be76c953f770b0c984a7066e48e97667
 
 #EXTINF:-1 tvg-id="dn1m1ghl5o8nmoe_srv1" tvg-name="Tai Po vs BG Pathum United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg972ryk0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:15 WIB] Tai Po vs BG Pathum United (Server 1)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="dn1m1ghl5o8nmoe_srv2" tvg-name="Tai Po vs BG Pathum United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg972ryk0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:15 WIB] Tai Po vs BG Pathum United (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793242268-0-0-09dd4b9c0edf425bff73b7c5078250e4
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793264719-0-0-a2ae8ab87f8e0cda8450ae024902f472
 
 #EXTINF:-1 tvg-id="1l4rjnh9p6ddm7v_srv1" tvg-name="Frosinone vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 00:30 WIB] Frosinone vs Lecce (Server 1)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh9p6ddm7v_srv2" tvg-name="Frosinone vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 00:30 WIB] Frosinone vs Lecce (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793242264-0-0-0f23d7a9687e19f471328cf9e21b8a79
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793264716-0-0-f3ad914816b9a4200f42c49fb0873621
 
 #EXTINF:-1 tvg-id="1l4rjnh9p6ddm7v_srv3" tvg-name="Frosinone vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 00:30 WIB] Frosinone vs Lecce (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793242264-0-0-4ab7c3cfa38209d480e1de2cfe9362f0
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793264716-0-0-d293a8a02e056b3aebcf496f6dd4aea5
 
 #EXTINF:-1 tvg-id="1l4rjnh9p6ddm7v_srv4" tvg-name="Frosinone vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 00:30 WIB] Frosinone vs Lecce (Server 4)
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=9cc0b864715b41e14e6216c61061ec3c&wsABSTime=1793285464
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=eb19f3f3cf7f4cf92fb73281cb2954f2&wsABSTime=1793307916
+
+#EXTINF:-1 tvg-id="zp5rzghgejeoq82" tvg-name="Atalanta vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phyw6m2wd/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] Atalanta vs Parma
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793264717-0-0-22c5f795fe46fa1f2e4446a5724b9414
