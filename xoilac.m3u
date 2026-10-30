@@ -1,54 +1,44 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="k82rekhgdo7erep_srv1" tvg-name="OGC Nice vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h5oeqdyj/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",OGC Nice vs Rennes (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="k82rekhgdo7erep_srv2" tvg-name="OGC Nice vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h5oeqdyj/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",OGC Nice vs Rennes (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793386252-0-0-d01921812e35f1f1686349a2a185c790
-
-#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv1" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Le Havre FC vs PSG (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv2" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Le Havre FC vs PSG (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793386254-0-0-3479f643a964c66aa757f841be3a8b3b
-
-#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv3" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Le Havre FC vs PSG (LIVE) (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793386255-0-0-b9823d323eba3875737152420706eea5
-
-#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv4" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Le Havre FC vs PSG (LIVE) (Server 4)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv5" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Le Havre FC vs PSG (LIVE) (Server 5)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793386257-0-0-b8459ee72be7905028cda18ba64ffc89
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="dj2ryohl0d36q1z_srv1" tvg-name="SV 07 Elversberg vs Mainz 05" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hop0q0j6/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 02:30 WIB] SV 07 Elversberg vs Mainz 05 (Server 1)
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv1" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv2" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793400208-0-0-52ef6dab23a3d2e9614f24d53658ac0d
+
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv3" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 3)
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=6db604958a3464418331dbd483b288f4&wsABSTime=1793443408
+
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv4" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 4)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryohl0d36q1z_srv2" tvg-name="SV 07 Elversberg vs Mainz 05" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hop0q0j6/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 02:30 WIB] SV 07 Elversberg vs Mainz 05 (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793386258-0-0-121f8eacfae510a5b820f724b1915bf3
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv5" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793400209-0-0-d1c5990a20c0d4296ce8ff3a7ee45624
 
-#EXTINF:-1 tvg-id="vjxm8ghe6xp3r6o_srv1" tvg-name="Villarreal vs Espanyol" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 03:00 WIB] Villarreal vs Espanyol (Server 1)
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv6" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 6)
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghe6xp3r6o_srv2" tvg-name="Villarreal vs Espanyol" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 03:00 WIB] Villarreal vs Espanyol (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793386259-0-0-3944ea95088b80ed3746186d9c2f28b3
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv7" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 7)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793400209-0-0-48b59e736f39ac68e969beca78e0ae9b
 
-#EXTINF:-1 tvg-id="4jwq2ghndx3zm0v_srv1" tvg-name="LOSC Lille vs RC Lens" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h2pdqdyj/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 03:05 WIB] LOSC Lille vs RC Lens (Server 1)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv8" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 8)
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=3b02fbbc1d348e952e239ef4b92833fc&wsABSTime=1793443409
 
-#EXTINF:-1 tvg-id="4jwq2ghndx3zm0v_srv2" tvg-name="LOSC Lille vs RC Lens" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h2pdqdyj/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 03:05 WIB] LOSC Lille vs RC Lens (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793386259-0-0-6ed81e84814ec0bdf9b62d9af0c7a34d
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv9" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 9)
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793400209-0-0-ad51fc56820068d74f88387c82a5e3f6
 
-#EXTINF:-1 tvg-id="23xmvkh61kg1qg8_srv1" tvg-name="Casa Pia AC vs Sporting CP" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh0gl5md7o/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 03:15 WIB] Casa Pia AC vs Sporting CP (Server 1)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv10" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 10)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793400210-0-0-f47375467907244692951f9410af0d6e
 
-#EXTINF:-1 tvg-id="23xmvkh61kg1qg8_srv2" tvg-name="Casa Pia AC vs Sporting CP" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh0gl5md7o/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 03:15 WIB] Casa Pia AC vs Sporting CP (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793386260-0-0-ddc845e29b88b7ef991dff829511c230
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv11" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 11)
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=12a173dc445f5139ff61e1170db62646&wsABSTime=1793443410
+
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv12" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 12)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793400210-0-0-c50da78404a03e964d7568ab445fd08c
+
+#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv13" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 13)
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=329402614ef0d7d26a6edb039c21883b&wsABSTime=1793443411
