@@ -4,35 +4,38 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="dj2ryohl3k6gq1z_srv1" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] Fiorentina vs Atalanta (Server 1)
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=e1210c1e4bef458bd502325a2e518135&wsABSTime=1793351099
+#EXTINF:-1 tvg-id="y39mp1h62g5omoj_srv1" tvg-name="Java United F.C. vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh324grepz/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] Java United F.C. vs Bhayangkara Presisi (Server 1)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryohl3k6gq1z_srv2" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] Fiorentina vs Atalanta (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793307899-0-0-20c2b2d9f4fe18492a3ef7de693fdf44
-
-#EXTINF:-1 tvg-id="dj2ryohl3k6gq1z_srv3" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] Fiorentina vs Atalanta (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001793307899-0-0-fe07a0db28e2dddc5427225c6f1a6739
-
-#EXTINF:-1 tvg-id="dj2ryohl3k6gq1z_srv4" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] Fiorentina vs Atalanta (Server 4)
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-id="dj2ryohl3k6gq1z_srv5" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] Fiorentina vs Atalanta (Server 5)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793307900-0-0-be64c2f5f3870aa9c1e58e072d01111f
+#EXTINF:-1 tvg-id="y39mp1h62g5omoj_srv2" tvg-name="Java United F.C. vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh324grepz/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] Java United F.C. vs Bhayangkara Presisi (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793321740-0-0-7f3bb561ea87b3e5a9400cdec0aa62ad
 
 #EXTINF:-1 tvg-id="vjxm8gheyokwr6o" tvg-name="Persiku Kudus vs Persiraja Banda Aceh" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hxynmojx/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] Persiku Kudus vs Persiraja Banda Aceh
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=e589c0f821b606b6298e7579758d3349&wsABSTime=1793351101
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=cb802fe68f280558fed49f2c6af3c423&wsABSTime=1793364940
 
 #EXTINF:-1 tvg-id="l5ergph4gj6pr8k" tvg-name="Barito Putera vs Persis Solo FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh989lrepz/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] Barito Putera vs Persis Solo FC
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=1553a6baa1a15bb91d250801d68ef7b1&wsABSTime=1793351101
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=64105955e80a66c2f62f2bd0d15f9f20&wsABSTime=1793364941
 
 #EXTINF:-1 tvg-id="k82rekhg7p9jrep_srv1" tvg-name="Persebaya vs Persijap Jepara" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh931jrepz/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] Persebaya vs Persijap Jepara (Server 1)
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="k82rekhg7p9jrep_srv2" tvg-name="Persebaya vs Persijap Jepara" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh931jrepz/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] Persebaya vs Persijap Jepara (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793307901-0-0-188f5057c7921adc8f76223ee5b73102
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793321742-0-0-08ef34b85aa3463ef326a8e9684ac01a
 
 #EXTINF:-1 tvg-id="x7lm7phj4dx3m2w" tvg-name="Semen Padang vs Sumsel United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjzloql07/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] Semen Padang vs Sumsel United
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=0e232e92dbf06f4f6abaa74924689cd9&wsABSTime=1793351102
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=a0eebcdfdb1ff5d6f3d68f560f3763f7&wsABSTime=1793364942
 
-#EXTINF:-1 tvg-id="8yomo4h1oz0eq0j" tvg-name="Dep. La Coruna vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Dep. La Coruna vs Osasuna
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793307901-0-0-45d65f8f74b701347e0f4136b55aa8c5
+#EXTINF:-1 tvg-id="pxwrxlhlpo87ryk" tvg-name="Halaba City vs Hadiya Hossana" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhjodlqvy9/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 20:00 WIB] Halaba City vs Hadiya Hossana
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=c5e05d30873a9de0cd84aba8c9fbc072&wsABSTime=1793364943
+
+#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv1" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 01:00 WIB] Le Havre FC vs PSG (Server 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv2" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 01:00 WIB] Le Havre FC vs PSG (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793321739-0-0-6bfa80389c9b8b6a5be6bab6639ebb03
+
+#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv3" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 01:00 WIB] Le Havre FC vs PSG (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793321739-0-0-d119b00565c84b12c10f0951b6df8bce
+
+#EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v_srv4" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 01:00 WIB] Le Havre FC vs PSG (Server 4)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
