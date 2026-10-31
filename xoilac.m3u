@@ -4,41 +4,59 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
+#EXTINF:-1 tvg-id="318q66hx5y0dqo9_srv1" tvg-name="Arema FC vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlp2lrz84/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] Arema FC vs Bali United (Server 1)
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="318q66hx5y0dqo9_srv2" tvg-name="Arema FC vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlp2lrz84/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] Arema FC vs Bali United (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001793411465-0-0-1e7445c453e9ed7927daa9b641e7cbc4
+
+#EXTINF:-1 tvg-id="dn1m1ghlwyezmoe_srv1" tvg-name="PSM Makassar vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh6699m7vx/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] PSM Makassar vs Madura United (Server 1)
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghlwyezmoe_srv2" tvg-name="PSM Makassar vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh6699m7vx/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] PSM Makassar vs Madura United (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-20.m3u8?auth_key=3000001793411466-0-0-66d2670419a5e77ff820518c8f57d00a
+
+#EXTINF:-1 tvg-id="l5ergph49x31r8k_srv1" tvg-name="Persik Kediri vs Persita" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h741nq0j6/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] Persik Kediri vs Persita (Server 1)
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph49x31r8k_srv2" tvg-name="Persik Kediri vs Persita" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h741nq0j6/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] Persik Kediri vs Persita (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001793411467-0-0-98edfecbfaf14edc32285a0fa708611e
+
+#EXTINF:-1 tvg-id="y0or5jh87d9nqwz" tvg-name="PSGC Ciamis vs PSMS Medan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh534nmd7o/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] PSGC Ciamis vs PSMS Medan
+https://live1.quickscoreboardz.com/live/channel21.m3u8?wsSecret=73ee83b5e1c1d7ba7d9ad8988b2bfcf8&wsABSTime=1793454667
+
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv1" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 1)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv2" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793400208-0-0-52ef6dab23a3d2e9614f24d53658ac0d
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793411463-0-0-013f8002b407a3fab3895bba434625e2
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv3" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 3)
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=6db604958a3464418331dbd483b288f4&wsABSTime=1793443408
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=7374444f4f8cb8ce1d05eef820301db2&wsABSTime=1793454663
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv4" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 4)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv5" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 5)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793400209-0-0-d1c5990a20c0d4296ce8ff3a7ee45624
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793411464-0-0-850291201b94b01ef90446fe5cfb27f8
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv6" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 6)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv7" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 7)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793400209-0-0-48b59e736f39ac68e969beca78e0ae9b
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793411464-0-0-b5028146a402ba65081b3a4ebf1d5662
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv8" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 8)
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=3b02fbbc1d348e952e239ef4b92833fc&wsABSTime=1793443409
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=289e4c58619bd06507e1911529493226&wsABSTime=1793454664
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv9" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 9)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793400209-0-0-ad51fc56820068d74f88387c82a5e3f6
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793411464-0-0-fe5e1cfad1d266b82e7429fb8c06c583
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv10" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 10)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793400210-0-0-f47375467907244692951f9410af0d6e
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793411464-0-0-4e94e56b9bb5e51fb6161953b459c273
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv11" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 11)
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=12a173dc445f5139ff61e1170db62646&wsABSTime=1793443410
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=10844da6899d3c162c2b03039c94d581&wsABSTime=1793454664
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv12" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 12)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793400210-0-0-c50da78404a03e964d7568ab445fd08c
-
-#EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0_srv13" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] Chelsea vs Manchester United (Server 13)
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=329402614ef0d7d26a6edb039c21883b&wsABSTime=1793443411
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=7b96bf1d867325427ecfbe308298f8fd&wsABSTime=1793454665
