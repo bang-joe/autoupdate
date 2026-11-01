@@ -4,35 +4,41 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="6ypq3nhk0e0wmd7" tvg-name="ELCO LTD St Peters vs SLH St Pauls Utd" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghjp63r6od/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 07:30 WIB] ELCO LTD St Peters vs SLH St Pauls Utd
-https://live1.quickscoreboardz.com/live/channel34.m3u8?wsSecret=03e700b6eb5e035195e4489fca98c23a&wsABSTime=1793535465
-
 #EXTINF:-1 tvg-id="dj2ryohlz6y8q1z_srv1" tvg-name="Persib Bandung vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh4z7xr6od/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] Persib Bandung vs Isenmulang Kalteng (Server 1)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="dj2ryohlz6y8q1z_srv2" tvg-name="Persib Bandung vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh4z7xr6od/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] Persib Bandung vs Isenmulang Kalteng (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793492266-0-0-1dd9c88ecbeeaa21950d791a3b6d0c13
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793514669-0-0-e83e6d694366efc02946b3f396ed2f12
 
 #EXTINF:-1 tvg-id="jw2r09hkoynorz8_srv1" tvg-name="PSIM Yogyakarta vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh51zzmd7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] PSIM Yogyakarta vs Borneo FC Samarinda (Server 1)
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09hkoynorz8_srv2" tvg-name="PSIM Yogyakarta vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh51zzmd7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] PSIM Yogyakarta vs Borneo FC Samarinda (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793492267-0-0-7872287547d0edecaece32d0e03560f1
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793514669-0-0-54480b5f1992b2984c9e64ee6dfc41ea
 
 #EXTINF:-1 tvg-id="n54qllhnvy4nqvy" tvg-name="PSIS Semarang vs Persikad Depok" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg26jr6od/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] PSIS Semarang vs Persikad Depok
-https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=d5ebe560b97d13982447f4403069028e&wsABSTime=1793535467
+https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=89f2260823839f7c07e0af80bef1e7f4&wsABSTime=1793557869
+
+#EXTINF:-1 tvg-id="6ypq3nhvd4womd7_srv1" tvg-name="PEC Zwolle vs ADO Den Haag" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghj83m0ve/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:15 WIB] PEC Zwolle vs ADO Den Haag (Server 1)
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvd4womd7_srv2" tvg-name="PEC Zwolle vs ADO Den Haag" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghj83m0ve/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:15 WIB] PEC Zwolle vs ADO Den Haag (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793514669-0-0-c5b8172fce5bbd1a06c8225d860f15e1
 
 #EXTINF:-1 tvg-id="l5ergph4jo6or8k_srv1" tvg-name="Como vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hnz4q0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:30 WIB] Como vs Venezia (Server 1)
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=4ca14e51a12311483992df542c0b3b53&wsABSTime=1793535465
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=9c8f73acf0668ef98bb2d53b5e14bcfb&wsABSTime=1793557867
 
 #EXTINF:-1 tvg-id="l5ergph4jo6or8k_srv2" tvg-name="Como vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hnz4q0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:30 WIB] Como vs Venezia (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793492265-0-0-4ce17b9bc2626453abad00ababc75028
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793514667-0-0-3fe7a839ac5e3c718bdc8c028ddbbe0e
 
 #EXTINF:-1 tvg-id="l5ergph4jo6or8k_srv3" tvg-name="Como vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hnz4q0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:30 WIB] Como vs Venezia (Server 3)
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793492265-0-0-e03734a0f9136e349939ea1d783df788
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793514667-0-0-3749cec5190ce3937bfcf398ee7de04a
 
 #EXTINF:-1 tvg-id="l5ergph4jo6or8k_srv4" tvg-name="Como vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hnz4q0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:30 WIB] Como vs Venezia (Server 4)
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-id="318q66hxdpgdqo9" tvg-name="Manchester United vs Aston Villa" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 23:30 WIB] Manchester United vs Aston Villa
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793492266-0-0-9257ab101c94c552b5f54b142e92c0ee
+#EXTINF:-1 tvg-id="l5ergph4jo6or8k_srv5" tvg-name="Como vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hnz4q0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:30 WIB] Como vs Venezia (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793514668-0-0-b28baad70fea49cab2a5c1f37ec78fb5
+
+#EXTINF:-1 tvg-id="l7oqdehgzk3vr51" tvg-name="Sunderland vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 21:00 WIB] Sunderland vs Chelsea
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793514668-0-0-b1b1fd5ead0ba35c87cfdd99ab790161
