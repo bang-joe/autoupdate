@@ -1,69 +1,26 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="vjxm8gheo28zr6o" tvg-name="Groningen vs Sparta Rotterdam" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phe0xm2wd/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",Groningen vs Sparta Rotterdam (LIVE)
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793558412-0-0-fc8fbbf7602c9fed6278665e55efd4ba
-
-#EXTINF:-1 tvg-id="965mkyhk9e6kr1g" tvg-name="Lyon vs Angers" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lyon vs Angers (LIVE)
-https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793558419-0-0-70f1f3b0f7fb6bc3acdc33958f309d85
-
-#EXTINF:-1 tvg-id="318q66hxd453qo9_srv1" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9nvq82w/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Paris FC vs AS Monaco (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxd453qo9_srv2" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9nvq82w/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",Paris FC vs AS Monaco (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793558421-0-0-e9adde57b2bddf1154ff01e1ace72107
-
-#EXTINF:-1 tvg-id="6ypq3nhvo1l0md7_srv1" tvg-name="Elche CF vs Valencia CF" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhd2gqwzv/image/small" group-title="LIVE | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",Elche CF vs Valencia CF (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="6ypq3nhvo1l0md7_srv2" tvg-name="Elche CF vs Valencia CF" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhd2gqwzv/image/small" group-title="LIVE | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",Elche CF vs Valencia CF (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793558396-0-0-7b347b2475994ae1bcd0022c6a53e4c6
-
-#EXTINF:-1 tvg-id="4jwq2ghnyx08m0v_srv1" tvg-name="Maritimo vs Santa Clara" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhy23md7o/image/small" group-title="LIVE | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",Maritimo vs Santa Clara (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghnyx08m0v_srv2" tvg-name="Maritimo vs Santa Clara" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhy23md7o/image/small" group-title="LIVE | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",Maritimo vs Santa Clara (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001793558399-0-0-2cf9cd8f058fa6adc74badf11958f598
-
-#EXTINF:-1 tvg-id="vjxm8ghed820r6o_srv1" tvg-name="Viseu vs Rio Ave" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwy16qdyj/image/small" group-title="LIVE | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",Viseu vs Rio Ave (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8ghed820r6o_srv2" tvg-name="Viseu vs Rio Ave" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwy16qdyj/image/small" group-title="LIVE | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",Viseu vs Rio Ave (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793558402-0-0-61f9271137ea48b82913c0f6d7eabaac
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="318q66hxdo19qo9_srv1" tvg-name="Lecce vs Genoa" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hvnwrz84/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 00:00 WIB] Lecce vs Genoa (Server 1)
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxdo19qo9_srv2" tvg-name="Lecce vs Genoa" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hvnwrz84/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 00:00 WIB] Lecce vs Genoa (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001793558398-0-0-d7c595afea9d3b95e27421f1fa2c7011
-
-#EXTINF:-1 tvg-id="y39mp1h68y2dmoj_srv1" tvg-name="Marseille vs Toulouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hyl1rz84/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 02:45 WIB] Marseille vs Toulouse FC (Server 1)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="y39mp1h68y2dmoj_srv2" tvg-name="Marseille vs Toulouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hyl1rz84/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 02:45 WIB] Marseille vs Toulouse FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793558397-0-0-634c0c08217e7629ef1e999811a38d15
-
-#EXTINF:-1 tvg-id="l7oqdehgznw4r51_srv1" tvg-name="Juventus vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 02:45 WIB] Juventus vs Napoli (Server 1)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehgznw4r51_srv2" tvg-name="Juventus vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 02:45 WIB] Juventus vs Napoli (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793558398-0-0-b92224733811680c2eb8a96e048355c1
-
-#EXTINF:-1 tvg-id="jw2r09hkv1jzrz8_srv1" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 03:00 WIB] Athletic Bilbao vs Real Sociedad (Server 1)
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="jw2r09hkv1jzrz8_srv2" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 03:00 WIB] Athletic Bilbao vs Real Sociedad (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793558398-0-0-96d02eed57bd92cc301f507694bec344
 
 #EXTINF:-1 tvg-id="n54qllhng8k6qvy_srv1" tvg-name="Sporting Braga vs FC Famalicao" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoojr6od/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 03:30 WIB] Sporting Braga vs FC Famalicao (Server 1)
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="n54qllhng8k6qvy_srv2" tvg-name="Sporting Braga vs FC Famalicao" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoojr6od/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 03:30 WIB] Sporting Braga vs FC Famalicao (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793558422-0-0-b4025ad045464c067ecf030b4df7cf47
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793571881-0-0-713fca230be817d0f2b72086737fef01
+
+#EXTINF:-1 tvg-id="n54qllh456gnqvy" tvg-name="Ethiopia Nigd Bank vs Ethiopian Insurance" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hn223rz84/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 19:00 WIB] Ethiopia Nigd Bank vs Ethiopian Insurance
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=8ce45168a612e68dd01e4bd483e413e2&wsABSTime=1793615081
+
+#EXTINF:-1 tvg-id="y39mp1h6xkpvmoj" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk27yq1zp/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] Pakhtakor vs Al Nassr
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793571882-0-0-70ad62e3115a4236189f88b207de211a
+
+#EXTINF:-1 tvg-id="jw2r09hkep71rz8" tvg-name="Tractor S.C. vs Neftchi Fergana" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn85er510/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Tractor S.C. vs Neftchi Fergana
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793571882-0-0-70ad62e3115a4236189f88b207de211a
+
+#EXTINF:-1 tvg-id="n54qllhnlk9lqvy" tvg-name="Al-Wasl SC vs Al Quwa Al Jawiya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwnkkqdyj/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Al-Wasl SC vs Al Quwa Al Jawiya
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793571882-0-0-70ad62e3115a4236189f88b207de211a
+
+#EXTINF:-1 tvg-id="zp5rzghgn21vq82" tvg-name="Al-Sadd Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhdn6ryk0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Al-Sadd Sports Club vs Al Ahli SC
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793571882-0-0-70ad62e3115a4236189f88b207de211a
