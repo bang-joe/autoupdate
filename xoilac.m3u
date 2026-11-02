@@ -1,53 +1,84 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="dn1m1ghld4j3moe_srv1" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sassuolo vs Fiorentina (LIVE) (Server 1)
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghld4j3moe_srv2" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sassuolo vs Fiorentina (LIVE) (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793644642-0-0-97c7826156ec5fea07bccdfe69367242
+
+#EXTINF:-1 tvg-id="dn1m1ghld4j3moe_srv3" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="LIVE | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sassuolo vs Fiorentina (LIVE) (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793644644-0-0-7348d88b48232b158b635ef25ef2c46b
+
+########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="n54qllh456gnqvy" tvg-name="Ethiopia Nigd Bank vs Ethiopian Insurance" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hn223rz84/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 19:00 WIB] Ethiopia Nigd Bank vs Ethiopian Insurance
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=50a67e791a49b18f3f40f3730a3cb385&wsABSTime=1793650621
+#EXTINF:-1 tvg-id="vjxm8ghen23dr6o_srv1" tvg-name="Al Ittihad(KSA) vs Al-Ain FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 01:15 WIB] Al Ittihad(KSA) vs Al-Ain FC (Server 1)
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-id="l5ergph491n3r8k" tvg-name="Mashujaa FC vs Pamba Jiji" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whvx4kryox/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:15 WIB] Mashujaa FC vs Pamba Jiji
-https://live1.quickscoreboardz.com/live/channel21.m3u8?wsSecret=e551467ee66afc33e1338256779ba5fb&wsABSTime=1793650621
+#EXTINF:-1 tvg-id="vjxm8ghen23dr6o_srv2" tvg-name="Al Ittihad(KSA) vs Al-Ain FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 01:15 WIB] Al Ittihad(KSA) vs Al-Ain FC (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793644649-0-0-c75b1d0ca28f03aa568749c6e1a23071
 
-#EXTINF:-1 tvg-id="y39mp1h6xkpvmoj_srv1" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk27yq1zp/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] Pakhtakor vs Al Nassr (Server 1)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#EXTINF:-1 tvg-id="ednm9whwjddjryo_srv1" tvg-name="Al-Gharafa Sports Club vs Al Qadsiah" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho0nlr8k0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 01:15 WIB] Al-Gharafa Sports Club vs Al Qadsiah (Server 1)
+https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h6xkpvmoj_srv2" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk27yq1zp/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] Pakhtakor vs Al Nassr (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793607420-0-0-87d46d66ad78aacb93368b00aeef80cc
+#EXTINF:-1 tvg-id="ednm9whwjddjryo_srv2" tvg-name="Al-Gharafa Sports Club vs Al Qadsiah" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho0nlr8k0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 01:15 WIB] Al-Gharafa Sports Club vs Al Qadsiah (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793644649-0-0-265110046d526699cc4579517b24cd90
 
-#EXTINF:-1 tvg-id="y39mp1h6xkpvmoj_srv3" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk27yq1zp/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] Pakhtakor vs Al Nassr (Server 3)
-https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=9301a0c6b525f8d6d92b592811ce46c6&wsABSTime=1793650620
-
-#EXTINF:-1 tvg-id="y39mp1h6xkpvmoj_srv4" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk27yq1zp/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] Pakhtakor vs Al Nassr (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793607420-0-0-25caa524fd895d526b7ad5f291ca4b9a
-
-#EXTINF:-1 tvg-id="jw2r09hkep71rz8_srv1" tvg-name="Tractor S.C. vs Neftchi Fergana" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn85er510/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Tractor S.C. vs Neftchi Fergana (Server 1)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="jw2r09hkep71rz8_srv2" tvg-name="Tractor S.C. vs Neftchi Fergana" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn85er510/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Tractor S.C. vs Neftchi Fergana (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793607422-0-0-eabb6aaadfe08b17ec94856348ea9b36
-
-#EXTINF:-1 tvg-id="n54qllhnlk9lqvy_srv1" tvg-name="Al-Wasl SC vs Al Quwa Al Jawiya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwnkkqdyj/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Al-Wasl SC vs Al Quwa Al Jawiya (Server 1)
+#EXTINF:-1 tvg-id="ednm9whwlv37ryo_srv1" tvg-name="Lorient vs Brest" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh5vvqg8n/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] Lorient vs Brest (Server 1)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-id="n54qllhnlk9lqvy_srv2" tvg-name="Al-Wasl SC vs Al Quwa Al Jawiya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwnkkqdyj/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Al-Wasl SC vs Al Quwa Al Jawiya (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793607423-0-0-ccff27a87fe6765af8bb9008c8663438
+#EXTINF:-1 tvg-id="ednm9whwlv37ryo_srv2" tvg-name="Lorient vs Brest" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh5vvqg8n/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] Lorient vs Brest (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793644647-0-0-e9decec67480df7cc08a4a65b4837f09
 
-#EXTINF:-1 tvg-id="zp5rzghgn21vq82_srv1" tvg-name="Al-Sadd Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhdn6ryk0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Al-Sadd Sports Club vs Al Ahli SC (Server 1)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgejeoq82_srv1" tvg-name="Atalanta vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phyw6m2wd/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] Atalanta vs Parma (Server 1)
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
-#EXTINF:-1 tvg-id="zp5rzghgn21vq82_srv2" tvg-name="Al-Sadd Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhdn6ryk0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] Al-Sadd Sports Club vs Al Ahli SC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793607423-0-0-d352855e6277d1d03cce88c9471c4057
+#EXTINF:-1 tvg-id="zp5rzghgejeoq82_srv2" tvg-name="Atalanta vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phyw6m2wd/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] Atalanta vs Parma (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793644650-0-0-76369d542ace566deee79506e81fdad2
 
-#EXTINF:-1 tvg-id="dn1m1ghld4j3moe_srv1" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 00:30 WIB] Sassuolo vs Fiorentina (Server 1)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#EXTINF:-1 tvg-id="n54qllhny619qvy_srv1" tvg-name="Newcastle United vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Newcastle United vs Everton (Server 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1ghld4j3moe_srv2" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 00:30 WIB] Sassuolo vs Fiorentina (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793607424-0-0-08532dc2977988fbe4ed64859cc83e3c
+#EXTINF:-1 tvg-id="n54qllhny619qvy_srv2" tvg-name="Newcastle United vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Newcastle United vs Everton (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793644648-0-0-23924861b8271af3fbbc3d1f05852f08
 
-#EXTINF:-1 tvg-id="dn1m1ghld4j3moe_srv3" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 00:30 WIB] Sassuolo vs Fiorentina (Server 3)
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=91071576ad05a58c7235dc7924841caf&wsABSTime=1793650624
+#EXTINF:-1 tvg-id="n54qllhny619qvy_srv3" tvg-name="Newcastle United vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Newcastle United vs Everton (Server 3)
+https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=9ea323f7337f689050d28f1b66cdf9cd&wsABSTime=1793687848
 
-#EXTINF:-1 tvg-id="dn1m1ghld4j3moe_srv4" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 00:30 WIB] Sassuolo vs Fiorentina (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793607424-0-0-8b29b22b8a3b0fc7b40f85d7c3c79bf3
+#EXTINF:-1 tvg-id="n54qllhny619qvy_srv4" tvg-name="Newcastle United vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Newcastle United vs Everton (Server 4)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793644648-0-0-615e900e90f82ae4be6f533ced574eee
+
+#EXTINF:-1 tvg-id="8yomo4h1oz0eq0j_srv1" tvg-name="Dep. La Coruna vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Dep. La Coruna vs Osasuna (Server 1)
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=8952d696a2692ce6725ac300bcfc874b&wsABSTime=1793687848
+
+#EXTINF:-1 tvg-id="8yomo4h1oz0eq0j_srv2" tvg-name="Dep. La Coruna vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Dep. La Coruna vs Osasuna (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793644648-0-0-b1bb9398cc134c75216c5dfd736dc0fa
+
+#EXTINF:-1 tvg-id="8yomo4h1oz0eq0j_srv3" tvg-name="Dep. La Coruna vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Dep. La Coruna vs Osasuna (Server 3)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1oz0eq0j_srv4" tvg-name="Dep. La Coruna vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] Dep. La Coruna vs Osasuna (Server 4)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793644649-0-0-5ddd31e661304bd552b80a91c4bfb55f
+
+#EXTINF:-1 tvg-id="1l4rjnh9ox3wm7v_srv1" tvg-name="Gil Vicente vs Vitoria Guimaraes" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho51ql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:15 WIB] Gil Vicente vs Vitoria Guimaraes (Server 1)
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9ox3wm7v_srv2" tvg-name="Gil Vicente vs Vitoria Guimaraes" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho51ql07/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:15 WIB] Gil Vicente vs Vitoria Guimaraes (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793644651-0-0-8ada187e04ccacf3f59c94f5748a0a22
+
+#EXTINF:-1 tvg-id="y0or5jh8y30dqwz_srv1" tvg-name="Benfica vs Alverca" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hjyoq0j6/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:15 WIB] Benfica vs Alverca (Server 1)
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8y30dqwz_srv2" tvg-name="Benfica vs Alverca" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hjyoq0j6/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:15 WIB] Benfica vs Alverca (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001793644651-0-0-6421d97e99c484ed7f9093bbb3f570c5
+
+#EXTINF:-1 tvg-id="3glrw7h4wknwqdy" tvg-name="Molynes United vs Mount Pleasant FA" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphv19zr8k0/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 05:05 WIB] Molynes United vs Mount Pleasant FA
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=e12fa1ed95c67a547384c187d7cb170f&wsABSTime=1793687851
+
+#EXTINF:-1 tvg-id="vjxm8ghk4vegr6o" tvg-name="Waterhouse FC vs Cavalier FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4y2omoep/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 08:00 WIB] Waterhouse FC vs Cavalier FC
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=851633ea30a9864f8fadab2a2e7243a9&wsABSTime=1793687852
