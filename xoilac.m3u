@@ -8,22 +8,40 @@
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh5kyg0ql0_srv2" tvg-name="PSIM Yogyakarta vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh51zzmd7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 15:30 WIB] PSIM Yogyakarta vs Dewa United FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793932828-0-0-29c62a330a49fb6ec04077ba7352edb5
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793958744-0-0-a9cbe3857fb8d96ca63ef03469561f2d
 
 #EXTINF:-1 tvg-id="8yomo4h1dl27q0j_srv1" tvg-name="Madura United vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h1381qdyj/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 19:00 WIB] Madura United vs Arema FC (Server 1)
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1dl27q0j_srv2" tvg-name="Madura United vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h1381qdyj/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 19:00 WIB] Madura United vs Arema FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793932829-0-0-e386affbdd7e8714cdcf9124502e4a77
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793958744-0-0-1de2d23a10c91e8db3df6e344fac50b5
 
 #EXTINF:-1 tvg-id="x7lm7phjd5wlm2w_srv1" tvg-name="Willem II vs PEC Zwolle" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhy3xql07/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:00 WIB] Willem II vs PEC Zwolle (Server 1)
 https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phjd5wlm2w_srv2" tvg-name="Willem II vs PEC Zwolle" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhy3xql07/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:00 WIB] Willem II vs PEC Zwolle (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793932831-0-0-411ba099b3026317e2b2ecf475849533
+https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793958745-0-0-ddd4fa45b0003d99187ba914a1d9342d
 
 #EXTINF:-1 tvg-id="y39mp1h6nkn0moj_srv1" tvg-name="Hamburger SV vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdoyqwzv/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:30 WIB] Hamburger SV vs B. Monchengladbach (Server 1)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="y39mp1h6nkn0moj_srv2" tvg-name="Hamburger SV vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdoyqwzv/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:30 WIB] Hamburger SV vs B. Monchengladbach (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793932827-0-0-95bf7df8b989fa4313374b02c9ca640c
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793958745-0-0-9f34f30603f93dfa3cb33ebe66d9526e
+
+#EXTINF:-1 tvg-id="965mkyhk97wdr1g_srv1" tvg-name="Venezia vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] Venezia vs Udinese (Server 1)
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=2f48c3bd92d2aeadf100a04581209bcf&wsABSTime=1794001945
+
+#EXTINF:-1 tvg-id="965mkyhk97wdr1g_srv2" tvg-name="Venezia vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] Venezia vs Udinese (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793958746-0-0-914c29b7222a20dc37f24e56e4990586
+
+#EXTINF:-1 tvg-id="965mkyhk97wdr1g_srv3" tvg-name="Venezia vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] Venezia vs Udinese (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793958746-0-0-978acfc20ba26bd7ed639b5af12b8169
+
+#EXTINF:-1 tvg-id="965mkyhk97wdr1g_srv4" tvg-name="Venezia vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] Venezia vs Udinese (Server 4)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhywj61ryk_srv1" tvg-name="Toulouse FC vs Strasbourg" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh6k5q1zp/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] Toulouse FC vs Strasbourg (Server 1)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhywj61ryk_srv2" tvg-name="Toulouse FC vs Strasbourg" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh6k5q1zp/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] Toulouse FC vs Strasbourg (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793958747-0-0-cfd6ab3027fbf00b7db195826784ddc1
