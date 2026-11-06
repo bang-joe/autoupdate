@@ -4,23 +4,26 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="dn1m1gh9vz2lmoe" tvg-name="Arnett Gardens vs Mount Pleasant FA" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h31n8mojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 07:00 WIB] Arnett Gardens vs Mount Pleasant FA
-https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=881f5908bbd2aa1d0d0560d5cfee6bd6&wsABSTime=1793960820
-
 #EXTINF:-1 tvg-id="2y8m4zh5kyg0ql0_srv1" tvg-name="PSIM Yogyakarta vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh51zzmd7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 15:30 WIB] PSIM Yogyakarta vs Dewa United FC (Server 1)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh5kyg0ql0_srv2" tvg-name="PSIM Yogyakarta vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh51zzmd7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 15:30 WIB] PSIM Yogyakarta vs Dewa United FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793917622-0-0-1296b18512e6bacd29cd232973031aeb
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793932828-0-0-29c62a330a49fb6ec04077ba7352edb5
 
 #EXTINF:-1 tvg-id="8yomo4h1dl27q0j_srv1" tvg-name="Madura United vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h1381qdyj/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 19:00 WIB] Madura United vs Arema FC (Server 1)
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1dl27q0j_srv2" tvg-name="Madura United vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h1381qdyj/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 19:00 WIB] Madura United vs Arema FC (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793917623-0-0-6243e4cdd2c36b3a536b017ceaa9080a
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793932829-0-0-e386affbdd7e8714cdcf9124502e4a77
+
+#EXTINF:-1 tvg-id="x7lm7phjd5wlm2w_srv1" tvg-name="Willem II vs PEC Zwolle" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhy3xql07/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:00 WIB] Willem II vs PEC Zwolle (Server 1)
+https://live2.jorvakstreamcache.com/live/channel9.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phjd5wlm2w_srv2" tvg-name="Willem II vs PEC Zwolle" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhy3xql07/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:00 WIB] Willem II vs PEC Zwolle (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793932831-0-0-411ba099b3026317e2b2ecf475849533
 
 #EXTINF:-1 tvg-id="y39mp1h6nkn0moj_srv1" tvg-name="Hamburger SV vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdoyqwzv/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:30 WIB] Hamburger SV vs B. Monchengladbach (Server 1)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="y39mp1h6nkn0moj_srv2" tvg-name="Hamburger SV vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdoyqwzv/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:30 WIB] Hamburger SV vs B. Monchengladbach (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793917621-0-0-d6850108bcff770f303a60fcfc022c2f
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793932827-0-0-95bf7df8b989fa4313374b02c9ca640c
