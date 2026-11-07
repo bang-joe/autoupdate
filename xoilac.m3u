@@ -8,22 +8,52 @@
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-id="6ypq3nhvjyz5md7_srv2" tvg-name="Borneo FC Samarinda vs PSM Makassar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg2jlr6od/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 15:30 WIB] Borneo FC Samarinda vs PSM Makassar (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001794016365-0-0-e655944f8d172f3d8f3f38d58c08428a
+https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001794038311-0-0-3485514baeb0ae67957d870035dbcdaf
+
+#EXTINF:-1 tvg-id="vjxm8ghezdjpr6o" tvg-name="Persita vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh137nm7vx/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] Persita vs Isenmulang Kalteng
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=00b0833f9ad999fef2f93196a85a2627&wsABSTime=1794081511
+
+#EXTINF:-1 tvg-id="pxwrxlhyk899ryk_srv1" tvg-name="Persija Jakarta vs Persebaya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho7p8r8k0/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] Persija Jakarta vs Persebaya (Server 1)
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhyk899ryk_srv2" tvg-name="Persija Jakarta vs Persebaya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho7p8r8k0/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] Persija Jakarta vs Persebaya (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001794038312-0-0-16bcde067994d1b7e3a987f591057ebe
+
+#EXTINF:-1 tvg-id="3glrw7hnv2jyqdy" tvg-name="Persijap Jepara vs Garudayaksa FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hldwdrz84/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] Persijap Jepara vs Garudayaksa FC
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=1c3b775cdcea4625ef7ae98fba7253d1&wsABSTime=1794081512
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g_srv1" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] Leeds United vs Tottenham (Server 1)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g_srv2" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] Leeds United vs Tottenham (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794016363-0-0-93678b0e37012c79e94abc7a85a31090
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794038310-0-0-b390dcdfd5135fcc7cb9b4f180257aaf
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g_srv3" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] Leeds United vs Tottenham (Server 3)
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=1e5ec8d6d9bfb029b5f7fd24260916e3&wsABSTime=1794059564
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=42b2e6ef57a552ddac02157984fcc9dd&wsABSTime=1794081510
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g_srv4" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] Leeds United vs Tottenham (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001794016364-0-0-8a61f2857c02117e7a079a3408288fd0
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001794038310-0-0-837945c8e12a0910548b52e9662cb885
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g_srv5" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] Leeds United vs Tottenham (Server 5)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g_srv6" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] Leeds United vs Tottenham (Server 6)
-https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=1e0430b1e1308ba8808ed0fd14ccf5ed&wsABSTime=1794059564
+https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=b4a7f95b97642552d715cd451aaacbc1&wsABSTime=1794081510
+
+#EXTINF:-1 tvg-id="jw2r09hkv17lrz8_srv1" tvg-name="Malaga vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4eerepz/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 20:00 WIB] Malaga vs Racing Santander (Server 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkv17lrz8_srv2" tvg-name="Malaga vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4eerepz/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 20:00 WIB] Malaga vs Racing Santander (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001794038313-0-0-05649a14a92e43fe0b91453d225e89ac
+
+#EXTINF:-1 tvg-id="k82rekhgdvd7rep_srv1" tvg-name="Cagliari vs Frosinone" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:00 WIB] Cagliari vs Frosinone (Server 1)
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="k82rekhgdvd7rep_srv2" tvg-name="Cagliari vs Frosinone" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:00 WIB] Cagliari vs Frosinone (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001794038314-0-0-09417f0dfbf0d246f31bee84def93f09
+
+#EXTINF:-1 tvg-id="y0or5jh8dlpdqwz_srv1" tvg-name="Torino vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hw6lq0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:00 WIB] Torino vs Lecce (Server 1)
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8dlpdqwz_srv2" tvg-name="Torino vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hw6lq0j6/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:00 WIB] Torino vs Lecce (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001794038314-0-0-500d004faf62572e4ebdeffea4224e39
