@@ -5,4 +5,16 @@
 ########################################################
 
 #EXTINF:-1 tvg-id="965mkyhkpkxnr1g" tvg-name="Guam U17 vs Singapore U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphnp2jr8k0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 14:30 WIB] Guam U17 vs Singapore U17
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=a67c35f0c62d4f76ae85bd8e902ee12e&wsABSTime=1794134534
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=6a88039287e34c511656445947a688f9&wsABSTime=1794145809
+
+#EXTINF:-1 tvg-id="dn1m1ghld4g6moe_srv1" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] Napoli vs Lazio (Server 1)
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=89b304367443694b73a5739d4e903783&wsABSTime=1794145808
+
+#EXTINF:-1 tvg-id="dn1m1ghld4g6moe_srv2" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] Napoli vs Lazio (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794102609-0-0-62aeb297985395d2d1690c757e46bfc0
+
+#EXTINF:-1 tvg-id="dn1m1ghld4g6moe_srv3" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] Napoli vs Lazio (Server 3)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghld4g6moe_srv4" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] Napoli vs Lazio (Server 4)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001794102609-0-0-4ed7d74293799e0bf5fa14223c104a51
