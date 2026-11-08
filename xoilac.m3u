@@ -1,20 +1,78 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="23xmvkh676zvqg8" tvg-name="Hồng Kông U17 vs Iraq U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh8d5q1zp/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Hồng Kông U17 vs Iraq U17 (LIVE)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1n1o6q0j" tvg-name="Bắc Mariana U17 vs Mông Cổ U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hw17vrz84/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Bắc Mariana U17 vs Mông Cổ U17 (LIVE)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="965mkyhkpkxnr1g" tvg-name="Guam U17 vs Singapore U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphnp2jr8k0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 14:30 WIB] Guam U17 vs Singapore U17
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=6a88039287e34c511656445947a688f9&wsABSTime=1794145809
+#EXTINF:-1 tvg-id="x7lm7phj1y0pm2w_srv1" tvg-name="Bali United vs Persik Kediri" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghe757moep/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] Bali United vs Persik Kediri (Server 1)
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phj1y0pm2w_srv2" tvg-name="Bali United vs Persik Kediri" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghe757moep/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] Bali United vs Persik Kediri (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001794125803-0-0-0b5eb4434a9df41df079262389438012
+
+#EXTINF:-1 tvg-id="y0or5jh82ye0qwz_srv1" tvg-name="PSS Sleman vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergph3lnzr8k0/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] PSS Sleman vs Bhayangkara Presisi (Server 1)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh82ye0qwz_srv2" tvg-name="PSS Sleman vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergph3lnzr8k0/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] PSS Sleman vs Bhayangkara Presisi (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001794125803-0-0-eaa0edfb9de0702010b60766b9b467e7
+
+#EXTINF:-1 tvg-id="pxwrxlhydy0yryk" tvg-name="Afghanistan U17 vs Myanmar U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh61vkm7vx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] Afghanistan U17 vs Myanmar U17
+https://live1.quickscoreboardz.com/live/channel36.m3u8?wsSecret=0d44364ae4640cde89f6628ba8232078&wsABSTime=1794169004
+
+#EXTINF:-1 tvg-id="vjxm8gheyeo1r6o" tvg-name="Sri Lanka U17 vs Pakistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7ph99v5m2wd/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 16:00 WIB] Sri Lanka U17 vs Pakistan U17
+https://live1.quickscoreboardz.com/live/channel37.m3u8?wsSecret=1b62925a0d11ce0f5ed92315c8d0265f&wsABSTime=1794169004
+
+#EXTINF:-1 tvg-id="3glrw7hndng4qdy_srv1" tvg-name="Campuchia U17 vs Philippines U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hn4wmojx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 16:30 WIB] Campuchia U17 vs Philippines U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hndng4qdy_srv2" tvg-name="Campuchia U17 vs Philippines U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hn4wmojx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 16:30 WIB] Campuchia U17 vs Philippines U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001794125805-0-0-24010c72642a273155a1a62d3833a4e7
+
+#EXTINF:-1 tvg-id="1l4rjnh9p3kzm7v_srv1" tvg-name="SC Heerenveen vs Feyenoord" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9ygq82w/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:15 WIB] SC Heerenveen vs Feyenoord (Server 1)
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9p3kzm7v_srv2" tvg-name="SC Heerenveen vs Feyenoord" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9ygq82w/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:15 WIB] SC Heerenveen vs Feyenoord (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001794125806-0-0-e5da591912acebc9c0cf27607fd33bdb
+
+#EXTINF:-1 tvg-id="4wyrn4h6g61lq86" tvg-name="Syria U17 vs Bangladesh U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh85om7vx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:20 WIB] Syria U17 vs Bangladesh U17
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=4a27541cc7332002b91199bf98582131&wsABSTime=1794169006
 
 #EXTINF:-1 tvg-id="dn1m1ghld4g6moe_srv1" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] Napoli vs Lazio (Server 1)
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=89b304367443694b73a5739d4e903783&wsABSTime=1794145808
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=7c68b4f5d5848907b07d07d646f15cdb&wsABSTime=1794168997
 
 #EXTINF:-1 tvg-id="dn1m1ghld4g6moe_srv2" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] Napoli vs Lazio (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794102609-0-0-62aeb297985395d2d1690c757e46bfc0
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001794125797-0-0-749d2c321aaf398f40fa10c1b8953390
 
 #EXTINF:-1 tvg-id="dn1m1ghld4g6moe_srv3" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] Napoli vs Lazio (Server 3)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794125797-0-0-8a3ccde5f7b061d86d29382f867ebe58
 
 #EXTINF:-1 tvg-id="dn1m1ghld4g6moe_srv4" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] Napoli vs Lazio (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001794102609-0-0-4ed7d74293799e0bf5fa14223c104a51
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnogx9qvy" tvg-name="Java United F.C. vs Persib Bandung" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh324grepz/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 19:00 WIB] Java United F.C. vs Persib Bandung
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=25a9f649e3b606d3d0cea5ce1cf53e3b&wsABSTime=1794169007
+
+#EXTINF:-1 tvg-id="2y8m4zh5l597ql0" tvg-name="Kyrgyzstan U17 vs Turkmenistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3xveql07/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 19:00 WIB] Kyrgyzstan U17 vs Turkmenistan U17
+https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=4b52fbe61c8cc4a66432fab9663da9f2&wsABSTime=1794169008
+
+#EXTINF:-1 tvg-id="3glrw7hndne2qdy" tvg-name="Jordan U17 vs Lào U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh7nlvr1ge/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 19:00 WIB] Jordan U17 vs Lào U17
+https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=76acceb958ec9e6f6727795e879a1747&wsABSTime=1794169008
+
+#EXTINF:-1 tvg-id="dn1m1ghlz1o5moe_srv1" tvg-name="Elche CF vs Real Betis" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhd2gqwzv/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 20:00 WIB] Elche CF vs Real Betis (Server 1)
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghlz1o5moe_srv2" tvg-name="Elche CF vs Real Betis" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhd2gqwzv/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 20:00 WIB] Elche CF vs Real Betis (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001794125809-0-0-7f2fc1a62e73c20edadbd62cbd760523
+
+#EXTINF:-1 tvg-id="y39mp1h676n9moj" tvg-name="Palestine U17 vs Malaysia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2e0eqvy9/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 20:00 WIB] Palestine U17 vs Malaysia U17
+https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=798ffecef0045a551f5dc8541838862f&wsABSTime=1794169010
