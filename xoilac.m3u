@@ -1,69 +1,11 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="ednm9whwldggryo_srv1" tvg-name="FC Utrecht vs NEC Nijmegen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdzyqwzv/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Utrecht vs NEC Nijmegen (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel17.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwldggryo_srv2" tvg-name="FC Utrecht vs NEC Nijmegen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdzyqwzv/image/small" group-title="LIVE | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Utrecht vs NEC Nijmegen (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001794167433-0-0-83d98ce0986218a88447f8e7e3b68b86
-
-#EXTINF:-1 tvg-id="3glrw7hneyxjqdy_srv1" tvg-name="RC Lens vs Marseille" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4jjryox/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Lens vs Marseille (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hneyxjqdy_srv2" tvg-name="RC Lens vs Marseille" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4jjryox/image/small" group-title="LIVE | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Lens vs Marseille (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794167429-0-0-6e29f318929c0dcaa2548c5c53ccee8f
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="l7oqdehgw0ddr51_srv1" tvg-name="Vitoria Guimaraes vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh021q1zp/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 01:00 WIB] Vitoria Guimaraes vs FC Porto (Server 1)
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
+#EXTINF:-1 tvg-id="1l4rjnhn6y92m7v" tvg-name="Chapelton vs Racing United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hv91eq86p/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[10/11 05:05 WIB] Chapelton vs Racing United
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=d94e698814cab0803011d7b6c53d6d5a&wsABSTime=1794222987
 
-#EXTINF:-1 tvg-id="l7oqdehgw0ddr51_srv2" tvg-name="Vitoria Guimaraes vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh021q1zp/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 01:00 WIB] Vitoria Guimaraes vs FC Porto (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001794167432-0-0-c8d36fcfc2e0ff768bbb1a0db22e9441
-
-#EXTINF:-1 tvg-id="zp5rzghg9291q82_srv1" tvg-name="TSG Hoffenheim vs Schalke 04" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 01:30 WIB] TSG Hoffenheim vs Schalke 04 (Server 1)
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghg9291q82_srv2" tvg-name="TSG Hoffenheim vs Schalke 04" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 01:30 WIB] TSG Hoffenheim vs Schalke 04 (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001794167427-0-0-6248a1cb938a104351aa89ef52316355
-
-#EXTINF:-1 tvg-id="y39mp1h6838lmoj_srv1" tvg-name="Fiorentina vs Juventus" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 02:45 WIB] Fiorentina vs Juventus (Server 1)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="y39mp1h6838lmoj_srv2" tvg-name="Fiorentina vs Juventus" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 02:45 WIB] Fiorentina vs Juventus (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001794167430-0-0-51ed7a278344ff8fa847221ade42c7d8
-
-#EXTINF:-1 tvg-id="n54qllhn6dj7qvy_srv1" tvg-name="Atletico Madrid vs Barcelona" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:00 WIB] Atletico Madrid vs Barcelona (Server 1)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhn6dj7qvy_srv2" tvg-name="Atletico Madrid vs Barcelona" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:00 WIB] Atletico Madrid vs Barcelona (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794167431-0-0-a545599d6987c42e9dd3cd74876eef01
-
-#EXTINF:-1 tvg-id="n54qllhn6dj7qvy_srv3" tvg-name="Atletico Madrid vs Barcelona" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:00 WIB] Atletico Madrid vs Barcelona (Server 3)
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=254cb11edba3e6d3cc26889dcd0e27c7&wsABSTime=1794210631
-
-#EXTINF:-1 tvg-id="n54qllhn6dj7qvy_srv4" tvg-name="Atletico Madrid vs Barcelona" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:00 WIB] Atletico Madrid vs Barcelona (Server 4)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001794167431-0-0-e838f9e6867376b03f4829c9f6173e47
-
-#EXTINF:-1 tvg-id="n54qllhn6dj7qvy_srv5" tvg-name="Atletico Madrid vs Barcelona" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:00 WIB] Atletico Madrid vs Barcelona (Server 5)
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhn6dj7qvy_srv6" tvg-name="Atletico Madrid vs Barcelona" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:00 WIB] Atletico Madrid vs Barcelona (Server 6)
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=f7a3048b655422fed766cc7b67d80e6e&wsABSTime=1794210631
-
-#EXTINF:-1 tvg-id="4wyrn4h6p40vq86_srv1" tvg-name="Rio Ave vs Sporting Braga" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hp5dq0j6/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:30 WIB] Rio Ave vs Sporting Braga (Server 1)
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-id="4wyrn4h6p40vq86_srv2" tvg-name="Rio Ave vs Sporting Braga" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hp5dq0j6/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:30 WIB] Rio Ave vs Sporting Braga (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001794167435-0-0-f33cea344a55c48e4d47a50baf4cc5e0
-
-#EXTINF:-1 tvg-id="k82rekhgpon9rep_srv1" tvg-name="Estrela Amadora vs Benfica" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2gh2ovm0ve/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:30 WIB] Estrela Amadora vs Benfica (Server 1)
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-id="k82rekhgpon9rep_srv2" tvg-name="Estrela Amadora vs Benfica" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2gh2ovm0ve/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 03:30 WIB] Estrela Amadora vs Benfica (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001794167435-0-0-7ef95f2952f03bd67f50d0dc46dbe1c4
+#EXTINF:-1 tvg-id="4jwq2ghg4onpm0v" tvg-name="Arnett Gardens vs Waterhouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h31n8mojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[10/11 08:00 WIB] Arnett Gardens vs Waterhouse FC
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=97bf61d8e426f307ee81a989cb17f7d1&wsABSTime=1794222988
