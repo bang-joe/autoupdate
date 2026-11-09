@@ -4,11 +4,23 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="ednm9whwjlwgryo" tvg-name="Ikorodu City FC vs Inter Lagos" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h0xg6q0j6/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 22:00 WIB] Ikorodu City FC vs Inter Lagos
-https://live1.quickscoreboardz.com/live/channel31.m3u8?wsSecret=b9bc74c6b10b911b050e4dd4f6124446&wsABSTime=1794263728
-
 #EXTINF:-1 tvg-id="1l4rjnhn6y92m7v" tvg-name="Chapelton vs Racing United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hv91eq86p/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[10/11 05:05 WIB] Chapelton vs Racing United
-https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=95733ebbc8ebae3b2bfd2bbc8f17f96c&wsABSTime=1794263728
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=eb4e104506aa547adf910479d792b8bf&wsABSTime=1794301406
 
 #EXTINF:-1 tvg-id="4jwq2ghg4onpm0v" tvg-name="Arnett Gardens vs Waterhouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h31n8mojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[10/11 08:00 WIB] Arnett Gardens vs Waterhouse FC
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=e3273c475ea69de2bb57a08a8e5fb9b1&wsABSTime=1794263729
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=593beb189d91ff4f9d0f57a8ee9c55c5&wsABSTime=1794301406
+
+#EXTINF:-1 tvg-id="1l4rjnh9v9p1m7v" tvg-name="Maldives U17 vs Hồng Kông U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hvvw3q86p/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:00 WIB] Maldives U17 vs Hồng Kông U17
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794258207-0-0-8178a168a084bf029c045df109836f22
+
+#EXTINF:-1 tvg-id="k82rekhglg48rep" tvg-name="Guam U17 vs Palestine U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphnp2jr8k0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:30 WIB] Guam U17 vs Palestine U17
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794258207-0-0-8178a168a084bf029c045df109836f22
+
+#EXTINF:-1 tvg-id="pxwrxlhydyooryk" tvg-name="Mông Cổ U17 vs Yemen U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nhl1gxmd7o/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:00 WIB] Mông Cổ U17 vs Yemen U17
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794258207-0-0-8178a168a084bf029c045df109836f22
+
+#EXTINF:-1 tvg-id="vjxm8gheye70r6o" tvg-name="Campuchia U17 vs Afghanistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hn4wmojx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] Campuchia U17 vs Afghanistan U17
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794258207-0-0-8178a168a084bf029c045df109836f22
+
+#EXTINF:-1 tvg-id="x7lm7phj4j22m2w" tvg-name="Philippines U17 vs Indonesia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hv905q86p/image/small" group-title="UPCOMING | Timnas Indonesia U-17" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] Philippines U17 vs Indonesia U17
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794258207-0-0-8178a168a084bf029c045df109836f22
