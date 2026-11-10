@@ -4,23 +4,74 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="1l4rjnh9v9p1m7v" tvg-name="Maldives U17 vs Hồng Kông U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hvvw3q86p/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:00 WIB] Maldives U17 vs Hồng Kông U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794311079-0-0-db3aa53ba75460596842548bd53217a8
+#EXTINF:-1 tvg-id="4jwq2ghg4wv3m0v" tvg-name="RAMS Village Superstars vs Conaree United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1hj1ggmojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 07:30 WIB] RAMS Village Superstars vs Conaree United
+https://live1.quickscoreboardz.com/live/channel32.m3u8?wsSecret=7e435ee5b02cf090e42bb5d3a3f86769&wsABSTime=1794379836
 
-#EXTINF:-1 tvg-id="k82rekhglg48rep" tvg-name="Guam U17 vs Palestine U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphnp2jr8k0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:30 WIB] Guam U17 vs Palestine U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794311079-0-0-db3aa53ba75460596842548bd53217a8
+#EXTINF:-1 tvg-id="1l4rjnh9v9p1m7v_srv1" tvg-name="Maldives U17 vs Hồng Kông U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hvvw3q86p/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:00 WIB] Maldives U17 vs Hồng Kông U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhydyooryk" tvg-name="Mông Cổ U17 vs Yemen U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nhl1gxmd7o/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:00 WIB] Mông Cổ U17 vs Yemen U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794311079-0-0-db3aa53ba75460596842548bd53217a8
+#EXTINF:-1 tvg-id="1l4rjnh9v9p1m7v_srv2" tvg-name="Maldives U17 vs Hồng Kông U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hvvw3q86p/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:00 WIB] Maldives U17 vs Hồng Kông U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001794336637-0-0-8316ec131ee9daf78f6345fbb7165e13
 
-#EXTINF:-1 tvg-id="vjxm8gheye70r6o" tvg-name="Campuchia U17 vs Afghanistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hn4wmojx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] Campuchia U17 vs Afghanistan U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794311079-0-0-db3aa53ba75460596842548bd53217a8
+#EXTINF:-1 tvg-id="k82rekhglg48rep_srv1" tvg-name="Guam U17 vs Palestine U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphnp2jr8k0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:30 WIB] Guam U17 vs Palestine U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phj4j22m2w" tvg-name="Philippines U17 vs Indonesia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hv905q86p/image/small" group-title="UPCOMING | Timnas Indonesia U-17" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] Philippines U17 vs Indonesia U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794311080-0-0-93d59b34065696865be913ab181a15d7
+#EXTINF:-1 tvg-id="k82rekhglg48rep_srv2" tvg-name="Guam U17 vs Palestine U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphnp2jr8k0/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:30 WIB] Guam U17 vs Palestine U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-20.m3u8?auth_key=3000001794336638-0-0-6d5f4159d7d23e810f906f4978d8ab50
 
-#EXTINF:-1 tvg-id="y0or5jh878dvqwz" tvg-name="Pakistan U17 vs Iran U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh1xj4q82w/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 17:00 WIB] Pakistan U17 vs Iran U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794311081-0-0-0b007898c31a757cd08f7c6910a67e29
+#EXTINF:-1 tvg-id="pxwrxlhydyooryk_srv1" tvg-name="Mông Cổ U17 vs Yemen U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nhl1gxmd7o/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:00 WIB] Mông Cổ U17 vs Yemen U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhydyooryk_srv2" tvg-name="Mông Cổ U17 vs Yemen U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nhl1gxmd7o/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:00 WIB] Mông Cổ U17 vs Yemen U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001794336639-0-0-f51039deb46c00c958ce42ea259a5c87
+
+#EXTINF:-1 tvg-id="vjxm8gheye70r6o_srv1" tvg-name="Campuchia U17 vs Afghanistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hn4wmojx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] Campuchia U17 vs Afghanistan U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheye70r6o_srv2" tvg-name="Campuchia U17 vs Afghanistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hn4wmojx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] Campuchia U17 vs Afghanistan U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001794336639-0-0-d47c2298c1b0bac54eedfd689a6d66e6
+
+#EXTINF:-1 tvg-id="x7lm7phj4j22m2w_srv1" tvg-name="Philippines U17 vs Indonesia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hv905q86p/image/small" group-title="UPCOMING | Timnas Indonesia U-17" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] Philippines U17 vs Indonesia U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phj4j22m2w_srv2" tvg-name="Philippines U17 vs Indonesia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hv905q86p/image/small" group-title="UPCOMING | Timnas Indonesia U-17" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] Philippines U17 vs Indonesia U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001794336640-0-0-dd29b8d4257965a0bec2eb3c21b02b38
+
+#EXTINF:-1 tvg-id="y0or5jh878dvqwz_srv1" tvg-name="Pakistan U17 vs Iran U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh1xj4q82w/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 17:00 WIB] Pakistan U17 vs Iran U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh878dvqwz_srv2" tvg-name="Pakistan U17 vs Iran U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh1xj4q82w/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 17:00 WIB] Pakistan U17 vs Iran U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001794336642-0-0-908fa6ea6ba1164e9d6dc4eec1da7226
 
 #EXTINF:-1 tvg-id="8yomo4hy7gpgq0j" tvg-name="Jiangsu Changjin vs Wuhan Lianzhen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdw93qvy9/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 18:00 WIB] Jiangsu Changjin vs Wuhan Lianzhen
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=72575fd6d4cc43a36b6192597a7556b8&wsABSTime=1794354281
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=f4b447c271116194dfc8c39bd9c2a9a8&wsABSTime=1794379842
+
+#EXTINF:-1 tvg-id="zp5rzghg8gejq82_srv1" tvg-name="Đài Loan U17 vs Thái Lan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhl2dqvy9/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:00 WIB] Đài Loan U17 vs Thái Lan U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghg8gejq82_srv2" tvg-name="Đài Loan U17 vs Thái Lan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhl2dqvy9/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:00 WIB] Đài Loan U17 vs Thái Lan U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001794336643-0-0-efe6c678033ffcf36648d5a1ff04f4f1
+
+#EXTINF:-1 tvg-id="l5ergph4g4jlr8k_srv1" tvg-name="Ma Cao U17 vs Syria U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh9n0erepz/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:20 WIB] Ma Cao U17 vs Syria U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph4g4jlr8k_srv2" tvg-name="Ma Cao U17 vs Syria U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh9n0erepz/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:20 WIB] Ma Cao U17 vs Syria U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001794336644-0-0-1ed544062268564d677a4809757a922e
+
+#EXTINF:-1 tvg-id="6ypq3nhvxvodmd7_srv1" tvg-name="Bắc Mariana U17 vs Kyrgyzstan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hw17vrz84/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] Bắc Mariana U17 vs Kyrgyzstan U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvxvodmd7_srv2" tvg-name="Bắc Mariana U17 vs Kyrgyzstan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hw17vrz84/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] Bắc Mariana U17 vs Kyrgyzstan U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001794336645-0-0-096bb20a6c5f4a01b042720656398334
+
+#EXTINF:-1 tvg-id="x7lm7phj4jd1m2w_srv1" tvg-name="Sri Lanka U17 vs Jordan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7ph99v5m2wd/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] Sri Lanka U17 vs Jordan U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phj4jd1m2w_srv2" tvg-name="Sri Lanka U17 vs Jordan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7ph99v5m2wd/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] Sri Lanka U17 vs Jordan U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794336646-0-0-20363e6efe02256a32a5d2987075ccf4
+
+#EXTINF:-1 tvg-id="ednm9whw1wyvryo_srv1" tvg-name="Lebanon U17 vs Oman U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wh90vxryox/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] Lebanon U17 vs Oman U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-id="ednm9whw1wyvryo_srv2" tvg-name="Lebanon U17 vs Oman U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wh90vxryox/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] Lebanon U17 vs Oman U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001794336647-0-0-c1a8ef406c91acd5ab3d9e606b8c3964
