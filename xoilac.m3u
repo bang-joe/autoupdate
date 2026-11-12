@@ -1,81 +1,71 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="4wyrn4h6g37dq86_srv1" tvg-name="DR Congo vs Sierra Leone" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho2em7vx/image/small" group-title="LIVE | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",DR Congo vs Sierra Leone (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="4wyrn4h6g37dq86_srv2" tvg-name="DR Congo vs Sierra Leone" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho2em7vx/image/small" group-title="LIVE | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",DR Congo vs Sierra Leone (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794502544-0-0-ccf490151a44b36b59fea7b553f30a95
-
-#EXTINF:-1 tvg-id="318q66hxle7oqo9_srv1" tvg-name="Madagascar vs Guinea Bissau" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hl0y4rz84/image/small" group-title="LIVE | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",Madagascar vs Guinea Bissau (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxle7oqo9_srv2" tvg-name="Madagascar vs Guinea Bissau" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hl0y4rz84/image/small" group-title="LIVE | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",Madagascar vs Guinea Bissau (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794502547-0-0-510aa7b516eaee7e83a82c7f6ce631f5
-
-#EXTINF:-1 tvg-id="vjxm8ghey12er6o_srv1" tvg-name="Guinea Xích Đạo vs Zimbabwe" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghv3wq82w/image/small" group-title="LIVE | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",Guinea Xích Đạo vs Zimbabwe (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8ghey12er6o_srv2" tvg-name="Guinea Xích Đạo vs Zimbabwe" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghv3wq82w/image/small" group-title="LIVE | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",Guinea Xích Đạo vs Zimbabwe (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001794502551-0-0-a0b14c5a65455fa3cc41346ed8a95542
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="6ypq3nhvx94nmd7_srv1" tvg-name="Ghana vs Somalia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhoz6m7vx/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[12/11 22:00 WIB] Ghana vs Somalia (Server 1)
-https://live2.jorvakstreamcache.com/live/channel22.m3u8
-
-#EXTINF:-1 tvg-id="6ypq3nhvx94nmd7_srv2" tvg-name="Ghana vs Somalia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhoz6m7vx/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[12/11 22:00 WIB] Ghana vs Somalia (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001794502543-0-0-5fab40d6e1daded2d371923abf0ba824
-
-#EXTINF:-1 tvg-id="8yomo4h1np5xq0j_srv1" tvg-name="Guinea vs Eritrea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh72kqg8n/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 00:00 WIB] Guinea vs Eritrea (Server 1)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1np5xq0j_srv2" tvg-name="Guinea vs Eritrea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh72kqg8n/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 00:00 WIB] Guinea vs Eritrea (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001794502553-0-0-92306127d7e644c39338ccf9bef9cd7e
-
-#EXTINF:-1 tvg-id="l7oqdehg7pe1r51_srv1" tvg-name="Cameroon vs Namibia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryohod6q1zp/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] Cameroon vs Namibia (Server 1)
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehg7pe1r51_srv2" tvg-name="Cameroon vs Namibia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryohod6q1zp/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] Cameroon vs Namibia (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001794502554-0-0-633ebb8b17fce39221dfddb2b9ab4c9b
-
-#EXTINF:-1 tvg-id="l5ergph4g15er8k_srv1" tvg-name="Senegal vs Sudan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghlx3m0ve/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] Senegal vs Sudan (Server 1)
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
-
-#EXTINF:-1 tvg-id="l5ergph4g15er8k_srv2" tvg-name="Senegal vs Sudan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghlx3m0ve/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] Senegal vs Sudan (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001794502555-0-0-aa3b2e1576181e31857c308757580056
-
-#EXTINF:-1 tvg-id="dj2ryohl8oddq1z_srv1" tvg-name="Benin vs CH Trung Phi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9p9q82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] Benin vs CH Trung Phi (Server 1)
-https://live2.jorvakstreamcache.com/live/channel23.m3u8
-
-#EXTINF:-1 tvg-id="dj2ryohl8oddq1z_srv2" tvg-name="Benin vs CH Trung Phi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9p9q82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] Benin vs CH Trung Phi (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-23.m3u8?auth_key=3000001794502556-0-0-ea61a690948e8c031d0b49c29975cb16
-
-#EXTINF:-1 tvg-id="23xmvkh675xzqg8_srv1" tvg-name="Bờ Biển Ngà vs Gambia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghv0xq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] Bờ Biển Ngà vs Gambia (Server 1)
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-id="23xmvkh675xzqg8_srv2" tvg-name="Bờ Biển Ngà vs Gambia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghv0xq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] Bờ Biển Ngà vs Gambia (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-20.m3u8?auth_key=3000001794502557-0-0-91e91e574e69d305dddf492480eba72c
 
 #EXTINF:-1 tvg-id="965mkyhkpvzjr1g_srv1" tvg-name="Comoros vs CH Congo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehnxynr510/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 20:00 WIB] Comoros vs CH Congo (Server 1)
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-id="965mkyhkpvzjr1g_srv2" tvg-name="Comoros vs CH Congo" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehnxynr510/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 20:00 WIB] Comoros vs CH Congo (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001794502558-0-0-48ab67f4bb1537d11c5eda1870d3cce2
+https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001794522584-0-0-e138ee4943c6d49f023bb99ba0a2c02d
 
 #EXTINF:-1 tvg-id="dn1m1ghl6joemoe_srv1" tvg-name="Zambia vs Burundi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhjkzqg8n/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 20:00 WIB] Zambia vs Burundi (Server 1)
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-id="dn1m1ghl6joemoe_srv2" tvg-name="Zambia vs Burundi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhjkzqg8n/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 20:00 WIB] Zambia vs Burundi (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001794502559-0-0-b1e681a0980ca7f6a2b746ff0b4e86a1
+https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001794522586-0-0-2517346943d8eebd860f761fc848811d
 
 #EXTINF:-1 tvg-id="n54qllhnv0dwqvy_srv1" tvg-name="Mozambique vs Ethiopia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhonjm7vx/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 20:00 WIB] Mozambique vs Ethiopia (Server 1)
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-id="n54qllhnv0dwqvy_srv2" tvg-name="Mozambique vs Ethiopia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhonjm7vx/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 20:00 WIB] Mozambique vs Ethiopia (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001794502561-0-0-e7f813cf85b3fcb05666d697ab34e031
+https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001794522587-0-0-eac46b4a15d462847570a87ce4597b53
+
+#EXTINF:-1 tvg-id="1l4rjnh9v7eom7v_srv1" tvg-name="Gabon vs Lesotho" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh68wqvy9/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Gabon vs Lesotho (Server 1)
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9v7eom7v_srv2" tvg-name="Gabon vs Lesotho" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh68wqvy9/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Gabon vs Lesotho (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001794522588-0-0-9ae0c9f60bed3278719e7dffc187f167
+
+#EXTINF:-1 tvg-id="3glrw7hnd8l7qdy_srv1" tvg-name="Cabo Verde vs Liberia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Cabo Verde vs Liberia (Server 1)
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hnd8l7qdy_srv2" tvg-name="Cabo Verde vs Liberia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Cabo Verde vs Liberia (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001794522590-0-0-47c0090cb610133ce4848a97fb50a35c
+
+#EXTINF:-1 tvg-id="4jwq2ghnl212m0v_srv1" tvg-name="Nigeria vs Tanzania" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhlo0ql07/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Nigeria vs Tanzania (Server 1)
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghnl212m0v_srv2" tvg-name="Nigeria vs Tanzania" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhlo0ql07/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Nigeria vs Tanzania (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001794522591-0-0-6b1fbdcc9820d96d25d4b5946ab4ad4a
+
+#EXTINF:-1 tvg-id="k82rekhglk8zrep_srv1" tvg-name="Nam Phi vs Kenya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpwnm7vx/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Nam Phi vs Kenya (Server 1)
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="k82rekhglk8zrep_srv2" tvg-name="Nam Phi vs Kenya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpwnm7vx/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Nam Phi vs Kenya (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001794522593-0-0-687d82bb267333fec84ada913f5d20ea
+
+#EXTINF:-1 tvg-id="pxwrxlhyd42xryk_srv1" tvg-name="Tunisia vs Libya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh8oxq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Tunisia vs Libya (Server 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhyd42xryk_srv2" tvg-name="Tunisia vs Libya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh8oxq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Tunisia vs Libya (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001794522594-0-0-1cfbd54aa3fd83001363de40bbb4f596
+
+#EXTINF:-1 tvg-id="y39mp1h67l97moj_srv1" tvg-name="Burkina Faso vs Mauritania" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghelgq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Burkina Faso vs Mauritania (Server 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="y39mp1h67l97moj_srv2" tvg-name="Burkina Faso vs Mauritania" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghelgq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Burkina Faso vs Mauritania (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794522595-0-0-05c817a44ba558ecc74996bb611ad6fb
+
+#EXTINF:-1 tvg-id="ednm9whw1ne3ryo_srv1" tvg-name="Ai Cập vs Malawi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh84yq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 02:00 WIB] Ai Cập vs Malawi (Server 1)
+https://live2.jorvakstreamcache.com/live/channel9.m3u8
+
+#EXTINF:-1 tvg-id="ednm9whw1ne3ryo_srv2" tvg-name="Ai Cập vs Malawi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh84yq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 02:00 WIB] Ai Cập vs Malawi (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001794522597-0-0-dafae475ababd88f90ac46f5f71e6905
+
+#EXTINF:-1 tvg-id="y0or5jh87p15qwz_srv1" tvg-name="Mali vs Rwanda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh92omd7o/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 02:00 WIB] Mali vs Rwanda (Server 1)
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh87p15qwz_srv2" tvg-name="Mali vs Rwanda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh92omd7o/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 02:00 WIB] Mali vs Rwanda (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001794522598-0-0-2cc2c0d506f1087c94a3d87656e8bfc0
