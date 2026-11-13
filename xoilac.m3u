@@ -4,56 +4,44 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="1l4rjnh9v7eom7v_srv1" tvg-name="Gabon vs Lesotho" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh68wqvy9/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Gabon vs Lesotho (Server 1)
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhlpwlkryk" tvg-name="Kowloon City vs Kitchee" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh7vepr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 14:00 WIB] Kowloon City vs Kitchee
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=421ffb92977e36d29b95a43f0f52d791&wsABSTime=1794654127
 
-#EXTINF:-1 tvg-id="1l4rjnh9v7eom7v_srv2" tvg-name="Gabon vs Lesotho" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh68wqvy9/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Gabon vs Lesotho (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001794592540-0-0-7c317025a2b4982fb5a87eae8340595e
+#EXTINF:-1 tvg-id="6ypq3nhk6dk9md7" tvg-name="Crownity District vs Hồng Kông FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohy5kdq1zp/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 14:00 WIB] Crownity District vs Hồng Kông FC
+https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=1a5f0ecbb821928bec6e2d5aff24d078&wsABSTime=1794654128
 
-#EXTINF:-1 tvg-id="3glrw7hnd8l7qdy_srv1" tvg-name="Cabo Verde vs Liberia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Cabo Verde vs Liberia (Server 1)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#EXTINF:-1 tvg-id="dn1m1ghl6lz7moe_srv1" tvg-name="Ấn Độ U17 vs Guam U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn5y4r510/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 14:30 WIB] Ấn Độ U17 vs Guam U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-id="3glrw7hnd8l7qdy_srv2" tvg-name="Cabo Verde vs Liberia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Cabo Verde vs Liberia (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001794592541-0-0-b644e936d7f64353f31bca9f501c938d
+#EXTINF:-1 tvg-id="dn1m1ghl6lz7moe_srv2" tvg-name="Ấn Độ U17 vs Guam U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn5y4r510/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 14:30 WIB] Ấn Độ U17 vs Guam U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001794610929-0-0-f053439cc0f07c9b38c1f3767f55edd6
 
-#EXTINF:-1 tvg-id="4jwq2ghnl212m0v_srv1" tvg-name="Nigeria vs Tanzania" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhlo0ql07/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Nigeria vs Tanzania (Server 1)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghnl212m0v_srv2" tvg-name="Nigeria vs Tanzania" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhlo0ql07/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Nigeria vs Tanzania (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001794592541-0-0-eaf7c672471a9cf444e16f34339a403d
-
-#EXTINF:-1 tvg-id="k82rekhglk8zrep_srv1" tvg-name="Nam Phi vs Kenya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpwnm7vx/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Nam Phi vs Kenya (Server 1)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="k82rekhglk8zrep_srv2" tvg-name="Nam Phi vs Kenya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpwnm7vx/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Nam Phi vs Kenya (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001794592541-0-0-38dd7ca634bc92e489857b4c63d5dc25
-
-#EXTINF:-1 tvg-id="pxwrxlhyd42xryk_srv1" tvg-name="Tunisia vs Libya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh8oxq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Tunisia vs Libya (Server 1)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhyd42xryk_srv2" tvg-name="Tunisia vs Libya" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh8oxq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Tunisia vs Libya (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001794592542-0-0-a140ff7b54e7adeb10ba25e516e4425b
-
-#EXTINF:-1 tvg-id="y39mp1h67l97moj_srv1" tvg-name="Burkina Faso vs Mauritania" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghelgq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Burkina Faso vs Mauritania (Server 1)
+#EXTINF:-1 tvg-id="4jwq2ghnlndvm0v_srv1" tvg-name="Iraq U17 vs Đài Loan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhy2dqwzv/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:00 WIB] Iraq U17 vs Đài Loan U17 (Server 1)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h67l97moj_srv2" tvg-name="Burkina Faso vs Mauritania" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghelgq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 23:00 WIB] Burkina Faso vs Mauritania (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794592542-0-0-c948c893c238800cdbca4ba576a4e954
+#EXTINF:-1 tvg-id="4jwq2ghnlndvm0v_srv2" tvg-name="Iraq U17 vs Đài Loan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhy2dqwzv/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:00 WIB] Iraq U17 vs Đài Loan U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794610931-0-0-792fd544923d40c36df5cc5364a8f964
 
-#EXTINF:-1 tvg-id="ednm9whw1ne3ryo_srv1" tvg-name="Ai Cập vs Malawi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh84yq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 02:00 WIB] Ai Cập vs Malawi (Server 1)
-https://live2.jorvakstreamcache.com/live/channel9.m3u8
+#EXTINF:-1 tvg-id="vjxm8gheye61r6o_srv1" tvg-name="Yemen U17 vs Bắc Mariana U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl60kqwzv/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:00 WIB] Yemen U17 vs Bắc Mariana U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-id="ednm9whw1ne3ryo_srv2" tvg-name="Ai Cập vs Malawi" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh84yq82w/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 02:00 WIB] Ai Cập vs Malawi (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001794592542-0-0-df9c90751b6e5a0e02ef8f062ee26672
+#EXTINF:-1 tvg-id="vjxm8gheye61r6o_srv2" tvg-name="Yemen U17 vs Bắc Mariana U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl60kqwzv/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:00 WIB] Yemen U17 vs Bắc Mariana U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001794610932-0-0-f20ff4fae04c09fb6f94e87e4c8cac3a
 
-#EXTINF:-1 tvg-id="y0or5jh87p15qwz_srv1" tvg-name="Mali vs Rwanda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh92omd7o/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 02:00 WIB] Mali vs Rwanda (Server 1)
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhydy0oryk_srv1" tvg-name="Indonesia U17 vs Campuchia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvgdnrepz/image/small" group-title="UPCOMING | Timnas Indonesia U-17" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:30 WIB] Indonesia U17 vs Campuchia U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh87p15qwz_srv2" tvg-name="Mali vs Rwanda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh92omd7o/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 02:00 WIB] Mali vs Rwanda (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001794592543-0-0-ce0d27d5a94e6c94817c1d373496d9d4
+#EXTINF:-1 tvg-id="pxwrxlhydy0oryk_srv2" tvg-name="Indonesia U17 vs Campuchia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvgdnrepz/image/small" group-title="UPCOMING | Timnas Indonesia U-17" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:30 WIB] Indonesia U17 vs Campuchia U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001794610933-0-0-0b383769966b6cd1125e9fec4abb0be4
 
-#EXTINF:-1 tvg-id="jw2r09hk8zpwrz8_srv1" tvg-name="Ma Rốc vs Niger" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh9nzmd7o/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 03:00 WIB] Ma Rốc vs Niger (Server 1)
-https://live2.jorvakstreamcache.com/live/channel22.m3u8
+#EXTINF:-1 tvg-id="y0or5jh878wdqwz_srv1" tvg-name="Myanmar U17 vs Philippines U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh8knm7vx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:30 WIB] Myanmar U17 vs Philippines U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hk8zpwrz8_srv2" tvg-name="Ma Rốc vs Niger" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh9nzmd7o/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 03:00 WIB] Ma Rốc vs Niger (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001794592544-0-0-3904b2c1ccdc7662713b5743839c5bcd
+#EXTINF:-1 tvg-id="y0or5jh878wdqwz_srv2" tvg-name="Myanmar U17 vs Philippines U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh8knm7vx/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:30 WIB] Myanmar U17 vs Philippines U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001794610934-0-0-f25c178a809491cfb7df2d3aa0cc8718
+
+#EXTINF:-1 tvg-id="23xmvkh676jvqg8_srv1" tvg-name="Iran U17 vs Sri Lanka U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phkx9nm2wd/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 16:00 WIB] Iran U17 vs Sri Lanka U17 (Server 1)
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-id="23xmvkh676jvqg8_srv2" tvg-name="Iran U17 vs Sri Lanka U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phkx9nm2wd/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 16:00 WIB] Iran U17 vs Sri Lanka U17 (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-20.m3u8?auth_key=3000001794610935-0-0-275dd09c777d619d12d509e8fa59e1c9
