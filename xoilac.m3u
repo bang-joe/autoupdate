@@ -1,11 +1,15 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="8yomo4hyejylq0j" tvg-name="Eastern District vs Eastern AA" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh9xknrepz/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Eastern District vs Eastern AA (LIVE)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="8yomo4hyejylq0j" tvg-name="Eastern District vs Eastern AA" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh9xknrepz/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 14:00 WIB] Eastern District vs Eastern AA
-https://live1.quickscoreboardz.com/live/channel23.m3u8?wsSecret=ad356b8d9f115fb4a6c739e0b23e5af0&wsABSTime=1794745903
-
 #EXTINF:-1 tvg-id="2y8m4zhv0dv9ql0" tvg-name="Lee Man vs Tai Po" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhyvnerepz/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 17:00 WIB] Lee Man vs Tai Po
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=de2f3975cb3d7ba5ebe6b7d34f79f24c&wsABSTime=1794745904
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=a30c786f75337243eea73161d0442047&wsABSTime=1794769796
