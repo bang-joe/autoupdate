@@ -1,15 +1,29 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="8yomo4hyejylq0j" tvg-name="Eastern District vs Eastern AA" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh9xknrepz/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Eastern District vs Eastern AA (LIVE)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="2y8m4zhv0dv9ql0" tvg-name="Lee Man vs Tai Po" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhyvnerepz/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 17:00 WIB] Lee Man vs Tai Po
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=a30c786f75337243eea73161d0442047&wsABSTime=1794769796
+#EXTINF:-1 tvg-id="l7oqdehjnjx9r51" tvg-name="Dunbeholden FC vs Chapelton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghz0ezq82w/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] Dunbeholden FC vs Chapelton
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=afaa4f578dcdbaf6f84edce55304ed62&wsABSTime=1794796952
+
+#EXTINF:-1 tvg-id="jw2r09h5l533rz8" tvg-name="Cavalier FC vs Treasure Beach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h3j9gmojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] Cavalier FC vs Treasure Beach
+https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=319257a9465da799e0cd370178d23b2e&wsABSTime=1794796953
+
+#EXTINF:-1 tvg-id="dj2ryoh7k7p3q1z" tvg-name="Humble Lions vs Arnett Gardens" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh1le4m7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] Humble Lions vs Arnett Gardens
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=147fb8f3ffc1e03238370c8ea5b900a3&wsABSTime=1794796953
+
+#EXTINF:-1 tvg-id="8yomo4hy7y8lq0j" tvg-name="Siti Worley Garden vs Montego Bay Utd" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66he52qo9j/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] Siti Worley Garden vs Montego Bay Utd
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=3f839bfdb671ed60991c0af1f681724e&wsABSTime=1794796954
+
+#EXTINF:-1 tvg-id="2y8m4zhv3v79ql0" tvg-name="Racing United vs Tru-Juice FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whev1dryox/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] Racing United vs Tru-Juice FC
+https://live1.quickscoreboardz.com/live/channel37.m3u8?wsSecret=75a501ab850498632652e6b52928e6eb&wsABSTime=1794796954
+
+#EXTINF:-1 tvg-id="6ypq3nhk0k89md7" tvg-name="Molynes United vs Portmore United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphv19zr8k0/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] Molynes United vs Portmore United
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=3f8edc261c9014a5fc3d3fa62f778d08&wsABSTime=1794796955
+
+#EXTINF:-1 tvg-id="ednm9wh5k765ryo_srv1" tvg-name="Alianza Atletico vs Sporting Cristal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg9o6ryk0/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 05:00 WIB] Alianza Atletico vs Sporting Cristal (Server 1)
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-id="ednm9wh5k765ryo_srv2" tvg-name="Alianza Atletico vs Sporting Cristal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg9o6ryk0/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 05:00 WIB] Alianza Atletico vs Sporting Cristal (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001794753755-0-0-1b63e68af8fb1938241db6d5b260760a
