@@ -4,8 +4,8 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="x7lm7phxky6km2w" tvg-name="PIFA Sports vs Iron Born FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh6p6xr510/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 11:30 WIB] PIFA Sports vs Iron Born FC
-https://live1.quickscoreboardz.com/live/channel29.m3u8?wsSecret=8b75009cdea96da99d06fb1ee22b5b90&wsABSTime=1795012794
-
 #EXTINF:-1 tvg-id="6ypq3nhk0793md7" tvg-name="Wuhan Lianzhen vs Jiangsu Changjin" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h0nejq0j6/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 18:30 WIB] Wuhan Lianzhen vs Jiangsu Changjin
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=419e6be188d126b6bc1c9169eee06d2c&wsABSTime=1795012795
+https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=0647a2dded44e641ef1f28ba8b02ebba&wsABSTime=1795041773
+
+#EXTINF:-1 tvg-id="1l4rjnh9p0zem7v" tvg-name="Leeds United vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 22:00 WIB] Leeds United vs Coventry City
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794998573-0-0-7970e6698a5f0aae546e759e4fe80907
