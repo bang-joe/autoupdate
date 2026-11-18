@@ -1,54 +1,11 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="6ypq3nhv9zzkmd7" tvg-name="Leatherhead vs Wingate  Finchley" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl1gxqwzv/image/small" group-title="LIVE | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",Leatherhead vs Wingate  Finchley (LIVE)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phj465xm2w_srv1" tvg-name="Niger vs Ma Rốc" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwgz5qdyj/image/small" group-title="LIVE | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",Niger vs Ma Rốc (LIVE) (Server 1)
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phj465xm2w_srv2" tvg-name="Niger vs Ma Rốc" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwgz5qdyj/image/small" group-title="LIVE | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",Niger vs Ma Rốc (LIVE) (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794948696-0-0-a5a156ece2b82422d132733b435f133d
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="2y8m4zh5lonnql0_srv1" tvg-name="Mauritania vs Burkina Faso" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8o26q86p/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] Mauritania vs Burkina Faso (Server 1)
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
-
-#EXTINF:-1 tvg-id="2y8m4zh5lonnql0_srv2" tvg-name="Mauritania vs Burkina Faso" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8o26q86p/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] Mauritania vs Burkina Faso (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001794948691-0-0-fd5af61b95ea1fe993b8daca5b047ac6
-
-#EXTINF:-1 tvg-id="4jwq2ghnl202m0v_srv1" tvg-name="Rwanda vs Mali" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhpgjrepz/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] Rwanda vs Mali (Server 1)
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghnl202m0v_srv2" tvg-name="Rwanda vs Mali" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhpgjrepz/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] Rwanda vs Mali (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001794948691-0-0-c604e82211311822b3ae22b3390a4613
-
-#EXTINF:-1 tvg-id="8yomo4h1np9xq0j_srv1" tvg-name="CH Congo vs Comoros" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hp4kq0j6/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] CH Congo vs Comoros (Server 1)
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1np9xq0j_srv2" tvg-name="CH Congo vs Comoros" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hp4kq0j6/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] CH Congo vs Comoros (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001794948692-0-0-8c69fed278d6d6e9fcf14ca15067103a
-
-#EXTINF:-1 tvg-id="ednm9whw1nd3ryo_srv1" tvg-name="Botswana vs Uganda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhjpdqg8n/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] Botswana vs Uganda (Server 1)
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whw1nd3ryo_srv2" tvg-name="Botswana vs Uganda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhjpdqg8n/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] Botswana vs Uganda (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-20.m3u8?auth_key=3000001794948692-0-0-f5b36baab74e8e49368a571c2fbd45c3
-
-#EXTINF:-1 tvg-id="jw2r09hk8z7wrz8_srv1" tvg-name="Liberia vs Cabo Verde" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhj4eqg8n/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] Liberia vs Cabo Verde (Server 1)
-https://live2.jorvakstreamcache.com/live/channel22.m3u8
-
-#EXTINF:-1 tvg-id="jw2r09hk8z7wrz8_srv2" tvg-name="Liberia vs Cabo Verde" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhj4eqg8n/image/small" group-title="UPCOMING | Africa Cup of Nations" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:00 WIB] Liberia vs Cabo Verde (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001794948693-0-0-cc08b7db52a6f069ba5a62937fbc2e3d
-
-#EXTINF:-1 tvg-id="2y8m4zh5o5y0ql0" tvg-name="Quorn vs Bury" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho0dm7vx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:45 WIB] Quorn vs Bury
-https://live1.quickscoreboardz.com/live/channel39.m3u8?wsSecret=8d057ff270f61da232334e144f928511&wsABSTime=1794991895
+#EXTINF:-1 tvg-id="x7lm7phxky6km2w" tvg-name="PIFA Sports vs Iron Born FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh6p6xr510/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 11:30 WIB] PIFA Sports vs Iron Born FC
+https://live1.quickscoreboardz.com/live/channel29.m3u8?wsSecret=8b75009cdea96da99d06fb1ee22b5b90&wsABSTime=1795012794
 
 #EXTINF:-1 tvg-id="6ypq3nhk0793md7" tvg-name="Wuhan Lianzhen vs Jiangsu Changjin" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h0nejq0j6/image/small" group-title="UPCOMING | UEFA Champions League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 18:30 WIB] Wuhan Lianzhen vs Jiangsu Changjin
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=ad68dc1da121fe40b84ed86f1e55865a&wsABSTime=1794991897
+https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=419e6be188d126b6bc1c9169eee06d2c&wsABSTime=1795012795
