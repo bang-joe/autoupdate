@@ -4,5 +4,32 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="965mkyhk9x35r1g" tvg-name="Manchester United vs Brentford" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 22:00 WIB] Manchester United vs Brentford
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795028637-0-0-1f3bdd74c79f057ef597cccf91b722ec
+#EXTINF:-1 tvg-id="l7oqdehg7gkgr51" tvg-name="Singapore U17 vs Palestine U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h215qdyj/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 14:30 WIB] Singapore U17 vs Palestine U17
+https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=e64250123b4748c2fb3b066b309da882&wsABSTime=1795093744
+
+#EXTINF:-1 tvg-id="23xmvkh6761vqg8" tvg-name="Yemen U17 vs Turkmenistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl60kqwzv/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 15:00 WIB] Yemen U17 vs Turkmenistan U17
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=969c90dc05edd5a38f5a1f7f649b5ae8&wsABSTime=1795093745
+
+#EXTINF:-1 tvg-id="k82rekhglgd8rep" tvg-name="Đài Loan U17 vs Hồng Kông U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhl2dqvy9/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 15:00 WIB] Đài Loan U17 vs Hồng Kông U17
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=1367eb7631317ddeadf89be22756065b&wsABSTime=1795093746
+
+#EXTINF:-1 tvg-id="23xmvkh6n1d9qg8" tvg-name="Garudayaksa FC vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7ho791qdyj/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 15:30 WIB] Garudayaksa FC vs Madura United
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795050547-0-0-a8302afae27d0216b74bf98523e0342e
+
+#EXTINF:-1 tvg-id="zp5rzghglvzwq82" tvg-name="PSS Sleman vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergph3lnzr8k0/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 15:30 WIB] PSS Sleman vs Arema FC
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795050548-0-0-7ac8c1966dbfe2092e08d703fd451134
+
+#EXTINF:-1 tvg-id="y0or5jh878wvqwz" tvg-name="Indonesia U17 vs Myanmar U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvgdnrepz/image/small" group-title="UPCOMING | Timnas Indonesia U-17" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 15:30 WIB] Indonesia U17 vs Myanmar U17
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=1a1a5cf34afcff5696502d58447833ac&wsABSTime=1795093748
+
+#EXTINF:-1 tvg-id="x7lm7phj4j21m2w" tvg-name="Philippines U17 vs Afghanistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hv905q86p/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 15:30 WIB] Philippines U17 vs Afghanistan U17
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=680963ccc2353603b9d2dde87ddf8d11&wsABSTime=1795093749
+
+#EXTINF:-1 tvg-id="3glrw7hnde54qdy" tvg-name="PSBS Biak vs Kendal Tornado FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h5kgnmojx/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 15:30 WIB] PSBS Biak vs Kendal Tornado FC
+https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=e69d50afdb90b9f9555cd9dfc41b0a9e&wsABSTime=1795093750
+
+#EXTINF:-1 tvg-id="4jwq2ghnlnjvm0v" tvg-name="Pakistan U17 vs Jordan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh1xj4q82w/image/small" group-title="UPCOMING | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/11 16:00 WIB] Pakistan U17 vs Jordan U17
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=6a2768549e093994ac8cb5384384efb7&wsABSTime=1795093751
+
+#EXTINF:-1 tvg-id="k82rekhgd4y0rep" tvg-name="Nottingham Forest vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Nottingham Forest vs Chelsea
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795050544-0-0-c1cace95ef9d1d0b9801b01771b05844
