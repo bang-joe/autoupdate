@@ -8,7 +8,31 @@
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-id="k82rekhg7pyjrep_srv2" tvg-name="Isenmulang Kalteng vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 15:30 WIB] Isenmulang Kalteng vs Borneo FC Samarinda (Server 2)
-https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001795299788-0-0-e631ad04fbcbd9384bd9ce8bf9924b6c
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001795314288-0-0-c960e1e3ba42a558448169541eafa70b
 
-#EXTINF:-1 tvg-id="6ypq3nhvdo5pmd7" tvg-name="Arsenal vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/11 23:30 WIB] Arsenal vs Manchester City
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795299788-0-0-14456667d083235cdb480df0bee301f5
+#EXTINF:-1 tvg-id="l7oqdehgzeljr51_srv1" tvg-name="Twente FC vs Willem II" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpjvm7vx/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:15 WIB] Twente FC vs Willem II (Server 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="l7oqdehgzeljr51_srv2" tvg-name="Twente FC vs Willem II" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpjvm7vx/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:15 WIB] Twente FC vs Willem II (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001795314289-0-0-3d4681cbd09a7eddd418ed9fa2bb3199
+
+#EXTINF:-1 tvg-id="2y8m4zh5d3yzql0_srv1" tvg-name="Juventus vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:30 WIB] Juventus vs Venezia (Server 1)
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=6086bc98d455ec02c9123a585a29194b&wsABSTime=1795357486
+
+#EXTINF:-1 tvg-id="2y8m4zh5d3yzql0_srv2" tvg-name="Juventus vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:30 WIB] Juventus vs Venezia (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001795314286-0-0-1c87ef72b85bf806f422af95efc2fdf4
+
+#EXTINF:-1 tvg-id="2y8m4zh5d3yzql0_srv3" tvg-name="Juventus vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:30 WIB] Juventus vs Venezia (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001795314287-0-0-eb70c5145c704f14f5401641d3a68b6d
+
+#EXTINF:-1 tvg-id="2y8m4zh5d3yzql0_srv4" tvg-name="Juventus vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:30 WIB] Juventus vs Venezia (Server 4)
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="2y8m4zh5d3yzql0_srv5" tvg-name="Juventus vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:30 WIB] Juventus vs Venezia (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001795314287-0-0-983d56250670a7484d80c1e1172e4b73
+
+#EXTINF:-1 tvg-id="318q66hx5yvdqo9_srv1" tvg-name="Persib Bandung vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh4z7xr6od/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 19:00 WIB] Persib Bandung vs Bali United (Server 1)
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="318q66hx5yvdqo9_srv2" tvg-name="Persib Bandung vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh4z7xr6od/image/small" group-title="UPCOMING | Liga 1 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 19:00 WIB] Persib Bandung vs Bali United (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001795314289-0-0-78d857f4d0b531d64a9480a0862603cf
