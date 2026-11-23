@@ -4,23 +4,83 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="x7lm7phxk7oxm2w" tvg-name="Carlos Mannucci vs Club Ada Jaen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh7g6xq82w/image/small" group-title="UPCOMING | Liga 2 Indonesia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 07:30 WIB] Carlos Mannucci vs Club Ada Jaen
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8v00wqwz_srv1" tvg-name="Neftchi Fergana vs Al Hilal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8w3gq86p/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 20:45 WIB] Neftchi Fergana vs Al Hilal (Server 1)
+https://live200.kravonstreamdelivery.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh8v00wqwz" tvg-name="Neftchi Fergana vs Al Hilal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8w3gq86p/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 20:45 WIB] Neftchi Fergana vs Al Hilal
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8v00wqwz_srv2" tvg-name="Neftchi Fergana vs Al Hilal" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8w3gq86p/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 20:45 WIB] Neftchi Fergana vs Al Hilal (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001795404086-0-0-9e69e896e314459b89e90f16554e7d91
 
-#EXTINF:-1 tvg-id="l7oqdehgveder51" tvg-name="Tractor S.C. vs Al-Wasl SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn85er510/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Tractor S.C. vs Al-Wasl SC
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgveder51_srv1" tvg-name="Tractor S.C. vs Al-Wasl SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn85er510/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Tractor S.C. vs Al-Wasl SC (Server 1)
+https://live200.kravonstreamdelivery.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-id="n54qllhnlkdyqvy" tvg-name="Al-Ain FC vs Esteghlal Tehran" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h850yq86p/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Al-Ain FC vs Esteghlal Tehran
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgveder51_srv2" tvg-name="Tractor S.C. vs Al-Wasl SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn85er510/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Tractor S.C. vs Al-Wasl SC (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001795404087-0-0-53f6148ba355e4504a19966bab58d840
 
-#EXTINF:-1 tvg-id="zp5rzghgn24yq82" tvg-name="Al-Shamal Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66ho4xnqo9j/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Al-Shamal Sports Club vs Al Ahli SC
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="n54qllhnlkdyqvy_srv1" tvg-name="Al-Ain FC vs Esteghlal Tehran" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h850yq86p/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Al-Ain FC vs Esteghlal Tehran (Server 1)
+https://live200.kravonstreamdelivery.com/live/channel18.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hkep96rz8" tvg-name="Al Quwa Al Jawiya vs Al-Gharafa Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgpjoryk0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 01:15 WIB] Al Quwa Al Jawiya vs Al-Gharafa Sports Club
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="n54qllhnlkdyqvy_srv2" tvg-name="Al-Ain FC vs Esteghlal Tehran" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h850yq86p/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Al-Ain FC vs Esteghlal Tehran (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001795404088-0-0-af9d0ac8bbeee0be4476d055853abbc7
 
-#EXTINF:-1 tvg-id="n54qllhnlk1lqvy" tvg-name="Al Ittihad(KSA) vs Pakhtakor" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 01:15 WIB] Al Ittihad(KSA) vs Pakhtakor
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgn24yq82_srv1" tvg-name="Al-Shamal Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66ho4xnqo9j/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Al-Shamal Sports Club vs Al Ahli SC (Server 1)
+https://live200.kravonstreamdelivery.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghgn24yq82_srv2" tvg-name="Al-Shamal Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66ho4xnqo9j/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] Al-Shamal Sports Club vs Al Ahli SC (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001795404089-0-0-d993a60f87cc2192976bcc6e5113614a
+
+#EXTINF:-1 tvg-id="jw2r09hkep96rz8_srv1" tvg-name="Al Quwa Al Jawiya vs Al-Gharafa Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgpjoryk0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 01:15 WIB] Al Quwa Al Jawiya vs Al-Gharafa Sports Club (Server 1)
+https://live200.kravonstreamdelivery.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkep96rz8_srv2" tvg-name="Al Quwa Al Jawiya vs Al-Gharafa Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgpjoryk0/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 01:15 WIB] Al Quwa Al Jawiya vs Al-Gharafa Sports Club (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001795404089-0-0-07337d885d2675a200ddf27aeb6dca8c
+
+#EXTINF:-1 tvg-id="n54qllhnlk1lqvy_srv1" tvg-name="Al Ittihad(KSA) vs Pakhtakor" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 01:15 WIB] Al Ittihad(KSA) vs Pakhtakor (Server 1)
+https://live200.kravonstreamdelivery.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnlk1lqvy_srv2" tvg-name="Al Ittihad(KSA) vs Pakhtakor" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small" group-title="UPCOMING | AFC Champions League Elite" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 01:15 WIB] Al Ittihad(KSA) vs Pakhtakor (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001795404090-0-0-1e339a622b6a8b7def66ff72f3a2325c
+
+#EXTINF:-1 tvg-id="jw2r09hkdlynrz8_srv1" tvg-name="Monza vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 02:45 WIB] Monza vs Fiorentina (Server 1)
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=d1b7a23f40c34de4c6091c15b86c828a&wsABSTime=1795447291
+
+#EXTINF:-1 tvg-id="jw2r09hkdlynrz8_srv2" tvg-name="Monza vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 02:45 WIB] Monza vs Fiorentina (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001795404091-0-0-288a6de9217f71eb672a0b7b7a539cc6
+
+#EXTINF:-1 tvg-id="jw2r09hkdlynrz8_srv3" tvg-name="Monza vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 02:45 WIB] Monza vs Fiorentina (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001795404091-0-0-bb4b671cbb77a92649b51cefe9114b5c
+
+#EXTINF:-1 tvg-id="jw2r09hkdlynrz8_srv4" tvg-name="Monza vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 02:45 WIB] Monza vs Fiorentina (Server 4)
+https://live200.kravonstreamdelivery.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkdlynrz8_srv5" tvg-name="Monza vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 02:45 WIB] Monza vs Fiorentina (Server 5)
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001795404092-0-0-3b5cceec9333b2b3f53eed3ae82f869c
+
+#EXTINF:-1 tvg-id="965mkyhk9xler1g_srv1" tvg-name="Brentford vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] Brentford vs Everton (Server 1)
+https://live200.kravonstreamdelivery.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhk9xler1g_srv2" tvg-name="Brentford vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] Brentford vs Everton (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795404093-0-0-e201548cd4c150f781948d10c16f6c28
+
+#EXTINF:-1 tvg-id="965mkyhk9xler1g_srv3" tvg-name="Brentford vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] Brentford vs Everton (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001795404093-0-0-e7cd5aa932f813a795bd636e13051ed0
+
+#EXTINF:-1 tvg-id="965mkyhk9xler1g_srv4" tvg-name="Brentford vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] Brentford vs Everton (Server 4)
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=94a0a4a17a216c56e2936f5d6e8ce55a&wsABSTime=1795447293
+
+#EXTINF:-1 tvg-id="n54qllhn6d1yqvy_srv1" tvg-name="Levante vs Elche CF" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] Levante vs Elche CF (Server 1)
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=c9435a32f5b5dfb1f47bc8644ee89bcb&wsABSTime=1795447294
+
+#EXTINF:-1 tvg-id="n54qllhn6d1yqvy_srv2" tvg-name="Levante vs Elche CF" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] Levante vs Elche CF (Server 2)
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001795404094-0-0-f1411bf1851e155e58b3c993a0873ff8
+
+#EXTINF:-1 tvg-id="n54qllhn6d1yqvy_srv3" tvg-name="Levante vs Elche CF" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] Levante vs Elche CF (Server 3)
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001795404094-0-0-40c36e6f5e2f3368cf34eee9b173e701
+
+#EXTINF:-1 tvg-id="n54qllhn6d1yqvy_srv4" tvg-name="Levante vs Elche CF" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] Levante vs Elche CF (Server 4)
+https://live200.kravonstreamdelivery.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzgh3j3dpq82" tvg-name="Tru-Juice FC vs Dunbeholden FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh1yenm0ve/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 05:00 WIB] Tru-Juice FC vs Dunbeholden FC
+https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=3327cdf95bcd0567fe81803cea93288b&wsABSTime=1795447295
+
+#EXTINF:-1 tvg-id="dn1m1ghldznlmoe" tvg-name="Sunderland vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/11 21:05 WIB] Sunderland vs Tottenham
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795404085-0-0-3da727331d0ab0014a5cee7de6608354
