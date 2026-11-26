@@ -1,150 +1,23 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="318q66hx97j0qo9" tvg-name="Tai Po vs Adelaide United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg972ryk0/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Tai Po vs Adelaide United (LIVE)
-https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795703173-0-0-7bba956a2a09e9bce94a5dd28b3bb5da
-
-#EXTINF:-1 tvg-id="4jwq2ghn80x3m0v_srv1" tvg-name="BG Pathum United vs Lion City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvp7erepz/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",BG Pathum United vs Lion City (LIVE) (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghn80x3m0v_srv2" tvg-name="BG Pathum United vs Lion City" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvp7erepz/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",BG Pathum United vs Lion City (LIVE) (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795703174-0-0-a650eea885b7c20eac7992f269853cea
-
-#EXTINF:-1 tvg-id="6ypq3nhv24l7md7" tvg-name="Svay Rieng FC vs Machida Zelvia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg80kr6od/image/small" group-title="LIVE | Kompetisi Resmi AFC" tvg-country="ID" tvg-language="Indonesian" catchup="false",Svay Rieng FC vs Machida Zelvia (LIVE)
-https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795703182-0-0-e35dc6cd41d580b9debb75594f108e3e
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="2y8m4zh52e6pql0" tvg-name="Mochudi Centre Chiefs vs Orapa United" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7pho9d1m2wd/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:00 WIB] Mochudi Centre Chiefs vs Orapa United
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=582320a3bf1dd011a929a15318eeab81&wsABSTime=1795746383
-
-#EXTINF:-1 tvg-id="1l4rjnh98vkom7v_srv1" tvg-name="Marseille vs Levski Sofia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hyl1rz84/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Marseille vs Levski Sofia (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh98vkom7v_srv2" tvg-name="Marseille vs Levski Sofia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hyl1rz84/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Marseille vs Levski Sofia (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-19.m3u8?auth_key=3000001795703184-0-0-9966e21214e1b54a82bf897ed275f840
-
-#EXTINF:-1 tvg-id="23xmvkh6e7geqg8_srv1" tvg-name="Union SG vs Lech Poznan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg1lxryk0/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Union SG vs Lech Poznan (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="23xmvkh6e7geqg8_srv2" tvg-name="Union SG vs Lech Poznan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg1lxryk0/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Union SG vs Lech Poznan (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-18.m3u8?auth_key=3000001795703184-0-0-707a6e5151e4e51b59bc1724b40959f0
-
-#EXTINF:-1 tvg-id="318q66hx9l0eqo9_srv1" tvg-name="RC Celta vs AFC Bournemouth" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zh90gql07/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] RC Celta vs AFC Bournemouth (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="318q66hx9l0eqo9_srv2" tvg-name="RC Celta vs AFC Bournemouth" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zh90gql07/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] RC Celta vs AFC Bournemouth (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-1.m3u8?auth_key=3000001795703185-0-0-f6a210046ec5502c616050072ac950d4
-
-#EXTINF:-1 tvg-id="3glrw7hnxd1lqdy_srv1" tvg-name="Besiktas JK vs Hapoel Beer Sheva" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdpgqwzv/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Besiktas JK vs Hapoel Beer Sheva (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnxd1lqdy_srv2" tvg-name="Besiktas JK vs Hapoel Beer Sheva" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdpgqwzv/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Besiktas JK vs Hapoel Beer Sheva (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-4.m3u8?auth_key=3000001795703186-0-0-8ce39947f101899eab3ab2ae7942d93e
-
-#EXTINF:-1 tvg-id="3glrw7hnxdjlqdy_srv1" tvg-name="Dinamo Zagreb vs Bayer Leverkusen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdwwmoep/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Dinamo Zagreb vs Bayer Leverkusen (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnxdjlqdy_srv2" tvg-name="Dinamo Zagreb vs Bayer Leverkusen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdwwmoep/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Dinamo Zagreb vs Bayer Leverkusen (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-5.m3u8?auth_key=3000001795703186-0-0-2e348bc3cafe6a503caf903156e31d8d
-
-#EXTINF:-1 tvg-id="965mkyhkjp13r1g_srv1" tvg-name="Red Bull Salzburg vs Ararat Armenia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he0gqdyj/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Red Bull Salzburg vs Ararat Armenia (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhkjp13r1g_srv2" tvg-name="Red Bull Salzburg vs Ararat Armenia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he0gqdyj/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Red Bull Salzburg vs Ararat Armenia (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-11.m3u8?auth_key=3000001795703187-0-0-41b4bf6f2020d3f38c0f990675944247
-
-#EXTINF:-1 tvg-id="k82rekhg5l8zrep_srv1" tvg-name="Viktoria Plzen vs Benfica" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhj0xmd7o/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Viktoria Plzen vs Benfica (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="k82rekhg5l8zrep_srv2" tvg-name="Viktoria Plzen vs Benfica" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhj0xmd7o/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Viktoria Plzen vs Benfica (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-2.m3u8?auth_key=3000001795703188-0-0-40a95b61764ddec0bb32ee89a3b93462
-
-#EXTINF:-1 tvg-id="l7oqdehgv711r51_srv1" tvg-name="Olympiakos vs AC Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhywpmd7o/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Olympiakos vs AC Milan (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehgv711r51_srv2" tvg-name="Olympiakos vs AC Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhywpmd7o/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] Olympiakos vs AC Milan (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-15.m3u8?auth_key=3000001795703188-0-0-98b367648e28eca5d4e8e7661807b669
-
-#EXTINF:-1 tvg-id="vjxm8ghk4z45r6o" tvg-name="TSV 1860 Munchen (Y) vs FSV Pfaffenhofen" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghv6wq82w/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 01:30 WIB] TSV 1860 Munchen (Y) vs FSV Pfaffenhofen
-https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=57108c07924f20c4057f14231ea87131&wsABSTime=1795746389
-
-#EXTINF:-1 tvg-id="vjxm8ghen43lr6o" tvg-name="Stoke City U21 vs Milan Futuro" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohy2gvq1zp/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 02:00 WIB] Stoke City U21 vs Milan Futuro
-https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=f9a5512f854f170a37968bb50f6ca498&wsABSTime=1795746389
-
-#EXTINF:-1 tvg-id="4jwq2ghn8lp4m0v_srv1" tvg-name="SCU Torreense vs Celtic FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlkg3qwzv/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] SCU Torreense vs Celtic FC (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghn8lp4m0v_srv2" tvg-name="SCU Torreense vs Celtic FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlkg3qwzv/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] SCU Torreense vs Celtic FC (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-16.m3u8?auth_key=3000001795703190-0-0-0f98fdf27c9c32f7f8b5dc67b50f3bd5
-
-#EXTINF:-1 tvg-id="8yomo4h1wn2vq0j_srv1" tvg-name="Crystal Palace vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehzkpr510/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Crystal Palace vs Real Sociedad (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1wn2vq0j_srv2" tvg-name="Crystal Palace vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehzkpr510/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Crystal Palace vs Real Sociedad (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-1.m3u8?auth_key=3000001795703191-0-0-d11eeceb397f3cd836f8318e31b80e54
-
-#EXTINF:-1 tvg-id="8yomo4h1wnvxq0j_srv1" tvg-name="Juventus vs Omonia FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Juventus vs Omonia FC (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1wnvxq0j_srv2" tvg-name="Juventus vs Omonia FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Juventus vs Omonia FC (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-15.m3u8?auth_key=3000001795703191-0-0-74b9a7bad417b343c3a18589324ef91d
-
-#EXTINF:-1 tvg-id="965mkyhkjpnjr1g_srv1" tvg-name="NEC Nijmegen vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4yzrepz/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] NEC Nijmegen vs Rennes (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhkjpnjr1g_srv2" tvg-name="NEC Nijmegen vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4yzrepz/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] NEC Nijmegen vs Rennes (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-2.m3u8?auth_key=3000001795703192-0-0-7c0704fe60e003fe693e0e2104d6a5f8
-
-#EXTINF:-1 tvg-id="dn1m1ghl561emoe_srv1" tvg-name="OFI Crete FC vs Anderlecht" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7hegvqdyj/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] OFI Crete FC vs Anderlecht (Server 1)
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=fc86f57b545ffd4f655fba7678b09f3d&wsABSTime=1795746392
-
-#EXTINF:-1 tvg-id="dn1m1ghl561emoe_srv2" tvg-name="OFI Crete FC vs Anderlecht" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7hegvqdyj/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] OFI Crete FC vs Anderlecht (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-12.m3u8?auth_key=3000001795703192-0-0-94ffa8235246ebb944d5c23f483e3c5e
-
-#EXTINF:-1 tvg-id="k82rekhg5ln3rep_srv1" tvg-name="AC Sparta Praha vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh0zjq1zp/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] AC Sparta Praha vs AZ Alkmaar (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="k82rekhg5ln3rep_srv2" tvg-name="AC Sparta Praha vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh0zjq1zp/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] AC Sparta Praha vs AZ Alkmaar (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-11.m3u8?auth_key=3000001795703193-0-0-39e08e383b89d5e2c5fe6570e9f9fae5
-
-#EXTINF:-1 tvg-id="pxwrxlhy6d70ryk_srv1" tvg-name="Sunderland vs Jagiellonia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Sunderland vs Jagiellonia (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhy6d70ryk_srv2" tvg-name="Sunderland vs Jagiellonia" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Sunderland vs Jagiellonia (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-5.m3u8?auth_key=3000001795703194-0-0-73431f2352486856718e49c31ddc507f
-
-#EXTINF:-1 tvg-id="pxwrxlhy6dzxryk_srv1" tvg-name="Lyon vs Lillestrom" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Lyon vs Lillestrom (Server 1)
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=4db34a792557a1759b9e6a357d55e9ef&wsABSTime=1795746394
-
-#EXTINF:-1 tvg-id="pxwrxlhy6dzxryk_srv2" tvg-name="Lyon vs Lillestrom" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Lyon vs Lillestrom (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-6.m3u8?auth_key=3000001795703194-0-0-11b2f0d547eb134c9f2d9bb54843147e
-
-#EXTINF:-1 tvg-id="x7lm7phjl40xm2w_srv1" tvg-name="Ferencvarosi TC vs NK Publikum Celje" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehzwpr510/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Ferencvarosi TC vs NK Publikum Celje (Server 1)
-https://live1.quickscoreboardz.com/live/channel22.m3u8?wsSecret=3df9d45c2368d148c2da9e9086a9d7ce&wsABSTime=1795746395
-
-#EXTINF:-1 tvg-id="x7lm7phjl40xm2w_srv2" tvg-name="Ferencvarosi TC vs NK Publikum Celje" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehzwpr510/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] Ferencvarosi TC vs NK Publikum Celje (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-22.m3u8?auth_key=3000001795703195-0-0-013c4097e4c3ee3a367c67c05e12fb53
-
-#EXTINF:-1 tvg-id="y39mp1h6x7j7moj_srv1" tvg-name="TSG Hoffenheim vs Sturm Graz" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] TSG Hoffenheim vs Sturm Graz (Server 1)
-https://live3979.zundrixmediapipeline.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="y39mp1h6x7j7moj_srv2" tvg-name="TSG Hoffenheim vs Sturm Graz" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small" group-title="UPCOMING | UEFA Europa League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] TSG Hoffenheim vs Sturm Graz (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-24.m3u8?auth_key=3000001795703195-0-0-448d81aa7b6a87287c928176ebc3f3ce
-
 #EXTINF:-1 tvg-id="k82rekh2zydlrep" tvg-name="Bangladesh Police vs Abahani Limited" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjy3wql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Bangladesh Police vs Abahani Limited
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=65377299add24b9f7f99f58590e1d746&wsABSTime=1795746396
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=7bb8e2f925cbc5a663651ed978c64adb&wsABSTime=1795777725
 
 #EXTINF:-1 tvg-id="dn1m1gh9vnz4moe" tvg-name="Rahmatgonj MFS vs Mohammedan Dhaka" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghexe0moep/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Rahmatgonj MFS vs Mohammedan Dhaka
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=cc967337d90f9ae2b77617e3ba663167&wsABSTime=1795746396
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=502862762bf4452dd5b7aef3925550c5&wsABSTime=1795777726
 
 #EXTINF:-1 tvg-id="318q66h8zvpzqo9" tvg-name="Dhaka Wanderers vs Arambagh KS" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1hyknomojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Dhaka Wanderers vs Arambagh KS
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=91df59db306334b4c83d0d656a0068cf&wsABSTime=1795746397
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=80827fcea0ae7e24472f0ab2a71b994e&wsABSTime=1795777727
 
-#EXTINF:-1 tvg-id="4jwq2ghnd428m0v" tvg-name="Sassuolo vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/11 21:00 WIB] Sassuolo vs Napoli
-https://live2.streamhaulcdn.com/livecdn/channel-1.m3u8?auth_key=3000001795703183-0-0-bd4eb805f1934d7c8b29cf8d856d019f
+#EXTINF:-1 tvg-id="4wyrn4hyzdneq86" tvg-name="Bashundhara Kings vs Fortis FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghv411m0ve/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 18:30 WIB] Bashundhara Kings vs Fortis FC
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=b5d9e78d39a803eb640f0e0442aabf88&wsABSTime=1795777728
+
+#EXTINF:-1 tvg-id="8yomo4h1o5pkq0j_srv1" tvg-name="Werder Bremen vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:30 WIB] Werder Bremen vs B. Monchengladbach (Server 1)
+https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1o5pkq0j_srv2" tvg-name="Werder Bremen vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:30 WIB] Werder Bremen vs B. Monchengladbach (Server 2)
+https://live2.streamhaulcdn.com/livecdn/channel-15.m3u8?auth_key=3000001795734525-0-0-8053175c23a653680acf0000bc49c27f
