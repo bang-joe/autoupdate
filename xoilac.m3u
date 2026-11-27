@@ -4,23 +4,68 @@
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="k82rekh2zydlrep" tvg-name="Bangladesh Police vs Abahani Limited" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjy3wql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Bangladesh Police vs Abahani Limited
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=6b91946a7ff4edb50ee394cc5d129df7&wsABSTime=1795798721
+#EXTINF:-1 tvg-id="3glrw7hnelz8qdy_srv1" tvg-name="Groningen vs Willem II" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phe0xm2wd/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:00 WIB] Groningen vs Willem II (Server 1)
+https://live3979.zundrixmediapipeline.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1gh9vnz4moe" tvg-name="Rahmatgonj MFS vs Mohammedan Dhaka" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghexe0moep/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Rahmatgonj MFS vs Mohammedan Dhaka
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=8909f417a5d6004756c623d4895f4cd0&wsABSTime=1795798722
-
-#EXTINF:-1 tvg-id="318q66h8zvpzqo9" tvg-name="Dhaka Wanderers vs Arambagh KS" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1hyknomojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Dhaka Wanderers vs Arambagh KS
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=d0e72e40d696d6c0c42be26a1c9ffbd8&wsABSTime=1795798723
-
-#EXTINF:-1 tvg-id="4wyrn4hyzdneq86" tvg-name="Bashundhara Kings vs Fortis FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghv411m0ve/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 18:30 WIB] Bashundhara Kings vs Fortis FC
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=7fce94cae66b6ba7d3915f4cc1bbe6d4&wsABSTime=1795798726
+#EXTINF:-1 tvg-id="3glrw7hnelz8qdy_srv2" tvg-name="Groningen vs Willem II" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phe0xm2wd/image/small" group-title="UPCOMING | Eredivisie" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:00 WIB] Groningen vs Willem II (Server 2)
+https://live2.streamhaulcdn.com/livecdn/channel-20.m3u8?auth_key=3000001795790579-0-0-cbbdee092443fed0c611b4ee29647ef5
 
 #EXTINF:-1 tvg-id="8yomo4h1o5pkq0j_srv1" tvg-name="Werder Bremen vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:30 WIB] Werder Bremen vs B. Monchengladbach (Server 1)
 https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1o5pkq0j_srv2" tvg-name="Werder Bremen vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:30 WIB] Werder Bremen vs B. Monchengladbach (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-15.m3u8?auth_key=3000001795755524-0-0-bed930f18d4395c638308cf872ee8ab0
+https://live2.streamhaulcdn.com/livecdn/channel-15.m3u8?auth_key=3000001795790577-0-0-2d2d16c5fad1b8f7438cbf94dea28041
+
+#EXTINF:-1 tvg-id="zp5rzghgejnkq82_srv1" tvg-name="Venezia vs Bologna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:45 WIB] Venezia vs Bologna (Server 1)
+https://live3979.zundrixmediapipeline.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghgejnkq82_srv2" tvg-name="Venezia vs Bologna" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small" group-title="UPCOMING | Serie A Italia" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:45 WIB] Venezia vs Bologna (Server 2)
+https://live2.streamhaulcdn.com/livecdn/channel-6.m3u8?auth_key=3000001795790579-0-0-8cf26026fdbbb488fe6949e4041d7cd8
+
+#EXTINF:-1 tvg-id="k82rekhgdo5erep_srv1" tvg-name="Brest vs Paris FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdn7m0ve/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:45 WIB] Brest vs Paris FC (Server 1)
+https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="k82rekhgdo5erep_srv2" tvg-name="Brest vs Paris FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdn7m0ve/image/small" group-title="UPCOMING | Ligue 1" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:45 WIB] Brest vs Paris FC (Server 2)
+https://live2.streamhaulcdn.com/livecdn/channel-16.m3u8?auth_key=3000001795790580-0-0-9c91fa08c38dedb20c393d4912a3acf0
+
+#EXTINF:-1 tvg-id="k82rekhgd4y0rep_srv1" tvg-name="Nottingham Forest vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Nottingham Forest vs Chelsea (Server 1)
+https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="k82rekhgd4y0rep_srv2" tvg-name="Nottingham Forest vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Nottingham Forest vs Chelsea (Server 2)
+https://live2.streamhaulcdn.com/livecdn/channel-1.m3u8?auth_key=3000001795790575-0-0-9a5503543a35ea93d49c80a5466f1b4e
+
+#EXTINF:-1 tvg-id="k82rekhgd4y0rep_srv3" tvg-name="Nottingham Forest vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Nottingham Forest vs Chelsea (Server 3)
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=4bcf5613c0d81f05ccd39e841738b50a&wsABSTime=1795833775
+
+#EXTINF:-1 tvg-id="k82rekhgd4y0rep_srv4" tvg-name="Nottingham Forest vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Nottingham Forest vs Chelsea (Server 4)
+https://live3979.zundrixmediapipeline.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="k82rekhgd4y0rep_srv5" tvg-name="Nottingham Forest vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Nottingham Forest vs Chelsea (Server 5)
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=deb9d0e86630d7699ad00cc16001d041&wsABSTime=1795833776
+
+#EXTINF:-1 tvg-id="k82rekhgd4y0rep_srv6" tvg-name="Nottingham Forest vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Nottingham Forest vs Chelsea (Server 6)
+https://live2.streamhaulcdn.com/livecdn/channel-2.m3u8?auth_key=3000001795790576-0-0-8c58aefc3c9f2f530f30378a534f8600
+
+#EXTINF:-1 tvg-id="k82rekhgd4y0rep_srv7" tvg-name="Nottingham Forest vs Chelsea" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Nottingham Forest vs Chelsea (Server 7)
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=0b0a409e32b4c3209ccdc7fdad24e568&wsABSTime=1795833776
+
+#EXTINF:-1 tvg-id="23xmvkh6jx0jqg8_srv1" tvg-name="Levante vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Levante vs Racing Santander (Server 1)
+https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=70a1da2d747401a393bf68a965070970&wsABSTime=1795833781
+
+#EXTINF:-1 tvg-id="23xmvkh6jx0jqg8_srv2" tvg-name="Levante vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Levante vs Racing Santander (Server 2)
+https://live2.streamhaulcdn.com/livecdn/channel-24.m3u8?auth_key=3000001795790581-0-0-0c8821b916fd7db2be45b9b39562dbe5
+
+#EXTINF:-1 tvg-id="23xmvkh6jx0jqg8_srv3" tvg-name="Levante vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Levante vs Racing Santander (Server 3)
+https://live3979.zundrixmediapipeline.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="23xmvkh6jx0jqg8_srv4" tvg-name="Levante vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small" group-title="UPCOMING | La Liga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:00 WIB] Levante vs Racing Santander (Server 4)
+https://live2.streamhaulcdn.com/livecdn/channel-11.m3u8?auth_key=3000001795790582-0-0-1c384f4860be316441befb7b91b45109
+
+#EXTINF:-1 tvg-id="vjxm8ghed890r6o_srv1" tvg-name="Maritimo vs CD Nacional" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhy23md7o/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:15 WIB] Maritimo vs CD Nacional (Server 1)
+https://live3979.zundrixmediapipeline.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghed890r6o_srv2" tvg-name="Maritimo vs CD Nacional" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhy23md7o/image/small" group-title="UPCOMING | Primeira Liga Portugal" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 03:15 WIB] Maritimo vs CD Nacional (Server 2)
+https://live2.streamhaulcdn.com/livecdn/channel-17.m3u8?auth_key=3000001795790582-0-0-b9f327081fd707b278acd504be004366
 
 #EXTINF:-1 tvg-id="3glrw7hne5jdqdy" tvg-name="Coventry City vs Ipswich Town" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/12 03:00 WIB] Coventry City vs Ipswich Town
-https://live2.streamhaulcdn.com/livecdn/channel-1.m3u8?auth_key=3000001795755525-0-0-fd743c0793a67b47d45e711bc2e1b144
+https://live2.streamhaulcdn.com/livecdn/channel-1.m3u8?auth_key=3000001795790578-0-0-a154fc2810e55cb559762e1a8378ec47
