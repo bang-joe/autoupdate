@@ -5,19 +5,22 @@
 ########################################################
 
 #EXTINF:-1 tvg-id="k82rekh2zydlrep" tvg-name="Bangladesh Police vs Abahani Limited" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjy3wql07/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Bangladesh Police vs Abahani Limited
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=7bb8e2f925cbc5a663651ed978c64adb&wsABSTime=1795777725
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=6b91946a7ff4edb50ee394cc5d129df7&wsABSTime=1795798721
 
 #EXTINF:-1 tvg-id="dn1m1gh9vnz4moe" tvg-name="Rahmatgonj MFS vs Mohammedan Dhaka" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghexe0moep/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Rahmatgonj MFS vs Mohammedan Dhaka
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=502862762bf4452dd5b7aef3925550c5&wsABSTime=1795777726
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=8909f417a5d6004756c623d4895f4cd0&wsABSTime=1795798722
 
 #EXTINF:-1 tvg-id="318q66h8zvpzqo9" tvg-name="Dhaka Wanderers vs Arambagh KS" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1hyknomojx/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] Dhaka Wanderers vs Arambagh KS
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=80827fcea0ae7e24472f0ab2a71b994e&wsABSTime=1795777727
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=d0e72e40d696d6c0c42be26a1c9ffbd8&wsABSTime=1795798723
 
 #EXTINF:-1 tvg-id="4wyrn4hyzdneq86" tvg-name="Bashundhara Kings vs Fortis FC" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghv411m0ve/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 18:30 WIB] Bashundhara Kings vs Fortis FC
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=b5d9e78d39a803eb640f0e0442aabf88&wsABSTime=1795777728
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=7fce94cae66b6ba7d3915f4cc1bbe6d4&wsABSTime=1795798726
 
 #EXTINF:-1 tvg-id="8yomo4h1o5pkq0j_srv1" tvg-name="Werder Bremen vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:30 WIB] Werder Bremen vs B. Monchengladbach (Server 1)
 https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1o5pkq0j_srv2" tvg-name="Werder Bremen vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small" group-title="UPCOMING | Bundesliga" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:30 WIB] Werder Bremen vs B. Monchengladbach (Server 2)
-https://live2.streamhaulcdn.com/livecdn/channel-15.m3u8?auth_key=3000001795734525-0-0-8053175c23a653680acf0000bc49c27f
+https://live2.streamhaulcdn.com/livecdn/channel-15.m3u8?auth_key=3000001795755524-0-0-bed930f18d4395c638308cf872ee8ab0
+
+#EXTINF:-1 tvg-id="3glrw7hne5jdqdy" tvg-name="Coventry City vs Ipswich Town" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small" group-title="UPCOMING | Premier League" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/12 03:00 WIB] Coventry City vs Ipswich Town
+https://live2.streamhaulcdn.com/livecdn/channel-1.m3u8?auth_key=3000001795755525-0-0-fd743c0793a67b47d45e711bc2e1b144
